@@ -1,10 +1,10 @@
 Architectures: iphoneos-arm
-Codename: CODENAME_HERE
+Codename: A Cruel Angel's Repo
 Components: main
 Date: Sat, 06 Feb 2021 05:37:05 +0000
-Description: DESCRIPTION_HERE
-Label: LABEL_HERE
-Origin: ORIGIN_HERE
+Description: Paisseon's jailbreak tweaks
+Label: A Cruel Angel's Repo
+Origin: A Cruel Angel's Repo
 Suite: stable
 Version: 1.0
 MD5Sum:
