@@ -8,6 +8,24 @@
         "title": "CR Darling",
         "package": "ai.paisseon.crdarling",
         "hideShadow": false
+    },
+    {
+        "url": "https://raw.githubusercontent.com/paisseon/paisseon.github.io/master/assets/Banners/RepoHeader.png",
+        "title": "Echidna",
+        "package": "ai.paisseon.echidna",
+        "hideShadow": false
+    },
+    {
+        "url": "https://raw.githubusercontent.com/paisseon/paisseon.github.io/master/assets/Banners/RepoHeader.png",
+        "title": "Satella",
+        "package": "ai.paisseon.satella",
+        "hideShadow": false
+    },
+    {
+        "url": "https://raw.githubusercontent.com/paisseon/paisseon.github.io/master/assets/Banners/RepoHeader.png",
+        "title": "Seele",
+        "package": "ai.paisseon.seele",
+        "hideShadow": false
     }
   ]
 }

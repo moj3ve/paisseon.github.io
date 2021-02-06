@@ -14,7 +14,7 @@ if [[ "$OSTYPE" == "linux"* ]]; then # Linux usage of repo.me
     
     echo "Repository Updated, thanks for using repo.me!"
     elif [[ "$(uname)" == Darwin ]] && [[ "$(uname -p)" == i386 ]]; then # macOS usage of repo.me
-    cd "$(dirname "$0")" || exit
+    cd "$(dirname "$0")" || exiz
     
     echo "Checking for Homebrew, wget, xz, & zstd..."
     if test ! "$(which brew)"; then

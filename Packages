@@ -2,55 +2,55 @@ Package: ai.paisseon.crdarling
 Architecture: iphoneos-arm
 Version: 1.0
 Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate
+Depends: firmware (>= 12.0), mobilesubstrate
 Filename: ./debians/CRDarling.deb
-Size: 5456
-MD5sum: d9db64d1110da1ed64bfc39e37c8711c
-SHA1: 8ca88c800087eb3253824b82e6a681a814bd5800
-SHA256: 8cd7c8b7ed5c2b6fda985c5ff0013cf7903132997ad00696bd45f05829deffee
-SHA512: d30520c381636c908b7a4b00cd3c7c9aa75f85acc7b1d1974eec0ace8b1502ee8c2da4a94a21185fd31c3a560d5820328a3533682e158f0c430979dcaf655b32
-Description: A library for my Crunchyroll hack
+Size: 6036
+MD5sum: d1f22871b080f74cedcb68384f7d8ba1
+SHA1: fd7dea97df27ebfa5c853f2489962dd5d7ecea45
+SHA256: 76615717ada368f55708e75d781535a16182303078fd2256737006b4b81a9f79
+SHA512: 40f0c69608037b75109339f747ad8fc86dde0e6f4e60a7c1f305b5dc6c44c879f77d3f5f02ff01c384ccc09929a114204af51b366cb546e1d139431bda383f48
+Description: Crunchyroll premium hack. Follow instructions at b.link/repo!
 Name: CR Darling
 Author: paisseon
 Depiction: https://github.com/paisseon
 SileoDepiction: https://github.com/paisseon
-Icon: https://i.imgur.com/SqS4T9N.png
+Icon: https://i.imgur.com/tgnQ1aJ.png
 
 Package: ai.paisseon.echidna
 Architecture: iphoneos-arm
-Version: 1.1
+Version: 1.0
 Maintainer: paisseon
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: ./debians/Echidna.deb
-Size: 38396
-MD5sum: e494cc3854d2db76458803cf7bbc9bee
-SHA1: 579f47a699ec670169c52fdd77c57834c2da510b
-SHA256: deefc280f28fe329ff860b6c59a7a9b9793f10021d6524bb86fc933589141251
-SHA512: 9f30bbe14734d828191a54f6e87133dacad428eb923eef5ca72d54f9bf84306b76f2ec030393f9b529750530d2cb9384b72634e97b497177e1e6f43f5ef299cb
+Size: 29804
+MD5sum: ce2f6b230a194435778088f40f6b7cd3
+SHA1: 7e17be42465f3b1bf27917f51c7b5eb91bc1d34e
+SHA256: c77b26cfa6d8fddabac46ebf9f6ad152ec158ebd8ae88dd88727c1d86bf3f013
+SHA512: 9037152b9cac768b5ff2a4693f7ddb6220d71cc0e1c307bbb6cdec7c8ab496fb476bfa2d4afca4661057459bac5f2e2290a0aeee418f7ac9656afcb3b10f8b90
 Description: I will guide you to the future you desire.
 Name: Echidna
 Author: paisseon
 Depiction: https://github.com/paisseon
 SileoDepiction: https://github.com/paisseon
-Icon: https://i.imgur.com/SqS4T9N.png
+Icon: https://i.imgur.com/RPZZo7y.png
 
 Package: ai.paisseon.satella
 Architecture: iphoneos-arm
 Version: 1.0
 Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: ./debians/Satella.deb
-Size: 38028
-MD5sum: 50d7182fe5453da794fed92ea32753ee
-SHA1: f95d1eb82a725a7977d21faf7a5a3d933b438ca0
-SHA256: 48c3de531d03d18d191e1ca1386efe5ce73153a038f6cba74b52f26c65d4f0f9
-SHA512: aabfbc4545778e4316237839aae29a2eb0c89d1016d72e78b4b032f75420220adde79c94796b251c90506723ca59d7a0e50ba76e0a9143dc6e9b75211bb58e0c
+Size: 29708
+MD5sum: c8f95e73c986d395f049dd97e3f5f719
+SHA1: 2d37105c6177235acd1b209860f5a50c1093ec93
+SHA256: 519cd8ec2f75ce1a5365b50845922f06259758a3481139b11449392383e16e44
+SHA512: e998063c4c15335b7db2c051924a676f1d318e0d9d7c829cde713cff43f015f9db332932ceb3686346ff4ba56becc3fc8de143c3df36adfa1870944f1fa4247f
 Description: Aishite.
 Name: Satella
 Author: paisseon
 Depiction: https://github.com/paisseon
 SileoDepiction: https://github.com/paisseon
-Icon: https://i.imgur.com/SqS4T9N.png
+Icon: https://i.imgur.com/HHOvZoD.png
 
 Package: ai.paisseon.seele
 Architecture: iphoneos-arm
@@ -58,15 +58,15 @@ Version: 1.0
 Maintainer: paisseon
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: ./debians/Seele.deb
-Size: 24360
-MD5sum: fdc187ddb5d8402de196e688e7f725b2
-SHA1: b6f3b2fc17b05232456cf945f4061d1a38b988d9
-SHA256: 1efa622f07d9699aa803d6351890f1f9ef8fdb3c4f80b16b49515d1fb1fc0b7e
-SHA512: add392147875b1ef9a2d66cca3f3b73d74883981cec60e2e9271744ca90fc452b54e07e7b3c91ef9ab80255876d5a73ec7f994f0655fc9e1963450a30ea1143e
-Description: Being alone has always been the norm for me, and yet...
+Size: 15864
+MD5sum: add2baf619b8da59f34d6bd5999afa61
+SHA1: 6eca5df043c3bff351ebc0585b8cf219c2680791
+SHA256: 6f44433784e195cb00467626ed3ec445aff6271d4a7f1d51949dea7da67bca31
+SHA512: a388d05902157221e154eff8c4241ccf1c1238c429326643d8cbd4239eb85d0a520afad40f096905d075b5c6fac8ae88b8880b5632b149b5f21044ef5b6f0c33
+Description: It shall be eternal proof that mankind ever existed.
 Name: Seele
 Author: paisseon
 Depiction: https://github.com/paisseon
 SileoDepiction: https://github.com/paisseon
-Icon: https://i.imgur.com/SqS4T9N.png
+Icon: https://i.imgur.com/ny2sIkb.png
 
