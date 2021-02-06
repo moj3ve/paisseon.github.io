@@ -4,9 +4,9 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/syns/repo.me/master/assets/Banners/RepoHeader.png",
-        "title": "Sample Package",
-        "package": "me.syns.samplepackage",
+        "url": "https://raw.githubusercontent.com/paisseon/paisseon.github.io/master/assets/Banners/RepoHeader.png",
+        "title": "CR Darling",
+        "package": "ai.paisseon.crdarling",
         "hideShadow": false
     }
   ]
