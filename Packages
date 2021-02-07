@@ -34,6 +34,24 @@ Depiction: https://github.com/paisseon
 SileoDepiction: https://github.com/paisseon
 Icon: https://i.imgur.com/RPZZo7y.png
 
+Package: ai.paisseon.kaworu
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: paisseon
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, ai.paisseon.libtenshi
+Filename: ./debians/Kaworu.deb
+Size: 131920
+MD5sum: 4570262d290f0bbee4a864ea5e25f8ff
+SHA1: 913851b5872ae6fc3dd1fa3525d45322102f8bcf
+SHA256: 1f61fc9c744aa3ad43ebcda37be8a00427c776e96960dd2cbb4080d987d5b1e4
+SHA512: 8e375d1a5a47aa28927d557de54ea68fbc7fd1f142090f40cbca972aaf781b6a7c923f187a2cb7534581bce11912063ee008cb12a77410d35b3e7d7e789b56ed
+Description: The thread of human hope is spun with the flax of sorrow.
+Name: Kaworu
+Author: paisseon
+Depiction: https://github.com/paisseon
+SileoDepiction: https://github.com/paisseon
+Icon: https://i.imgur.com/700w9dw.png
+
 Package: ai.paisseon.satella
 Architecture: iphoneos-arm
 Version: 1.0
@@ -69,4 +87,20 @@ Author: paisseon
 Depiction: https://github.com/paisseon
 SileoDepiction: https://github.com/paisseon
 Icon: https://i.imgur.com/ny2sIkb.png
+
+Package: ai.paisseon.libtenshi
+Architecture: iphoneos-arm
+Version: 1.0-1+debug
+Maintainer: paisseon
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debians/libtenshi.deb
+Size: 5256
+MD5sum: 41c00e5abbda330e5195662bc2927b5a
+SHA1: 8b932cad8ca0b24f43eaaf755fdb2f1794a5183b
+SHA256: 122e4e27140fcf4540e6af70e7fb402ff43dadfb15e97902579506096f907869
+SHA512: fbd2f9f9632842111139d706c7694c6ac9b8c6fd2f6d6341b4746a11a6882e69c52b1bec43162a76ec582f382df7623a2d4874ab54781d5d2d0fb6578d1637f3
+Description: Simple library for Paisseon tweaks.
+Name: libtenshi
+Author: paisseon
 
