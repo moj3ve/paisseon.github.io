@@ -1,3 +1,21 @@
+Package: jp.akusio.backgrounderaction13
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 244
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debians/BackgrounderAction13.deb
+Size: 14078
+MD5sum: c310760bda4ccc7e5ed3722aed9ef7de
+SHA1: b8619c32ee626b06376975eb84beecfd65cdae84
+SHA256: ad5dc505166d41fd2d60bd1ff9223e46ff1ba48999a57483cc78d8c946dec9c0
+SHA512: 7de4b826a9e436adb2d2252acd9283bbb9c3301e3fb02d7069e67c23c267e3f66b003aa0b7ac3450f25dea5c488a6007a21e45e30792c6b8f26b72715064f38e
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Name: BackgrounderAction2 for CCSupport
+Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
+Author: akusio <akusio-report@neko2.net>
+
 Package: ai.paisseon.crdarling
 Architecture: iphoneos-arm
 Version: 1.0
@@ -34,23 +52,58 @@ Depiction: https://github.com/paisseon
 SileoDepiction: https://github.com/paisseon
 Icon: https://i.imgur.com/RPZZo7y.png
 
-Package: ai.paisseon.kaworu
+Package: ai.paisseon.juiceless
 Architecture: iphoneos-arm
 Version: 1.0
 Maintainer: paisseon
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, ai.paisseon.libtenshi
-Filename: ./debians/Kaworu.deb
-Size: 131920
-MD5sum: 4570262d290f0bbee4a864ea5e25f8ff
-SHA1: 913851b5872ae6fc3dd1fa3525d45322102f8bcf
-SHA256: 1f61fc9c744aa3ad43ebcda37be8a00427c776e96960dd2cbb4080d987d5b1e4
-SHA512: 8e375d1a5a47aa28927d557de54ea68fbc7fd1f142090f40cbca972aaf781b6a7c923f187a2cb7534581bce11912063ee008cb12a77410d35b3e7d7e789b56ed
-Description: The thread of human hope is spun with the flax of sorrow.
-Name: Kaworu
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Juiceless Beta.deb
+Size: 31896
+MD5sum: bf2f683a22989d6391310fa6788ae93c
+SHA1: 3ec42d202c79ee3e01f50adcfd58c0a1cbf0473d
+SHA256: 581ac33afa828473356e70c6848cb4a40e7d3c513e27c18c1761c5cc3b2f5d73
+SHA512: 6d0184a75aefa50b07551fcb8861d37bf6c0e70fa313a14fcabf51660600758adf02dca5c947ac2d160742b9ac8c175ee99cb89a742beb6a7df215758bc3a3d0
+Description: Battery go UwU
+Name: Juiceless
 Author: paisseon
 Depiction: https://github.com/paisseon
 SileoDepiction: https://github.com/paisseon
-Icon: https://i.imgur.com/700w9dw.png
+Icon: https://i.imgur.com/HT7GCu1.png
+
+Package: ai.paisseon.mw3crack
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: paisseon
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debians/MW3Crack.deb
+Size: 3092
+MD5sum: f662108a324e86d7cfceac27a4927a8e
+SHA1: 276a22cca75907b9d96069cbed1b71d6ce9e6813
+SHA256: 88d59d86558c18c891c69839fd9a00ccb2ef4284f0a25cbdfa2a6326247daa5e
+SHA512: 44da530a229283aa094af1aa97e1ad33bab444d1811dad3f59d147889bfe4059e0d959f67fabfe0e6b80e19edb2701f7c4247a24dfcd7c18141e361fedb8a005
+Description: Fuck DRM, all my homies develop tweaks for the joy of coding, not capitalistic greed.
+Name: MilkyWay3 DRM Bypass
+Author: paisseon
+Depiction: https://github.com/paisseon
+SileoDepiction: https://github.com/paisseon
+Icon: https://i.imgur.com/RPZZo7y.png
+
+Package: jp.yuri.milkyway3
+Architecture: iphoneos-arm
+Version: 0.2.8
+Section: Tweaks
+Maintainer: YuriDevTeam
+Installed-Size: 4064
+Depends: mobilesubstrate, applist, preferenceloader, jp.akusio.backgrounderaction13, ai.paisseon.mw3crack
+Filename: ./debians/MilkyWay3.deb
+Size: 41552
+MD5sum: 271d95872322db827a0772e535cccdc3
+SHA1: 3658cc93a0638832fa8346ce56704c9e21511165
+SHA256: 5b4fe1df5e6945493245291edd06b2b99095405ad8f89bb1af86649e7d972304
+SHA512: 7208efa9a6fa67a76d5d0f25d66bb259ef09c097207bee053ba477033b8e4041ba033ba7234ba11f35611966e52c958304aa914776825f4d69f6aaca56c3a2de
+Description: multitasking for iOS14.
+Name: MilkyWay3 Cracked
+Author: YuriDevTeam
 
 Package: ai.paisseon.satella
 Architecture: iphoneos-arm
@@ -76,31 +129,15 @@ Version: 1.0
 Maintainer: paisseon
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: ./debians/Seele.deb
-Size: 15864
-MD5sum: add2baf619b8da59f34d6bd5999afa61
-SHA1: 6eca5df043c3bff351ebc0585b8cf219c2680791
-SHA256: 6f44433784e195cb00467626ed3ec445aff6271d4a7f1d51949dea7da67bca31
-SHA512: a388d05902157221e154eff8c4241ccf1c1238c429326643d8cbd4239eb85d0a520afad40f096905d075b5c6fac8ae88b8880b5632b149b5f21044ef5b6f0c33
+Size: 15880
+MD5sum: 23931e824fb80920e6753fc55e6294df
+SHA1: 026d4d800f2315e188b24cb0880bc630819411a7
+SHA256: 46aadfd5a6063490807c8b22e4714eb18484c188a2f94a26a079e6eac8745b35
+SHA512: 8d97ea1621a5a086357e82c0c63df27992578fc4ad7b446041f00c6abfb892faf1d77c6c29af571260fff1a4a235b60e5915ff59b76581d453bd1534ebee74f4
 Description: It shall be eternal proof that mankind ever existed.
 Name: Seele
 Author: paisseon
 Depiction: https://github.com/paisseon
 SileoDepiction: https://github.com/paisseon
 Icon: https://i.imgur.com/ny2sIkb.png
-
-Package: ai.paisseon.libtenshi
-Architecture: iphoneos-arm
-Version: 1.0-1+debug
-Maintainer: paisseon
-Installed-Size: 200
-Depends: mobilesubstrate
-Filename: ./debians/libtenshi.deb
-Size: 5256
-MD5sum: 41c00e5abbda330e5195662bc2927b5a
-SHA1: 8b932cad8ca0b24f43eaaf755fdb2f1794a5183b
-SHA256: 122e4e27140fcf4540e6af70e7fb402ff43dadfb15e97902579506096f907869
-SHA512: fbd2f9f9632842111139d706c7694c6ac9b8c6fd2f6d6341b4746a11a6882e69c52b1bec43162a76ec582f382df7623a2d4874ab54781d5d2d0fb6578d1637f3
-Description: Simple library for Paisseon tweaks.
-Name: libtenshi
-Author: paisseon
 
