@@ -77,18 +77,17 @@ Maintainer: paisseon
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: ./debians/MW3Crack.deb
 Size: 3092
-MD5sum: f662108a324e86d7cfceac27a4927a8e
-SHA1: 276a22cca75907b9d96069cbed1b71d6ce9e6813
-SHA256: 88d59d86558c18c891c69839fd9a00ccb2ef4284f0a25cbdfa2a6326247daa5e
-SHA512: 44da530a229283aa094af1aa97e1ad33bab444d1811dad3f59d147889bfe4059e0d959f67fabfe0e6b80e19edb2701f7c4247a24dfcd7c18141e361fedb8a005
-Description: Fuck DRM, all my homies develop tweaks for the joy of coding, not capitalistic greed.
+MD5sum: 122c71677186e830b3a0f1fdae464ec9
+SHA1: e12c0c18d7e75fc3c1460fe2714f841e2c549cef
+SHA256: 1a8e0315a96eac3e185b0eb503481938b37003b086a5203763dd95416532e14e
+SHA512: 6e426867b15f2f8d3db4d1cd700bd93f72117b7d40a8e954a3b882f9672fcaae5c60de38171e30caadc564faedab3adca035001a8787299178d2edbb78b7e894
+Description: Да здравствует созданный волей народов Единый, могучий Советский Союз!
 Name: MilkyWay3 DRM Bypass
 Author: paisseon
 Depiction: https://github.com/paisseon
 SileoDepiction: https://github.com/paisseon
-Icon: https://i.imgur.com/RPZZo7y.png
 
-Package: jp.yuri.milkyway3
+Package: ai.paisseon.milkyway3
 Architecture: iphoneos-arm
 Version: 0.2.8
 Section: Tweaks
@@ -96,13 +95,13 @@ Maintainer: YuriDevTeam
 Installed-Size: 4064
 Depends: mobilesubstrate, applist, preferenceloader, jp.akusio.backgrounderaction13, ai.paisseon.mw3crack
 Filename: ./debians/MilkyWay3.deb
-Size: 41552
-MD5sum: 271d95872322db827a0772e535cccdc3
-SHA1: 3658cc93a0638832fa8346ce56704c9e21511165
-SHA256: 5b4fe1df5e6945493245291edd06b2b99095405ad8f89bb1af86649e7d972304
-SHA512: 7208efa9a6fa67a76d5d0f25d66bb259ef09c097207bee053ba477033b8e4041ba033ba7234ba11f35611966e52c958304aa914776825f4d69f6aaca56c3a2de
+Size: 41524
+MD5sum: 452ae74f347fd5161d56cd3bfde2f47a
+SHA1: a27305ffd0cae3562be199129faa5fe83637f07d
+SHA256: c562f18982c86aa96fed5f4920b513acd736b2cd5f8ba2dfee792b9e22880e57
+SHA512: 87923fa6c550d634e369549e91d511c87f0c8bfb960dd418f8bf46cc6cc22e6f3f7fd9a38c0fb10a5b4ade4888545e1c12534d5f3e47fab993ded98ccbc26559
 Description: multitasking for iOS14.
-Name: MilkyWay3 Cracked
+Name: MilkyWay3
 Author: YuriDevTeam
 
 Package: ai.paisseon.satella

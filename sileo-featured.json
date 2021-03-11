@@ -4,21 +4,21 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://i.imgur.com/tgnQ1aJ.png",
-        "title": "CR Darling",
-        "package": "ai.paisseon.crdarling",
+        "url": "https://i.imgur.com/HHOvZoD.png",
+        "title": "Satella",
+        "package": "ai.paisseon.satella",
+        "hideShadow": false
+    },
+    {
+        "url": "https://i.imgur.com/HT7GCu1.png",
+        "title": "Juiceless",
+        "package": "ai.paisseon.juiceless",
         "hideShadow": false
     },
     {
         "url": "https://i.imgur.com/RPZZo7y.png",
         "title": "Echidna",
         "package": "ai.paisseon.echidna",
-        "hideShadow": false
-    },
-    {
-        "url": "https://i.imgur.com/HHOvZoD.png",
-        "title": "Satella",
-        "package": "ai.paisseon.satella",
         "hideShadow": false
     },
     {
