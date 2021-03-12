@@ -54,15 +54,15 @@ Icon: https://i.imgur.com/RPZZo7y.png
 
 Package: ai.paisseon.juiceless
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Maintainer: paisseon
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: ./debians/Juiceless Beta.deb
-Size: 31896
-MD5sum: bf2f683a22989d6391310fa6788ae93c
-SHA1: 3ec42d202c79ee3e01f50adcfd58c0a1cbf0473d
-SHA256: 581ac33afa828473356e70c6848cb4a40e7d3c513e27c18c1761c5cc3b2f5d73
-SHA512: 6d0184a75aefa50b07551fcb8861d37bf6c0e70fa313a14fcabf51660600758adf02dca5c947ac2d160742b9ac8c175ee99cb89a742beb6a7df215758bc3a3d0
+Filename: ./debians/Juiceless.deb
+Size: 86620
+MD5sum: 05271bb45022d6b13ce486c263ef0db3
+SHA1: b56961eee612393c33642a6fff113074ffc149c7
+SHA256: bc3d8ee6a76675669e5c4ab75005e67fa624c2275b67ca0f5b511027f73729e7
+SHA512: 265273d1305409515ae8f29378b438e96ec35c6e1ab6edd628a12c5557cc11b8fd7889edbc3ffffb8c08a849aff8d40bdb2f7bf7814579d53328b460b20ec0a4
 Description: Battery go UwU
 Name: Juiceless
 Author: paisseon
@@ -76,18 +76,18 @@ Version: 1.0
 Maintainer: paisseon
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: ./debians/MW3Crack.deb
-Size: 3092
-MD5sum: 122c71677186e830b3a0f1fdae464ec9
-SHA1: e12c0c18d7e75fc3c1460fe2714f841e2c549cef
-SHA256: 1a8e0315a96eac3e185b0eb503481938b37003b086a5203763dd95416532e14e
-SHA512: 6e426867b15f2f8d3db4d1cd700bd93f72117b7d40a8e954a3b882f9672fcaae5c60de38171e30caadc564faedab3adca035001a8787299178d2edbb78b7e894
+Size: 3116
+MD5sum: 7ad66173442885d228e40ce171559a70
+SHA1: 6181f83ff0c8be423b246d1c5d90cfcbef07cf60
+SHA256: 428cf8110498f08ac379cbaf5c6e0c1cc1effde57148c7a88c8222c4eb50b3eb
+SHA512: e1658a9975a9dd35ff75a070b659cb909b264c3d9b93803a15802c090521b361618ba0483bc72a610c1d06fb83374da58b7c45d42c925d6f92a0dfc65c82932b
 Description: Да здравствует созданный волей народов Единый, могучий Советский Союз!
 Name: MilkyWay3 DRM Bypass
 Author: paisseon
 Depiction: https://github.com/paisseon
 SileoDepiction: https://github.com/paisseon
 
-Package: ai.paisseon.milkyway3
+Package: jp.yuri.milkyway3
 Architecture: iphoneos-arm
 Version: 0.2.8
 Section: Tweaks
@@ -95,14 +95,15 @@ Maintainer: YuriDevTeam
 Installed-Size: 4064
 Depends: mobilesubstrate, applist, preferenceloader, jp.akusio.backgrounderaction13, ai.paisseon.mw3crack
 Filename: ./debians/MilkyWay3.deb
-Size: 41524
-MD5sum: 452ae74f347fd5161d56cd3bfde2f47a
-SHA1: a27305ffd0cae3562be199129faa5fe83637f07d
-SHA256: c562f18982c86aa96fed5f4920b513acd736b2cd5f8ba2dfee792b9e22880e57
-SHA512: 87923fa6c550d634e369549e91d511c87f0c8bfb960dd418f8bf46cc6cc22e6f3f7fd9a38c0fb10a5b4ade4888545e1c12534d5f3e47fab993ded98ccbc26559
+Size: 41608
+MD5sum: 0232ea1565e97da44b0c95006aac9b8e
+SHA1: a6336f044fd1843d146e1691e6f8816b115c2449
+SHA256: 4a6f7355c3220bd349e0b9fa2b8e27af7b21a2a1a61d658560a11be60d24f78d
+SHA512: 3691f4e6a51c487c5eb0c96e194c787079334878a14f12e5e37245e8aa0123733cf55292e0e0750f7a3c3c08cc4db2ff9d13ff8e69cbd18723539ed39f1fb455
 Description: multitasking for iOS14.
 Name: MilkyWay3
 Author: YuriDevTeam
+Icon: i.imgur.com/Jm5XuHl.png
 
 Package: ai.paisseon.satella
 Architecture: iphoneos-arm
