@@ -87,19 +87,19 @@ Author: paisseon
 Depiction: https://github.com/paisseon
 SileoDepiction: https://github.com/paisseon
 
-Package: jp.yuri.milkyway3
+Package: ai.paisseon.milkyway3
 Architecture: iphoneos-arm
 Version: 0.2.8
 Section: Tweaks
 Maintainer: YuriDevTeam
 Installed-Size: 4064
 Depends: mobilesubstrate, applist, preferenceloader, jp.akusio.backgrounderaction13, ai.paisseon.mw3crack
-Filename: ./debians/MilkyWay3.deb
-Size: 41608
-MD5sum: 0232ea1565e97da44b0c95006aac9b8e
-SHA1: a6336f044fd1843d146e1691e6f8816b115c2449
-SHA256: 4a6f7355c3220bd349e0b9fa2b8e27af7b21a2a1a61d658560a11be60d24f78d
-SHA512: 3691f4e6a51c487c5eb0c96e194c787079334878a14f12e5e37245e8aa0123733cf55292e0e0750f7a3c3c08cc4db2ff9d13ff8e69cbd18723539ed39f1fb455
+Filename: ./debians/MilkyWay3 (Sileo Version).deb
+Size: 41604
+MD5sum: 938c428db9d8c3f63d8f96800954b1c4
+SHA1: a1ee15bfaefa7774bf299dbf1f28f2854365fca6
+SHA256: 774fb5a9e5b8ec56860189bac005c66f5cd6ea73dc694331743dfaccde538b9a
+SHA512: b8850c4a76e6c6d379da71ec08a7111d75f58531515023de01744d4faba32c72687aed12fd1458b687da46cdc2e7f6e578397b6f8985d03f856f9e2d0a71f73c
 Description: multitasking for iOS14.
 Name: MilkyWay3
 Author: YuriDevTeam
