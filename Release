@@ -1,37 +1,37 @@
 Architectures: iphoneos-arm
 Codename: CORE
 Components: main
-Date: Sat, 13 Mar 2021 15:34:58 +0000
+Date: Sat, 13 Mar 2021 18:03:21 +0000
 Description: Magic hax by Lilly
 Label: Cult of Rin Enthusiasts
 Origin: CORE
 Suite: stable
 Version: 1.0
 MD5Sum:
- cd0ca9c27e518c7a91cee43c26606937             4124 Packages
- 2157ed5720240b4a29c9b51682e4fdaf             1841 Packages.bz2
- 47f93d6c1ff19a4a6b0097d363ef8bfd             1745 Packages.gz
- e655dd9f5a2633140e0ef5b8ba1dea04             1728 Packages.xz
+ d8bba03b678bbf726aacabf2bb6122c1             4691 Packages
+ 25a97caade0bfdfabb2872c2f7e3628a             2037 Packages.bz2
+ 12166814c6a006894a4ee827c1ec0386             1958 Packages.gz
+ 0a1761007aa1049dab43a58dee404006             1924 Packages.xz
  d41d8cd98f00b204e9800998ecf8427e                0 Packages.zst
- d18da2199c13c199b32803f39be75f3c              201 Release
+ 8d7375007596a3c901cbca2e39c08167              201 Release
 SHA1:
- 1532c77c77f101beba9c819318daaf8bb4f8a711             4124 Packages
- 8316d1eefd2687bbdc7443a002e42b47b05ae9a5             1841 Packages.bz2
- c2c3fdd3d6e4dff004e352363a9d9871fab2ca27             1745 Packages.gz
- 39c0c40215c3502b5fcfe9a300436bb408114118             1728 Packages.xz
+ b836787e7db0c85f99b81c6675299e11c4f2b554             4691 Packages
+ cfd788a8df184921bfc839f943fea69d7b26c9b0             2037 Packages.bz2
+ 92a190954d985c13fa5a7092cc1936f48b90b26e             1958 Packages.gz
+ 6ac378bc05323fd68783774eb9793427462bf96b             1924 Packages.xz
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages.zst
- 2200adf5eaa6b31ead407c2b914a9e39a0f8646a              201 Release
+ a2bb4bd7e25a4981d1d86973ae21a71add8a87bb              201 Release
 SHA256:
- 93baf276383b2e056ec366ff843ba06c9c11934ac33d5b85e9b936a887df4e00             4124 Packages
- 10a9ef647ea699bbabfcb65f6a00646ac767616ceaa2df50b0812408d412e6c3             1841 Packages.bz2
- b11db7fe53c3627a778a06949bc6963aa14836fa8ae45c90f68908f15f31a0d8             1745 Packages.gz
- 3da8e9d93098939f1b6961eaa09b607656bb015fd00a8c96bb58a7c53f8ffa73             1728 Packages.xz
+ f030eedde7b7553039ced4e4431460ea28cc0fd62b2b8f8c962589bfd35f4cd0             4691 Packages
+ 256d5b0446877e393e646a45dfdf25f5176c71e243dbe837fd1f3dfd145dbeb5             2037 Packages.bz2
+ ea80c953a52e1aa651579cc096af15056ca03345532f03a873b20b323f376d81             1958 Packages.gz
+ 6fdbedb349d6c70fdd80a7bfe3d1c724fc18473054365c5ab398622aa0242ac2             1924 Packages.xz
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages.zst
- 4e51bcf1d2c8ba6e17d7d24de201b0d2733dc0eb589495df205598068faa6105              201 Release
+ 7c9f27991b11fc1decfea09890ed579e7a076cca753ce27300dae3cb5124ff39              201 Release
 SHA512:
- c5396823279cad6c20a86141a768f5472a051a3001c7632bad71dc63d9cf732c87d3139cf62ab0965714f932291c4998a59c1bec3e7aad6b60f2bc461fa6bd86             4124 Packages
- a36d8ac14cc00d1dcb57f03840c3c218988950d583fd68c2a1a32b69e46f0e7b591bab8ce8617708681775007da22a71792462bfb440e96c7ad333b0c0ef39e5             1841 Packages.bz2
- ad4e9ade2eb3310d104af5c7d33f619c2127d712bbc9580b239e5074099b37c9ec62b7252f5083c77465a1914a5ab4c294fa1eeaa2698cac45057f1b3c8e7ccb             1745 Packages.gz
- 2df0caa98585b722b7c03042f506d43f60a3345f3319d342f4af34eaf65b20481c9b8085228b51574d75db3aabb16bdfa4001fea1007576f9899b3e755116216             1728 Packages.xz
+ 0bf227d001f4dc04d8a7e2c91ba1e5e969911ad4f72161085243c04577264e9d6eb53720e081f5763599adebd249656bb91cb6b76af2600087fc2826a93853be             4691 Packages
+ 5f9085f5d02dda45588e17b2fd42ccfd5c962564f7688b9b596fab3836bd2d9840002432f05335ba97b2eaa12b2f97d0f384e346501fb8aa0d7ad717e2926b91             2037 Packages.bz2
+ 1398b6d4f0725a7d8a412c6bfe75aac542f312e7a6f88150749f72ff41efc333f85e9af626dfb35f210087ab24075331bcde6aa4c49bf00d7bbe7483e69891ff             1958 Packages.gz
+ ff8bb9731fe845bfda691d2041f15e4cdd8bafb53df6b84d798987c2334aa81c0dffe8e2386609c3b9f80b8d9ec07416764ac74f3721c3e3a04bac1a8122b6fd             1924 Packages.xz
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages.zst
- 1ee385610f8c26f711f1140d94cdad75ed986f64145edf6f0abb734b0534683dabfc270b4f1af3a0eb55e393bb35f35c2b2659d6c0bee7edb8aa816c9f761188              201 Release
+ f88a243f16976f9c558daf1064b5392bf96a45468d77e8ab41bc14594aefab52ea32a8abea22a50de0df63fc5709884d336f3260fadc249000f53a564003230b              201 Release

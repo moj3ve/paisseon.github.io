@@ -17,12 +17,6 @@ if [[ "$OSTYPE" == "linux"* ]]; then # Linux usage of repo.me
     cd "$(dirname "$0")" || exiz
     
     echo "Checking for Homebrew, wget, xz, & zstd..."
-    if test ! "$(which brew)"; then
-        /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-    fi
-    brew list --verbose wget || brew install wget
-    brew list --verbose xz || brew install xz
-    brew list --verbose zstd || brew install zstd
     clear
     
     echo "apt-ftparchive compiled by @Diatrus" # credits to Hayden!

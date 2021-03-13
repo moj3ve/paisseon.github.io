@@ -88,6 +88,22 @@ Depiction: https://github.com/paisseon
 SileoDepiction: https://github.com/paisseon
 Icon: https://i.imgur.com/HHOvZoD.png
 
+Package: ai.paisseon.saya
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: paisseon
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Saya.deb
+Size: 15798652
+MD5sum: c51f66b438f9b59ff01a12fcfa74eeb9
+SHA1: 1089c73d535ab3ca59a6aa4560e3b84ad4bda926
+SHA256: ae1f2191a0de63736ec6bc39eff84b790ffc2702f7015d9938283bb02769318e
+SHA512: a4aae1264e1e5318dacacd00a3c93ba6830fdd271652ebaf3ba4392e55a81ec4b55b901c9a081f056f9a143891c038aaa077e33a1579cbcc4141241044aef43c
+Description: Charcoal witch
+Name: Saya
+Author: paisseon
+Icon: https://i.imgur.com/R6s4oFT.png
+
 Package: ai.paisseon.seele
 Architecture: iphoneos-arm
 Version: 1.0
