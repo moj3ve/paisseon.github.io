@@ -1,32 +1,14 @@
-Package: jp.akusio.backgrounderaction13
-Architecture: iphoneos-arm
-Version: 0.1.4
-Section: Tweaks
-Maintainer: akusio <akusio-report@neko2.net>
-Installed-Size: 244
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debians/BackgrounderAction13.deb
-Size: 14078
-MD5sum: c310760bda4ccc7e5ed3722aed9ef7de
-SHA1: b8619c32ee626b06376975eb84beecfd65cdae84
-SHA256: ad5dc505166d41fd2d60bd1ff9223e46ff1ba48999a57483cc78d8c946dec9c0
-SHA512: 7de4b826a9e436adb2d2252acd9283bbb9c3301e3fb02d7069e67c23c267e3f66b003aa0b7ac3450f25dea5c488a6007a21e45e30792c6b8f26b72715064f38e
-Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
-Name: BackgrounderAction2 for CCSupport
-Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
-Author: akusio <akusio-report@neko2.net>
-
 Package: ai.paisseon.crdarling
 Architecture: iphoneos-arm
 Version: 1.0
 Maintainer: paisseon
 Depends: firmware (>= 12.0), mobilesubstrate
 Filename: ./debians/CRDarling.deb
-Size: 6036
-MD5sum: d1f22871b080f74cedcb68384f7d8ba1
-SHA1: fd7dea97df27ebfa5c853f2489962dd5d7ecea45
-SHA256: 76615717ada368f55708e75d781535a16182303078fd2256737006b4b81a9f79
-SHA512: 40f0c69608037b75109339f747ad8fc86dde0e6f4e60a7c1f305b5dc6c44c879f77d3f5f02ff01c384ccc09929a114204af51b366cb546e1d139431bda383f48
+Size: 6016
+MD5sum: 47834bbf84eb10a60f2af1c17441aad4
+SHA1: fb02f0455f2f0981561c5e160ea79541ba4cc59a
+SHA256: 8dfdf66301755e2444dc83287913755b2abd9b5a9c88d821420b466619082e5d
+SHA512: 88fd931e077b3c70ea024c0748d06de2b0c60f06da09f0b3014577c1cfd8104944a83acd62c066c62f61242ac1c65fbf84916b1fa8027e2880b6ceea6969f8d5
 Description: Crunchyroll premium hack. Follow instructions at b.link/repo!
 Name: CR Darling
 Author: paisseon
@@ -40,11 +22,11 @@ Version: 1.0
 Maintainer: paisseon
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: ./debians/Echidna.deb
-Size: 29804
-MD5sum: ce2f6b230a194435778088f40f6b7cd3
-SHA1: 7e17be42465f3b1bf27917f51c7b5eb91bc1d34e
-SHA256: c77b26cfa6d8fddabac46ebf9f6ad152ec158ebd8ae88dd88727c1d86bf3f013
-SHA512: 9037152b9cac768b5ff2a4693f7ddb6220d71cc0e1c307bbb6cdec7c8ab496fb476bfa2d4afca4661057459bac5f2e2290a0aeee418f7ac9656afcb3b10f8b90
+Size: 29752
+MD5sum: 3dab5f4b00e97cd7b62460b981e535ee
+SHA1: 5e5d9f7a6564696dd67e95eab04fc8fd5d90f3b1
+SHA256: 62731ae12ba3c938879a74b3e1835b651251362c8cd0f757fac141e6543c3ebf
+SHA512: a72bd41bf213adec098ea1b201ece36b9089a472fd4873f50ef84247c30a3285c89c62bf5bbc34531e97d820d131b02a6fd47483bb5b8a1466fc303c0365552b
 Description: I will guide you to the future you desire.
 Name: Echidna
 Author: paisseon
@@ -70,36 +52,19 @@ Depiction: https://github.com/paisseon
 SileoDepiction: https://github.com/paisseon
 Icon: https://i.imgur.com/HT7GCu1.png
 
-Package: ai.paisseon.mw3crack
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: ./debians/MW3Crack.deb
-Size: 3116
-MD5sum: 7ad66173442885d228e40ce171559a70
-SHA1: 6181f83ff0c8be423b246d1c5d90cfcbef07cf60
-SHA256: 428cf8110498f08ac379cbaf5c6e0c1cc1effde57148c7a88c8222c4eb50b3eb
-SHA512: e1658a9975a9dd35ff75a070b659cb909b264c3d9b93803a15802c090521b361618ba0483bc72a610c1d06fb83374da58b7c45d42c925d6f92a0dfc65c82932b
-Description: Да здравствует созданный волей народов Единый, могучий Советский Союз!
-Name: MilkyWay3 DRM Bypass
-Author: paisseon
-Depiction: https://github.com/paisseon
-SileoDepiction: https://github.com/paisseon
-
 Package: ai.paisseon.milkyway3
 Architecture: iphoneos-arm
 Version: 0.2.8
 Section: Tweaks
 Maintainer: YuriDevTeam
 Installed-Size: 4064
-Depends: mobilesubstrate, applist, preferenceloader, jp.akusio.backgrounderaction13, ai.paisseon.mw3crack
-Filename: ./debians/MilkyWay3 (Sileo Version).deb
-Size: 41604
-MD5sum: 938c428db9d8c3f63d8f96800954b1c4
-SHA1: a1ee15bfaefa7774bf299dbf1f28f2854365fca6
-SHA256: 774fb5a9e5b8ec56860189bac005c66f5cd6ea73dc694331743dfaccde538b9a
-SHA512: b8850c4a76e6c6d379da71ec08a7111d75f58531515023de01744d4faba32c72687aed12fd1458b687da46cdc2e7f6e578397b6f8985d03f856f9e2d0a71f73c
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debians/MilkyWay3 (Sileo version).deb
+Size: 71452
+MD5sum: a3e1ad5030f116dd81a964b4b06fd90c
+SHA1: f44d788f2cca0ba3bbc149d420e2b44c0cd3803c
+SHA256: c8c503e0cfb0ac7244b9dbaf8286e5de775b13cd86fb866d4c4f54480f4f11ed
+SHA512: 23e7106840c9b4372e32464a06ed5d908ed7aab6aaa42e245a28ff78ae807d17787c74d3dc29e31727baa23ee448b7482dc4ba2708bec4b4573014a80d123b05
 Description: multitasking for iOS14.
 Name: MilkyWay3
 Author: YuriDevTeam
@@ -111,11 +76,11 @@ Version: 1.0
 Maintainer: paisseon
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: ./debians/Satella.deb
-Size: 9584
-MD5sum: 558ffffa8b07444d57d87a1175668c73
-SHA1: 0efba258a4a531252ef0af4ac5c0e865d14626a4
-SHA256: 22e575f57fcf1ca6e9b6f664354d881ae3b3a815e3a27d73852e532064f5ac94
-SHA512: 3244acfbbcc2e2e9a397b45509955a85f2e791d03fdf2602d579756b0a8c2b9956dfc393b2e2255401e56cf88eef030e8b4d0601fc3331da2fe2d8fa61e0692c
+Size: 9560
+MD5sum: 6f1f6bf7ad42238b28a69cbf2b230ccc
+SHA1: d1edca192735eec4793903e05465d289fc93d1b5
+SHA256: 4c2dc10ede23dd679db829b5d6e13659c93d666f7af3800fa934577fe729dcfc
+SHA512: 3a75ea49817a3a68d9313fa5e599f0d2105d1d0ab0030e7d73e693209d544bcd5c8f5619c90021181ee7c71b79c86d4cb138cda71d9fb9c59c589c9e5ec6af5b
 Description: Aishite.
 Name: Satella
 Author: paisseon
