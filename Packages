@@ -1,21 +1,3 @@
-Package: ai.paisseon.crdarling
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: paisseon
-Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debians/CRDarling.deb
-Size: 6016
-MD5sum: 47834bbf84eb10a60f2af1c17441aad4
-SHA1: fb02f0455f2f0981561c5e160ea79541ba4cc59a
-SHA256: 8dfdf66301755e2444dc83287913755b2abd9b5a9c88d821420b466619082e5d
-SHA512: 88fd931e077b3c70ea024c0748d06de2b0c60f06da09f0b3014577c1cfd8104944a83acd62c066c62f61242ac1c65fbf84916b1fa8027e2880b6ceea6969f8d5
-Description: Crunchyroll premium hack. Follow instructions at b.link/repo!
-Name: CR Darling
-Author: paisseon
-Depiction: https://github.com/paisseon
-SileoDepiction: https://github.com/paisseon
-Icon: https://i.imgur.com/tgnQ1aJ.png
-
 Package: ai.paisseon.echidna
 Architecture: iphoneos-arm
 Version: 1.0
