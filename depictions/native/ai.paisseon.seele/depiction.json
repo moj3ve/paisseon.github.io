@@ -1,96 +1,67 @@
 {
-	"minVersion": "13.0",
-	"headerImage": "https://raw.githubusercontent.com/paisseon/paisseon.github.io/master/assets/Banners/RepoHeader.png",
-	"tintColor": "#5e2feb",
-	"tabs": [
-		{
-			"tabname": "Details",
-			"views": [
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## Seele\nBeing alone has always been the norm for me, and yet..."
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "Latest Version",
-					"class": "DepictionHeaderView"
-				},
-				{
-					"title": "Version",
-					"text": "1.1",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Released",
-					"text": "5 Feb 2021",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Price",
-					"text": "Free",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Developer",
-					"text": "Paisseon",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Website",
-					"action": "github.com/paisseon",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
-		{
-			"tabname": "Changelog",
-			"views": [
-				{
-					"title": "1.1",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Adds preferences.",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 5 Feb 2021</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.0",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Initial release.",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 20 Jan 2021</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+    "minVersion": "13.0",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "useBottomMargin": false,
+                    "title": "Seele",
+                    "useBoldText": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "It shall be the eternal proof that mankind ever existed.",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "markdown": "Moves the PIP window around and removes the scaling limit. Pretty simple ahaha\n\nPinch two fingers to shrink, pan two fingers to grow, drag with one finger to move, and hold in place with one finger to revert to default.\n\nWorks with Titan tweak fully.\n\n**Supports armv7, arm64, and arm64e devices on iOS 13-14**",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.0",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "29-10-2020",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Paisseon",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ]
+        }
+    ],
+    "tintColor": "#8600ff",
+    "headerImage": "https://github.com/Paisseon/paisseon.github.io/blob/master/assets/repo/Banners/RepoHeader.png",
+    "class": "DepictionTabView"
 }
