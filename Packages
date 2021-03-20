@@ -91,15 +91,15 @@ Icon: https://i.imgur.com/R6s4oFT.png
 
 Package: ai.paisseon.seele
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 2.0
 Maintainer: paisseon
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: ./debians/Seele.deb
-Size: 15916
-MD5sum: cf0a5fe563e49c2587aa396519ed6db3
-SHA1: 6e5d99ca1e932eb40279c48ea1c2854ea98c60f3
-SHA256: d8b495998b49d04422f37701bd47dcad18644800e8ed20b3baf6bc41a3ae2baa
-SHA512: da0a0a58d96b9cd9f8f1915ff29aaf5e64bc2a8655b83c20765e6d38514796e458cd62ded67cd353030676797e8c86e5905a78da01ece7eb1b433421ea9b8b8e
+Size: 22640
+MD5sum: 2f5e74caa42f749d63ca604f77ac2807
+SHA1: fc628fcaee858e5113263e3b1134e08a969ed9e2
+SHA256: d15f94fe1c132858dbf95c11e8d0dd010fa4b4aece9645efb1d3c8a4365b1f64
+SHA512: cfaa2b113aca46fa4378f59023d3725b3a1c52ad55fdbbee9dc07a1eb3e0a2dae74f73fb6cdd2452e19de75c1d87b0f3096cee0d043c9ebc2b84769fe2fefe02
 Description: It shall be eternal proof that mankind ever existed.
 Name: Seele
 Author: paisseon
