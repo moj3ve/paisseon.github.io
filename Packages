@@ -2,19 +2,16 @@ Package: ai.paisseon.echidna
 Architecture: iphoneos-arm
 Version: 1.0
 Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: ./debians/Echidna.deb
-Size: 29844
-MD5sum: a3d7d0920323d99b84c405cc21deae38
-SHA1: acd747c6e4d1946afb7a5e405f29d344edcd9a10
-SHA256: 1e4acbe2922585de68735b9485fbbbefc9f65df5d368eede9321bb4a676fe09b
-SHA512: 2db894d749775a5ce03619200723b4fc1add2117740dcf3e823ed3d6299e4419e60120882097c5eda78a1639ff5b7f49e82a468562d22ba619d5fcaf60395620
+Size: 29736
+MD5sum: efdffa5ce806ad4736fc7652a3127f8a
+SHA1: 956a3c005e98f54b6a57211bcf8b30e14c6d608e
+SHA256: 1e77f3ea4259634cb94070067b521b46c11277a1ed6ae93e6a1666330ed4d768
+SHA512: d948e7f09925b16484b5055334e5a578dc20afad116ed168ed71e89889a8321bb1f57b5afdf632dc2f39fae26e156f20a6ab599d25d620a0f9187573bad46797
 Description: I will guide you to the future you desire.
 Name: Echidna
 Author: paisseon
-Depiction: https://github.com/paisseon
-SileoDepiction: https://github.com/paisseon/paisseon.github.io/tree/master/depictions/native/ai.paisseon.echidna/depiction.json
- Architecture: iphoneos-arm
 Icon: https://i.imgur.com/RPZZo7y.png
 
 Package: ai.paisseon.juiceless
@@ -78,11 +75,11 @@ Version: 1.0
 Maintainer: paisseon
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/Saya.deb
-Size: 15798612
-MD5sum: 2fe5278075db5056f6f73b9b8e2af5d0
-SHA1: 0b7990196374b6a02722a9ff37668d857bbe2964
-SHA256: 64da85ee7cdf4ce0f0130e12c54fc63fd8c76e67f2f544a05563b99a9741697e
-SHA512: cd9d6bcc3576ac85a55f10fa215ed47f465bd4f358e93f071d465436bf08c1ea5b9c5066c4d5577c18110115aea4df4af0fbf340bd58014162f53b0dfc5f4d4e
+Size: 1458012
+MD5sum: d89887c1f864e6769606cb4a3a809b46
+SHA1: 8cea562011a2d98e436df3eb16cff645dd001d01
+SHA256: 584491681ddd4573d997562668096c185ee51c79efde877e27430b1264d386dd
+SHA512: 228e79941ef70498bfa849dfaa5ee6581e60a0b21aa6f05db848dbf812f4dfa723a6fdf24b865dddf5d0353bc737ade297582b70f94d9e9cd61c676be229c341
 Description: Yes I know the icon is Elaina
 Name: Saya
 Author: paisseon
