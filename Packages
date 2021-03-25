@@ -32,25 +32,6 @@ Depiction: https://github.com/paisseon
 SileoDepiction: https://github.com/paisseon/paisseon.github.io/tree/master/depictions/native/ai.paisseon.juiceless/depiction.json
 Icon: https://i.imgur.com/HT7GCu1.png
 
-Package: ai.paisseon.milkyway3
-Architecture: iphoneos-arm
-Version: 0.2.8
-Section: Tweaks
-Maintainer: YuriDevTeam
-Installed-Size: 4064
-Depends: mobilesubstrate, applist, preferenceloader
-Filename: ./debians/MilkyWay3 (Sileo version).deb
-Size: 71604
-MD5sum: aac44d1785b749115402a19dee721b1a
-SHA1: 5d06cadeeff103f5df9342a9afbaf4d5d05740bc
-SHA256: eb245af9875689ae295f23de2b3834f54979625bdd566444ec53e921e2164313
-SHA512: 5ca85cfa1e2865379f726e4bee77f01fc58b9632f0347d09a3ccfffe647752074b47eee0e6b0c4abb0639450a6f0ef113289710771cdfd2c84726d62fe52f882
-Description: multitasking for iOS14.
-Name: MilkyWay3
-Author: YuriDevTeam
-SileoDepiction: https://repo.packix.com/package/jp.yuri.milkyway3
-Icon: i.imgur.com/Jm5XuHl.png
-
 Package: ai.paisseon.satella
 Architecture: iphoneos-arm
 Version: 1.0
