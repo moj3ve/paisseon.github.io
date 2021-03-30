@@ -34,20 +34,18 @@ Icon: https://i.imgur.com/HT7GCu1.png
 
 Package: ai.paisseon.satella
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 2.0
 Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 13.0), org.coolstar.libhooker, preferenceloader
 Filename: ./debians/Satella.deb
-Size: 9616
-MD5sum: ab1664a88f3db1b5acb9a43497b9c1a7
-SHA1: f40edb046b293536a60b0c83eb9d30837cd99c62
-SHA256: ffddf34c10700377d2d173ce3c8f9ff8441a8b7ca3945e63e35ad46c45a982d8
-SHA512: 7905b961398c1e03156a165e4f734923a129d368c501ae001a51caa97b135398d8a4abe5bd0a7480369dcca3b3fd25960381b31c5e751b019617d0fcb26665b1
+Size: 9212
+MD5sum: 3267e041b242cd4179f2ee53aec82508
+SHA1: 5308c4dbd4d9db1e04db5370fa9f007cf67c1bb8
+SHA256: d5c6f32384509fbd241424f99fc37dd5ccc0679f0937c2cf8c5cdeefc8e34064
+SHA512: d39d96ced4b30b999b95bd4aeba5eb9e3f7a39085cf0549a1ebcdae31c0f79f8b8bdd2123a1976a415de1a4fc611f8aad4bd2619e4346b7c83fba143aad4f692
 Description: Aishite.
 Name: Satella
 Author: paisseon
-Depiction: https://github.com/paisseon
-SileoDepiction: https://github.com/paisseon/paisseon.github.io/tree/master/depictions/native/ai.paisseon.satella/depiction.json
 Icon: https://i.imgur.com/HHOvZoD.png
 
 Package: ai.paisseon.saya
