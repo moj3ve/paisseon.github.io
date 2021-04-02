@@ -2,13 +2,13 @@ Package: ai.paisseon.echidna
 Architecture: iphoneos-arm
 Version: 1.0
 Maintainer: paisseon
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 12.0), org.coolstar.libhooker, preferenceloader
 Filename: ./debians/Echidna.deb
-Size: 29736
-MD5sum: efdffa5ce806ad4736fc7652a3127f8a
-SHA1: 956a3c005e98f54b6a57211bcf8b30e14c6d608e
-SHA256: 1e77f3ea4259634cb94070067b521b46c11277a1ed6ae93e6a1666330ed4d768
-SHA512: d948e7f09925b16484b5055334e5a578dc20afad116ed168ed71e89889a8321bb1f57b5afdf632dc2f39fae26e156f20a6ab599d25d620a0f9187573bad46797
+Size: 29788
+MD5sum: a69eb171d07b0ba97fc028cae9f7d8cb
+SHA1: 6ed52339145ba29f25d40b56f84ac4ccdbca0c13
+SHA256: 158444f161f0242b2e22c4cb470bb073a8e9312cdf3944f2258842067a6f5a1d
+SHA512: 5bb16aa54667508c9c890bd4e691540c29622e6d3c9aadb3e19bc2acbd9ce1d510c3a3b2363c80dbca6a645d633c6735868e0bbf3fcce93cc2635187e079de4f
 Description: I will guide you to the future you desire.
 Name: Echidna
 Author: paisseon
@@ -18,18 +18,16 @@ Package: ai.paisseon.juiceless
 Architecture: iphoneos-arm
 Version: 1.2
 Maintainer: paisseon
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 12.0), org.coolstar.libhooker, preferenceloader
 Filename: ./debians/Juiceless.deb
-Size: 87472
-MD5sum: 3f31604ae8be386a826ad6aefc53d2f4
-SHA1: e993129c43627f3618126b707adefdef45dd8ab5
-SHA256: 17ae62f472eeb29b784ff994e53a045997deb02a8ec8f3354c05386da57c94b1
-SHA512: 9eefa4a1c5ccf272a46c0b4a23b8ff594ff83d4046854c293856ef79d344fb94185fd9ded646292f3972b0b84d0bfa6ffa505214d72a3301228fbc35a61d3583
+Size: 87464
+MD5sum: 97e9cc721159e0d542a9262a83989fe7
+SHA1: 01ffd4f6197afd7d4eed7c63a1f007bbb56c59fc
+SHA256: aa5e2c9788b7155fae0d747b0a3bb54a0f43230de7fda407fd8454bbadee668b
+SHA512: 41b22eccb61b8300b9588dbc17a629877df1bc575d1e9edd2f1617867d64b6bbef3ea95995bcc920953fcbad7f375b00b30493af5e9ebd27a4457b966de275be
 Description: Battery go UwU
 Name: Juiceless
 Author: paisseon
-Depiction: https://github.com/paisseon
-SileoDepiction: https://github.com/paisseon/paisseon.github.io/tree/master/depictions/native/ai.paisseon.juiceless/depiction.json
 Icon: https://i.imgur.com/HT7GCu1.png
 
 Package: ai.paisseon.satella
@@ -38,11 +36,11 @@ Version: 2.0
 Maintainer: paisseon
 Depends: firmware (>= 13.0), org.coolstar.libhooker, preferenceloader
 Filename: ./debians/Satella.deb
-Size: 9212
-MD5sum: 3267e041b242cd4179f2ee53aec82508
-SHA1: 5308c4dbd4d9db1e04db5370fa9f007cf67c1bb8
-SHA256: d5c6f32384509fbd241424f99fc37dd5ccc0679f0937c2cf8c5cdeefc8e34064
-SHA512: d39d96ced4b30b999b95bd4aeba5eb9e3f7a39085cf0549a1ebcdae31c0f79f8b8bdd2123a1976a415de1a4fc611f8aad4bd2619e4346b7c83fba143aad4f692
+Size: 9240
+MD5sum: 40fba3336e4580fe622286bc8e81c51f
+SHA1: 689b5944ecb23c23785b38f13a691d11355ba288
+SHA256: f7586d11ab642d976bf7fcc6762d623513be87be2dddea26b12f0c5608b8f45d
+SHA512: 5148cf1d32ba51b61c431f087c956123a1e0e75f31a523ec61184cedb579e54241d32883a18ed3521693d67f529c5b1bc99b87d1238478c47fde1f02241dca8c
 Description: Aishite.
 Name: Satella
 Author: paisseon
@@ -52,34 +50,31 @@ Package: ai.paisseon.saya
 Architecture: iphoneos-arm
 Version: 1.0
 Maintainer: paisseon
-Depends: mobilesubstrate, preferenceloader
+Depends: org.coolstar.libhooker, preferenceloader
 Filename: ./debians/Saya.deb
-Size: 1458012
-MD5sum: d89887c1f864e6769606cb4a3a809b46
-SHA1: 8cea562011a2d98e436df3eb16cff645dd001d01
-SHA256: 584491681ddd4573d997562668096c185ee51c79efde877e27430b1264d386dd
-SHA512: 228e79941ef70498bfa849dfaa5ee6581e60a0b21aa6f05db848dbf812f4dfa723a6fdf24b865dddf5d0353bc737ade297582b70f94d9e9cd61c676be229c341
+Size: 1457980
+MD5sum: 0ea4772c58ffdb2f510b248ee99ebff0
+SHA1: 4e58c344d973337b11ad24bf308da7bb4a59f574
+SHA256: 041db24c6c915b2a2882a90f7448c05670a05a0b4996c86d17d495d58b2c2a7c
+SHA512: 949ab3e0bb718114e87041a3ef02168a9153c8440a3e81c52f3727d9de61203d122b8eacc71785ff25b9fdc35683e44faf4c21b5780df63dbb0a4ab61923e269
 Description: Yes I know the icon is Elaina
 Name: Saya
 Author: paisseon
-SileoDepiction: https://github.com/paisseon/paisseon.github.io/tree/master/depictions/native/ai.paisseon.saya/depiction.json
 Icon: https://i.imgur.com/R6s4oFT.png
 
 Package: ai.paisseon.seele
 Architecture: iphoneos-arm
 Version: 2.0
 Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 13.0), org.coolstar.libhooker, preferenceloader
 Filename: ./debians/Seele.deb
-Size: 22640
-MD5sum: 2f5e74caa42f749d63ca604f77ac2807
-SHA1: fc628fcaee858e5113263e3b1134e08a969ed9e2
-SHA256: d15f94fe1c132858dbf95c11e8d0dd010fa4b4aece9645efb1d3c8a4365b1f64
-SHA512: cfaa2b113aca46fa4378f59023d3725b3a1c52ad55fdbbee9dc07a1eb3e0a2dae74f73fb6cdd2452e19de75c1d87b0f3096cee0d043c9ebc2b84769fe2fefe02
+Size: 22536
+MD5sum: 68a140e1dc16fa989e7cef8e0bd3d6db
+SHA1: 217984b41fea5fbe1d664d92044f0fb58b1409a1
+SHA256: 0fe107e0d46dc1e2930735b5b8c363a2b897b070eb2ae9244582c0f2637b2d57
+SHA512: 8f179183e8575bc16b380553e37822a39f0864a1dee6709e493dbac6fd232175d61b25803bceffd6546a65cf3685305c413a8813bbc6606cd14180008acc96b6
 Description: It shall be eternal proof that mankind ever existed.
 Name: Seele
 Author: paisseon
-Depiction: https://github.com/paisseon
-SileoDepiction: https://github.com/paisseon/paisseon.github.io/tree/master/depictions/native/ai.paisseon.saya/depiction.json
 Icon: https://i.imgur.com/ny2sIkb.png
 
