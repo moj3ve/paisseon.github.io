@@ -34,13 +34,13 @@ Package: ai.paisseon.satella
 Architecture: iphoneos-arm
 Version: 2.0
 Maintainer: paisseon
-Depends: firmware (>= 13.0), org.coolstar.libhooker, preferenceloader
+Depends: firmware (>= 13.0), org.coolstar.libhooker
 Filename: ./debians/Satella.deb
-Size: 9240
-MD5sum: 40fba3336e4580fe622286bc8e81c51f
-SHA1: 689b5944ecb23c23785b38f13a691d11355ba288
-SHA256: f7586d11ab642d976bf7fcc6762d623513be87be2dddea26b12f0c5608b8f45d
-SHA512: 5148cf1d32ba51b61c431f087c956123a1e0e75f31a523ec61184cedb579e54241d32883a18ed3521693d67f529c5b1bc99b87d1238478c47fde1f02241dca8c
+Size: 4060
+MD5sum: a92e2edce0ca38b98f23736e26f67265
+SHA1: 07e95e7dc2324194bd2e018f07f6097318a1ced6
+SHA256: ab9064402815eecb9694e3f271efbefe64b1dfd22acb1b137c1ec5038fa7413f
+SHA512: 59ae1cfcaa263c5e0029fc2e64877adbb98db7cf51faf7366ff2ef08c36bf11ec4406d000c03cc1a728737a3c5f9d99e6b3b08acae5839d06bf4f1608c67c1df
 Description: Aishite.
 Name: Satella
 Author: paisseon
