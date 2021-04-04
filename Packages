@@ -30,33 +30,17 @@ Name: Juiceless
 Author: paisseon
 Icon: https://i.imgur.com/HT7GCu1.png
 
-Package: ai.paisseon.satellasub
-Architecture: iphoneos-arm
-Version: 2.0
-Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debians/Satella Sub.deb
-Size: 4072
-MD5sum: e08a5d139696f465588113cc0d11bcb8
-SHA1: e949dd5612281ce9c794fc6f7baaecbfa3749ac2
-SHA256: 681619de1cac3b75aab7872f1c1887effb630ff75f499b217873a709125f1c81
-SHA512: 010ecd83b8b60d9f5b08ac2d026c018c80263e1f7dafae180b71d1126a42b756e7d901bfd191d8381fe9b0cbc0e12ea5429eabe529f40d9d5dd2a5e2c4242f60
-Description: Aishite.
-Name: Satella (Substitute/Substrate)
-Author: paisseon
-Icon: https://i.imgur.com/HHOvZoD.png
-
 Package: ai.paisseon.satella
 Architecture: iphoneos-arm
-Version: 2.0
+Version: 2.1
 Maintainer: paisseon
-Depends: firmware (>= 13.0), org.coolstar.libhooker
+Depends: firmware (>= 13.0), mobilesubstrate
 Filename: ./debians/Satella.deb
-Size: 4060
-MD5sum: a92e2edce0ca38b98f23736e26f67265
-SHA1: 07e95e7dc2324194bd2e018f07f6097318a1ced6
-SHA256: ab9064402815eecb9694e3f271efbefe64b1dfd22acb1b137c1ec5038fa7413f
-SHA512: 59ae1cfcaa263c5e0029fc2e64877adbb98db7cf51faf7366ff2ef08c36bf11ec4406d000c03cc1a728737a3c5f9d99e6b3b08acae5839d06bf4f1608c67c1df
+Size: 4056
+MD5sum: ef0fa352e039854c4b0dc376b9f36738
+SHA1: 18ff6dc82bec2cce2e5d328f8f351f3af40078ff
+SHA256: e5a2bbe613d2c0154ac06d5ac96e3876a0026703e52e3860274125cf050fd319
+SHA512: e268ecea04cdf1ed686c7ae348ede57e2eb035e81dad03a456a538d3d7290dbebc53b93bd7992c6ec78340eca9f1502aa77c99192cf4db574edaf90c0ae727b7
 Description: Aishite.
 Name: Satella
 Author: paisseon
