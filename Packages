@@ -1,14 +1,14 @@
 Package: ai.paisseon.echidna
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 2.0
 Maintainer: paisseon
-Depends: firmware (>= 12.0), org.coolstar.libhooker, preferenceloader
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: ./debians/Echidna.deb
-Size: 29788
-MD5sum: a69eb171d07b0ba97fc028cae9f7d8cb
-SHA1: 6ed52339145ba29f25d40b56f84ac4ccdbca0c13
-SHA256: 158444f161f0242b2e22c4cb470bb073a8e9312cdf3944f2258842067a6f5a1d
-SHA512: 5bb16aa54667508c9c890bd4e691540c29622e6d3c9aadb3e19bc2acbd9ce1d510c3a3b2363c80dbca6a645d633c6735868e0bbf3fcce93cc2635187e079de4f
+Size: 29316
+MD5sum: c4a37fa850e46bfb2ad81fd80efaf189
+SHA1: ccc35e346b4581bdec41b02d292b65789cfd8abe
+SHA256: 53b28da84969f5407335ba487f9dca6d5e7a14af344d1980b0465c525649c2cb
+SHA512: d9c1b06d036ff3a0fa167dde9fcadcd284a9bf549ac6ea42cf857d1efe7dc29f378ffefd98d53bc9089f438b1dd66e9c2a6fbc775e426b6d8574af39d0231c33
 Description: I will guide you to the future you desire.
 Name: Echidna
 Author: paisseon
