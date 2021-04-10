@@ -1,3 +1,19 @@
+Package: ai.paisseon.darkkeysreborn
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: paisseon
+Depends: mobilesubstrate
+Filename: ./debians/DarkKeysReborn.deb
+Size: 3900
+MD5sum: 54ba7bf021d33033babc98d74b471c72
+SHA1: a0a36ab7fd131a57c8d30ba0590e11146825a3ff
+SHA256: 03823b502f466d1d3909afb6a3d31a5c9fa1e10d1942a6acc75510fb67fd4cf8
+SHA512: 2f3448cde2b64c26a86392550ef287506b67aee7ef2cb947557ebad0501e73c731fcda0a923ed3bfd2ef989250c13bb23b7ff48d0e2a05647e956f844e93d475
+Description: A true dark keyboard
+Name: Dark Keys Reborn
+Author: paisseon
+Icon: https://i.imgur.com/tlMa7ge.png
+
 Package: ai.paisseon.echidna
 Architecture: iphoneos-arm
 Version: 2.0
