@@ -46,22 +46,6 @@ Name: Satella
 Author: paisseon
 Icon: https://i.imgur.com/HHOvZoD.png
 
-Package: ai.paisseon.saya
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: paisseon
-Depends: org.coolstar.libhooker, preferenceloader
-Filename: ./debians/Saya.deb
-Size: 1457980
-MD5sum: 0ea4772c58ffdb2f510b248ee99ebff0
-SHA1: 4e58c344d973337b11ad24bf308da7bb4a59f574
-SHA256: 041db24c6c915b2a2882a90f7448c05670a05a0b4996c86d17d495d58b2c2a7c
-SHA512: 949ab3e0bb718114e87041a3ef02168a9153c8440a3e81c52f3727d9de61203d122b8eacc71785ff25b9fdc35683e44faf4c21b5780df63dbb0a4ab61923e269
-Description: Yes I know the icon is Elaina
-Name: Saya
-Author: paisseon
-Icon: https://i.imgur.com/R6s4oFT.png
-
 Package: ai.paisseon.seele
 Architecture: iphoneos-arm
 Version: 2.0
