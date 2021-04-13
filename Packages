@@ -48,15 +48,15 @@ Icon: https://i.imgur.com/HT7GCu1.png
 
 Package: ai.paisseon.satella
 Architecture: iphoneos-arm
-Version: 2.2
+Version: 2.3
 Maintainer: paisseon
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
 Filename: ./debians/Satella.deb
-Size: 29308
-MD5sum: 0619e092027572a3bcc691ef35c092f3
-SHA1: 58c0b1c1882966eb3461a7992aca83230be8f02e
-SHA256: 95874192b0cbf8ea0f0d955fc0fb76267f226a07943701f23ad093a0bf353449
-SHA512: 829b27c0b531df5c5d2cc5e39600e0a43ce95059075dca284ccbcf03bc07c5b04ca6ea5cd45c3bf4a70d6cbc65cf0de78ae6bb78deb44c1233beabe2b7dfe0b6
+Size: 30476
+MD5sum: 247335b2a088f85e5b1f9b7ab108a8bf
+SHA1: b2e2b3eea4e3f6534590a61793aed3110230eefc
+SHA256: 7b5efeb67135291763f9ebed1694edf87dbbee9b6bd2d1312e6937ce72f70dcb
+SHA512: 0dd3f7d0a54d392c97618b2ed534c522a63a759bc513f30e62bdc6c27a7000fd6ad1341b288f2fa53d454a1d7a99d6c1ba0e46d0e9e31bb24eb28212f2e55575
 Description: Aishite.
 Name: Satella
 Author: paisseon
