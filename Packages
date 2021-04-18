@@ -1,35 +1,3 @@
-Package: ai.paisseon.darkkeysreborn
-Architecture: iphoneos-arm
-Version: 2.1
-Maintainer: paisseon
-Depends: mobilesubstrate
-Filename: ./debians/DarkKeysReborn.deb
-Size: 28828
-MD5sum: 7c48b5eb9c909f80ea55c4b0942b3905
-SHA1: 66794df6f49e4dbf8137b106eeaa1b8a7dc615af
-SHA256: 5a7c1b9e086f518ead2ae20818f115f32a6c9b0070435afa15784735d8d21500
-SHA512: a34e1087c454d75c5b22285bdef1d78d313c8484c4920e3e7ab9f8f3c12be8759873e4b478e571b140c33b7cdd120f45300eba0ec3f5c1aeb84929b22ab5d10a
-Description: A true dark keyboard
-Name: Dark Keys Reborn
-Author: paisseon
-Icon: https://i.imgur.com/tlMa7ge.png
-
-Package: ai.paisseon.echidna
-Architecture: iphoneos-arm
-Version: 2.0
-Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: ./debians/Echidna.deb
-Size: 29316
-MD5sum: c4a37fa850e46bfb2ad81fd80efaf189
-SHA1: ccc35e346b4581bdec41b02d292b65789cfd8abe
-SHA256: 53b28da84969f5407335ba487f9dca6d5e7a14af344d1980b0465c525649c2cb
-SHA512: d9c1b06d036ff3a0fa167dde9fcadcd284a9bf549ac6ea42cf857d1efe7dc29f378ffefd98d53bc9089f438b1dd66e9c2a6fbc775e426b6d8574af39d0231c33
-Description: I will guide you to the future you desire.
-Name: Echidna
-Author: paisseon
-Icon: https://i.imgur.com/RPZZo7y.png
-
 Package: ai.paisseon.juiceless
 Architecture: iphoneos-arm
 Version: 1.2
@@ -62,6 +30,38 @@ Name: Seele
 Author: paisseon
 Icon: https://i.imgur.com/ny2sIkb.png
 
+Package: ai.paisseon.darkkeysreborn
+Architecture: iphoneos-arm
+Version: 2.1
+Maintainer: paisseon
+Depends: mobilesubstrate
+Filename: ./debians/ai.paisseon.darkkeysreborn_2.1_iphoneos-arm.deb
+Size: 28828
+MD5sum: 7c48b5eb9c909f80ea55c4b0942b3905
+SHA1: 66794df6f49e4dbf8137b106eeaa1b8a7dc615af
+SHA256: 5a7c1b9e086f518ead2ae20818f115f32a6c9b0070435afa15784735d8d21500
+SHA512: a34e1087c454d75c5b22285bdef1d78d313c8484c4920e3e7ab9f8f3c12be8759873e4b478e571b140c33b7cdd120f45300eba0ec3f5c1aeb84929b22ab5d10a
+Description: A true dark keyboard
+Name: Dark Keys Reborn
+Author: paisseon
+Icon: https://i.imgur.com/tlMa7ge.png
+
+Package: ai.paisseon.darkkeysreborn
+Architecture: iphoneos-arm
+Version: 2.2
+Maintainer: paisseon
+Depends: mobilesubstrate
+Filename: ./debians/ai.paisseon.darkkeysreborn_2.2_iphoneos-arm.deb
+Size: 29416
+MD5sum: aa8951b3e150062e28159e380d958234
+SHA1: d865aec304a6791bd2bcb3b4e5746d09a0164002
+SHA256: 5bb977c1b0efb42e42e34874e0cf2edae4c0564044569ade2901405178b628bf
+SHA512: e9beabf3440db4dc5a0b31011dc30886858d15ddf5c69bfd6a04146a1facc764c91fd8ddd690ec9b6b34137f2bbe6300d8cb4ea2556871d75ed4a982db17c176
+Description: A true dark keyboard
+Name: Dark Keys Reborn
+Author: paisseon
+Icon: https://i.imgur.com/tlMa7ge.png
+
 Package: ai.paisseon.satella
 Architecture: iphoneos-arm
 Version: 2.1
@@ -89,22 +89,6 @@ MD5sum: 247335b2a088f85e5b1f9b7ab108a8bf
 SHA1: b2e2b3eea4e3f6534590a61793aed3110230eefc
 SHA256: 7b5efeb67135291763f9ebed1694edf87dbbee9b6bd2d1312e6937ce72f70dcb
 SHA512: 0dd3f7d0a54d392c97618b2ed534c522a63a759bc513f30e62bdc6c27a7000fd6ad1341b288f2fa53d454a1d7a99d6c1ba0e46d0e9e31bb24eb28212f2e55575
-Description: Aishite.
-Name: Satella
-Author: paisseon
-Icon: https://i.imgur.com/HHOvZoD.png
-
-Package: ai.paisseon.satella
-Architecture: iphoneos-arm
-Version: 3.0
-Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debians/ai.paisseon.satella_3.0_iphoneos-arm.deb
-Size: 53076
-MD5sum: 0ebea830bdfbb28fc9538e6545d918ff
-SHA1: c5331c27446ac316f891019556265599bf2d3b9e
-SHA256: e4947f9225100ba560ccadeccda1a4fc7534fb67db69f921437c3f47355c7b46
-SHA512: fcf71843f7dd618394a5e9f0ef5af5a9f656b5d9c370e043b33397354a7a4e44d1fe9081b80f1c8e129a6ec70605fb355c88dfa87b624a3f8c20de1afe9a2fc0
 Description: Aishite.
 Name: Satella
 Author: paisseon
