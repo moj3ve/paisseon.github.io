@@ -30,6 +30,22 @@ Name: Juiceless
 Author: paisseon
 Icon: https://i.imgur.com/HT7GCu1.png
 
+Package: ai.paisseon.peepreborn
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: paisseon
+Depends: mobilesubstrate
+Filename: ./debians/PeepReborn.deb
+Size: 7736
+MD5sum: cabdd49834daef373d6b11560a9190e3
+SHA1: 1f27d5b3918dceb3698510abb06da7211d09e431
+SHA256: dc5a0c0d8c1f604d9f167b86a3ddaa82f65b7febf7ee552f5ccd7de77bdfed33
+SHA512: a0545c2a657321d5ed4fbe0815f29a7727d6498adc2a1f594a7bfe7274671c473ca4f096d61672c1c1c58348d3efe10fd27b61260571161ba3bd213357fac84a
+Description: Tap to hide status bar
+Name: Peep Reborn
+Author: paisseon
+Icon: https://i.imgur.com/h5O0g3Y.png
+
 Package: ai.paisseon.seele
 Architecture: iphoneos-arm
 Version: 2.0

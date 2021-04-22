@@ -32,6 +32,12 @@
         "title": "Seele",
         "package": "ai.paisseon.seele",
         "hideShadow": false
+    },
+    {
+        "url": "https://i.imgur.com/h5O0g3Y.png",
+        "title": "Peep Reborn",
+        "package": "ai.paisseon.peepreborn",
+        "hideShadow": false
     }
   ]
 }
