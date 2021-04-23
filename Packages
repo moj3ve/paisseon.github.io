@@ -142,3 +142,19 @@ Name: Satella
 Author: paisseon
 Icon: https://i.imgur.com/HHOvZoD.png
 
+Package: ai.paisseon.satella
+Architecture: iphoneos-arm
+Version: 3.2
+Maintainer: paisseon
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debians/ai.paisseon.satella_3.2_iphoneos-arm.deb
+Size: 31756
+MD5sum: 6bb5f5795e277c274ec3fa685ab5b1e9
+SHA1: 60419804753a83bc58251b3f4a216051f0c50576
+SHA256: 55396eefefc644a23691f097517deaf93dd07e1d6fc7a71a5657f455420b1b47
+SHA512: 2fa768df7c5c824391cf5647b2501e949273ec5f94dbeab25a6ad5679236ee1cc1f48072a03a312084feb25a8a063ac1dbebf8933c9f9ce7727a242727c08982
+Description: Aishite.
+Name: Satella
+Author: paisseon
+Icon: https://i.imgur.com/HHOvZoD.png
+
