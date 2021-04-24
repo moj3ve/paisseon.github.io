@@ -38,6 +38,12 @@
         "title": "Peep Reborn",
         "package": "ai.paisseon.peepreborn",
         "hideShadow": false
+    },
+    {
+        "url": "https://i.imgur.com/h4gLu2S.png",
+        "title": "Kurisu",
+        "package": "ai.paisseon.kurisu",
+        "hideShadow": false
     }
   ]
 }
