@@ -192,6 +192,24 @@ Depiction: https://repo.litten.love/depictions/dry/index.html
 SileoDepiction: https://repo.litten.love/depictions/dry/dry.json
 Icon: https://repo.litten.love/depictions/dry/assets/icon.png
 
+Package: love.litten.pompom
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: Litten
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.peterdev.libpddokdo, applist, com.spark.libsparkapplist, com.mrgcgamer.libgcuniversal
+Filename: ./debians/love.litten.pompom_1.0_iphoneos-arm.deb
+Size: 131744
+MD5sum: ebe3fdce28223dac41be779d22207578
+SHA1: c6a9658be34e16eeca875dd08e78b94c1c1c865f
+SHA256: f5c21a9418bc5d04c74fdb112470d9aea20bff385aaa6ee2a1747bdffa53a1a3
+SHA512: e04a7163976dfc63842a0365198f505d3773f91de10f22823ec1d437a6e95dca8d333a5ff96ea29e62e26708b9f7c2c204ee335edba69c0e42f6fd126fa78c8c
+Description: P O M P O M, PomPom
+Name: PomPom 🍬
+Author: Litten & Ayden Panhuyzen
+Depiction: https://repo.litten.love/depictions/pom/index.html
+SileoDepiction: https://repo.litten.love/depictions/pom/pom.json
+Icon: https://repo.litten.love/depictions/pom/assets/icon.png
+
 Package: me.nepeta.axonreborn
 Architecture: iphoneos-arm
 Version: 2.0.0
