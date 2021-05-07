@@ -1,0 +1,78 @@
+{
+    "headerImage": "",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "useBottomMargin": false,
+                    "title": "Reverie",
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true
+                },
+                {
+                    "markdown": "Just a daydream tweak",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": ""
+                        }
+                    ],
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "markdown": "# Reverie\r\n\r\nA hibernation tweak for iOS 13-14. It uses IOPMSleepSystem and CPU throttling to save the most battery possible.\r\n\r\nAlso, it's open source! Check out github.com/paisseon/Reverie",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.0",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "05-07-2021",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "paisseon",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ],
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tintColor": "#8600ff"
+}
