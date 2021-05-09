@@ -208,21 +208,3 @@ Name: Seele
 Author: paisseon
 Icon: https://i.imgur.com/ny2sIkb.png
 
-Package: love.litten.diary
-Architecture: iphoneos-arm
-Version: 1.0.8
-Maintainer: Litten
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
-Filename: ./debians/love.litten.diary_1.0.8_iphoneos-arm.deb
-Size: 4154872
-MD5sum: 837ef8cbe202e8e07f3826901949457c
-SHA1: c91faf24d5d847741d3787340f6a1dd3eb5f9d1c
-SHA256: c8f620c1e82ebb0d5d5d9dc190ab507bb5983c9568853bfd845ea1d7fe29beba
-SHA512: b5773467b78d963ee846a29067298e80529da8a54b93439b3a3a24726203f5bf1b5708eba450f99ef59db03bb9c16c7c827dd0d1810ee195bbb4556b3edbfc3d
-Description: The new Windows 10
-Name: Diary 📖
-Author: Litten
-Depiction: https://repo.litten.love/depictions/dry/index.html
-SileoDepiction: https://repo.litten.love/depictions/dry/dry.json
-Icon: https://repo.litten.love/depictions/dry/assets/icon.png
-
