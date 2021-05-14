@@ -52,12 +52,12 @@ Version: 1.2
 Maintainer: paisseon
 Depends: firmware (>= 12.0), org.coolstar.libhooker, preferenceloader
 Filename: ./debians/ai.paisseon.juiceless_1.2_iphoneos-arm.deb
-Size: 87464
-MD5sum: 97e9cc721159e0d542a9262a83989fe7
-SHA1: 01ffd4f6197afd7d4eed7c63a1f007bbb56c59fc
-SHA256: aa5e2c9788b7155fae0d747b0a3bb54a0f43230de7fda407fd8454bbadee668b
-SHA512: 41b22eccb61b8300b9588dbc17a629877df1bc575d1e9edd2f1617867d64b6bbef3ea95995bcc920953fcbad7f375b00b30493af5e9ebd27a4457b966de275be
-Description: Battery go UwU
+Size: 87468
+MD5sum: 56b5bdaaa2041b2b9d24550511c82fda
+SHA1: c8b5ef7272c128e337f64a1cf5b72414d5b0ab13
+SHA256: be25c6aaa84624ee1b7959f8db444082c65a9a7001ccf7022c120ecb85b12de6
+SHA512: 016ac648dcd24f6906c3262b8d11e39ca8c6aca37aa6a9577f7a0b808eb35abc5100c6559a64a32b4417cbc2bd8bcd5499164fbfb1eec1a265e609fcf49a548e
+Description: Direct clone of Linear but Cuter
 Name: Juiceless
 Author: paisseon
 Icon: https://i.imgur.com/HT7GCu1.png
