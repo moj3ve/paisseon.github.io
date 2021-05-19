@@ -52,12 +52,12 @@ Version: 1.2
 Maintainer: paisseon
 Depends: firmware (>= 12.0), org.coolstar.libhooker, preferenceloader
 Filename: ./debians/ai.paisseon.juiceless_1.2_iphoneos-arm.deb
-Size: 87468
-MD5sum: 56b5bdaaa2041b2b9d24550511c82fda
-SHA1: c8b5ef7272c128e337f64a1cf5b72414d5b0ab13
-SHA256: be25c6aaa84624ee1b7959f8db444082c65a9a7001ccf7022c120ecb85b12de6
-SHA512: 016ac648dcd24f6906c3262b8d11e39ca8c6aca37aa6a9577f7a0b808eb35abc5100c6559a64a32b4417cbc2bd8bcd5499164fbfb1eec1a265e609fcf49a548e
-Description: Direct clone of Linear but Cuter
+Size: 87464
+MD5sum: 97e9cc721159e0d542a9262a83989fe7
+SHA1: 01ffd4f6197afd7d4eed7c63a1f007bbb56c59fc
+SHA256: aa5e2c9788b7155fae0d747b0a3bb54a0f43230de7fda407fd8454bbadee668b
+SHA512: 41b22eccb61b8300b9588dbc17a629877df1bc575d1e9edd2f1617867d64b6bbef3ea95995bcc920953fcbad7f375b00b30493af5e9ebd27a4457b966de275be
+Description: Battery go UwU
 Name: Juiceless
 Author: paisseon
 Icon: https://i.imgur.com/HT7GCu1.png
@@ -106,6 +106,24 @@ MD5sum: 504d7a0234aaf1a8b870ce1cca7c2193
 SHA1: f3e828050679ec8db9fc4c5aca21355f2891c864
 SHA256: 8a6417ba0faaf917803e60a9173acb1955276827df07f138f98997c0c681cc68
 SHA512: b9fb18bf1f68da1ae9ad3c5f771fbc5ca7c7ae8176580d5c92b3d347f53cedf79376234fb47c913d471f157e598b8662a13a62aea993f1014e04550f504e4db6
+Description: Just a daydream tweak
+Name: Reverie
+Author: paisseon
+Icon: https://i.imgur.com/oF8M1mG.png
+SileoDepiction: https://paisseon.github.io/depictions/reverie.json
+
+Package: ai.paisseon.reverie
+Architecture: iphoneos-arm
+Version: 1.1
+Maintainer: paisseon
+Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common
+Conflicts: com.creaturecoding.crux, com.megadev.sentinel, love.litten.puck
+Filename: ./debians/ai.paisseon.reverie_1.1_iphoneos-arm.deb
+Size: 39804
+MD5sum: 76681b1a5de4b678dd3cbda3083846a0
+SHA1: c97bce5d8844d1f0df7183903720affd1a82267f
+SHA256: f430d9b1dd7e501dc79dd4b4990691bbcccf9c24ccf532f8d00d1d213cf1c3f3
+SHA512: d14a5de4e99c6ad94264bbfdc7f163e67bef781587f28dd66a14f6e42556a1df33d011a5c2c303b52056950985bfd76dc54a007964dd7e8badf82efc9bbbd4a3
 Description: Just a daydream tweak
 Name: Reverie
 Author: paisseon
