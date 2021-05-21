@@ -130,6 +130,24 @@ Author: paisseon
 Icon: https://i.imgur.com/oF8M1mG.png
 SileoDepiction: https://paisseon.github.io/depictions/reverie.json
 
+Package: ai.paisseon.reverie
+Architecture: iphoneos-arm
+Version: 1.2
+Maintainer: paisseon
+Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common
+Conflicts: com.creaturecoding.crux, com.megadev.sentinel, love.litten.puck
+Filename: ./debians/ai.paisseon.reverie_1.2_iphoneos-arm.deb
+Size: 46840
+MD5sum: 75835375eeccb808189c6f621fa3e142
+SHA1: ccff74040880405a4cf6c0685ecbcbaf1a9a8739
+SHA256: c6f892ee03597a5d7c51f69ca99cd1e8e1d83eeb214b39bb8085ad3d9dadcd8b
+SHA512: 17b1a4fd8cc6e1f706d3e3ac31bf703ceef8febbf2d0e3719ecb1f04d0692a5d2afa35dbc589f43447a57bd8f9abee1540e30b86ecb2b5032d84185d49259f06
+Description: Just a daydream tweak
+Name: Reverie
+Author: paisseon
+Icon: https://i.imgur.com/oF8M1mG.png
+SileoDepiction: https://paisseon.github.io/depictions/reverie.json
+
 Package: ai.paisseon.satella
 Architecture: iphoneos-arm
 Version: 2.1
