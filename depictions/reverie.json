@@ -1,74 +1,137 @@
 {
+    "minVersion": "13.0",
+    "class": "DepictionTabView",
+    "tintColor": "#8600ff",
     "headerImage": "",
     "tabs": [
         {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "tintColor": "#8600ff",
             "views": [
                 {
-                    "useBottomMargin": false,
-                    "title": "Reverie",
                     "class": "DepictionSubheaderView",
-                    "useBoldText": true
-                },
-                {
-                    "markdown": "Let your iPhone daydream",
-                    "class": "DepictionMarkdownView",
-                    "useSpacing": true
-                },
-                {
-                    "screenshots": [
-                        {
-                            "accessibilityText": "Screenshot0",
-                            "url": ""
-                        }
-                    ],
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 275.41333333333336}",
-                    "class": "DepictionScreenshotsView"
-                },
-                {
-                    "markdown": "# Reverie\r\n\r\nA hibernation tweak for iOS 13-14. It uses IOPMSleepSystem and CPU throttling to save the most battery possible.\r\n\r\nAlso, it's open source! Check out github.com/paisseon/Reverie",
+                    "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "markdown-description",
+                    "title": "Reverie"
+                },
+                {
                     "class": "DepictionMarkdownView",
-                    "useBoldText": true
+                    "markdown": "<p>The most advanced hibernation tweak for iOS 13-14. Reverie uses IOPMSystemSleep and CPU throttling to save the most battery possible so you don't lose your jailbreak. \n\n Also, it's [open source](https://github.com/paisseon/reverie)!</p>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": ""
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.3",
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": "paisseon"
+                },
+                {
+                    "class": "DepictionTableTextView",
                     "title": "Version",
-                    "class": "DepictionTableTextView"
+                    "text": "1.4"
                 },
                 {
-                    "text": "23-05-2021",
-                    "title": "Released",
-                    "class": "DepictionTableTextView"
-                },
-                {
-                    "text": "Free",
+                    "class": "DepictionTableTextView",
                     "title": "Price",
-                    "class": "DepictionTableTextView"
+                    "text": "Free"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
                 },
                 {
-                    "text": "paisseon",
-                    "title": "Developer",
-                    "class": "DepictionTableTextView"
+                    "class": "DepictionStackView",
+                    "views": [
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Support",
+                            "action": "https://reddit.com/u/paisseon",
+                            "openExternal": true
+                        }
+                    ]
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
                 }
-            ],
+            ]
+        },
+        {
+            "tabname": "Changelog",
             "class": "DepictionStackView",
-            "tabname": "Details"
+            "tintColor": "#8600ff",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.4"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Rewrite preferences and fix automatic sleep/wake<\\/li><\\/ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.3"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Allow logo view when power button is pressed<\\/li><\\/ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Add logo view on sleep<\\/li><\\/ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Add control centre toggle<\\/li><\\/ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Initial release<\\/li><\\/ul>",
+                    "useRawFormat": true
+                }
+            ]
         }
-    ],
-    "minVersion": "0.1",
-    "class": "DepictionTabView",
-    "tintColor": "#8600ff"
+    ]
 }
