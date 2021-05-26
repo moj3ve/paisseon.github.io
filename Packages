@@ -30,22 +30,6 @@ Name: Dark Keys Reborn
 Author: paisseon
 Icon: https://i.imgur.com/tlMa7ge.png
 
-Package: ai.paisseon.echidna
-Architecture: iphoneos-arm
-Version: 2.0
-Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: ./debians/ai.paisseon.echidna_2.0_iphoneos-arm.deb
-Size: 29316
-MD5sum: c4a37fa850e46bfb2ad81fd80efaf189
-SHA1: ccc35e346b4581bdec41b02d292b65789cfd8abe
-SHA256: 53b28da84969f5407335ba487f9dca6d5e7a14af344d1980b0465c525649c2cb
-SHA512: d9c1b06d036ff3a0fa167dde9fcadcd284a9bf549ac6ea42cf857d1efe7dc29f378ffefd98d53bc9089f438b1dd66e9c2a6fbc775e426b6d8574af39d0231c33
-Description: I will guide you to the future you desire.
-Name: Echidna
-Author: paisseon
-Icon: https://i.imgur.com/RPZZo7y.png
-
 Package: ai.paisseon.juiceless
 Architecture: iphoneos-arm
 Version: 1.2
@@ -96,155 +80,38 @@ Icon: https://i.imgur.com/h5O0g3Y.png
 
 Package: ai.paisseon.reverie
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 2.0
 Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common
-Conflicts: com.creaturecoding.crux, com.megadev.sentinel, love.litten.puck
-Filename: ./debians/ai.paisseon.reverie_1.0_iphoneos-arm.deb
-Size: 30304
-MD5sum: 504d7a0234aaf1a8b870ce1cca7c2193
-SHA1: f3e828050679ec8db9fc4c5aca21355f2891c864
-SHA256: 8a6417ba0faaf917803e60a9173acb1955276827df07f138f98997c0c681cc68
-SHA512: b9fb18bf1f68da1ae9ad3c5f771fbc5ca7c7ae8176580d5c92b3d347f53cedf79376234fb47c913d471f157e598b8662a13a62aea993f1014e04550f504e4db6
-Description: Just a daydream tweak
-Name: Reverie
-Author: paisseon
-Icon: https://i.imgur.com/oF8M1mG.png
-SileoDepiction: https://paisseon.github.io/depictions/reverie.json
-
-Package: ai.paisseon.reverie
-Architecture: iphoneos-arm
-Version: 1.1
-Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common
-Conflicts: com.creaturecoding.crux, com.megadev.sentinel, love.litten.puck
-Filename: ./debians/ai.paisseon.reverie_1.1_iphoneos-arm.deb
-Size: 39804
-MD5sum: 76681b1a5de4b678dd3cbda3083846a0
-SHA1: c97bce5d8844d1f0df7183903720affd1a82267f
-SHA256: f430d9b1dd7e501dc79dd4b4990691bbcccf9c24ccf532f8d00d1d213cf1c3f3
-SHA512: d14a5de4e99c6ad94264bbfdc7f163e67bef781587f28dd66a14f6e42556a1df33d011a5c2c303b52056950985bfd76dc54a007964dd7e8badf82efc9bbbd4a3
-Description: Just a daydream tweak
-Name: Reverie
-Author: paisseon
-Icon: https://i.imgur.com/oF8M1mG.png
-SileoDepiction: https://paisseon.github.io/depictions/reverie.json
-
-Package: ai.paisseon.reverie
-Architecture: iphoneos-arm
-Version: 1.2
-Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common
-Conflicts: com.creaturecoding.crux, com.megadev.sentinel, love.litten.puck
-Filename: ./debians/ai.paisseon.reverie_1.2_iphoneos-arm.deb
-Size: 46840
-MD5sum: 75835375eeccb808189c6f621fa3e142
-SHA1: ccff74040880405a4cf6c0685ecbcbaf1a9a8739
-SHA256: c6f892ee03597a5d7c51f69ca99cd1e8e1d83eeb214b39bb8085ad3d9dadcd8b
-SHA512: 17b1a4fd8cc6e1f706d3e3ac31bf703ceef8febbf2d0e3719ecb1f04d0692a5d2afa35dbc589f43447a57bd8f9abee1540e30b86ecb2b5032d84185d49259f06
-Description: Just a daydream tweak
-Name: Reverie
-Author: paisseon
-Icon: https://i.imgur.com/oF8M1mG.png
-SileoDepiction: https://paisseon.github.io/depictions/reverie.json
-
-Package: ai.paisseon.reverie
-Architecture: iphoneos-arm
-Version: 1.3
-Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common
-Conflicts: com.creaturecoding.crux, com.megadev.sentinel, love.litten.puck
-Filename: ./debians/ai.paisseon.reverie_1.3_iphoneos-arm.deb
-Size: 41916
-MD5sum: 7c248d039ee9ed0414ec7bda7921266e
-SHA1: b3234d7444af28fc0fd831d32f49aafb3b08ae95
-SHA256: ae3b157035af9658ffde9e05a4bf11e5e6924560fb370929e125007ffbc2eef3
-SHA512: 61ce9d92bf276571324bced327aba342703716695efcd28f4b1797d41dea7f1ee0255f2a03bee0f4b7e66f56564e290ee0c8f03f0f388e4dd893d96596fc4e24
+Depends: firmware (>= 13.0), mobilesubstrate, com.creaturecoding.crux
+Conflicts: com.megadev.sentinel, love.litten.puck
+Filename: ./debians/ai.paisseon.reverie_2.0_iphoneos-arm.deb
+Size: 64176
+MD5sum: 07fe437c6ae4ead5888f841052dcc5e1
+SHA1: 05b053b7ae857e7ae8a81b37f09d1fdc184f9baf
+SHA256: 218ed5a6f4b5632742cfb4a928847b602e0209921eee346f1318c3d1d0ee8be4
+SHA512: f576deef4e1301da38a7032b9f4d9bc3cbf9578608f83ac426ef01e005b77b7d7ed948d17b51dbee0b8664488b7e972d573665a5a19d719df225f8d954559f32
 Description: Let your iPhone daydream
 Name: Reverie
 Author: paisseon
 Icon: https://i.imgur.com/oF8M1mG.png
-SileoDepiction: https://paisseon.github.io/depictions/reverie.json
+SileoDepiction: https://paisseon.github.io/info/reverie.json
 
 Package: ai.paisseon.satella
 Architecture: iphoneos-arm
-Version: 2.1
+Version: 2.0
 Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debians/ai.paisseon.satella_2.1_iphoneos-arm.deb
-Size: 27984
-MD5sum: f835b419d57dba3527b01a4f2eae397d
-SHA1: 95e6d963fb3643494f85fa9bdbeb885e86c6d11e
-SHA256: fe1f354286061477319075b25842ac77d36712427ebf271545f96f3876e44b28
-SHA512: ced084b168af64cdd75d55fe3d45a64602a2d0a32a8ed66eacdc50e120ea56eaf22ae3470a84bcf23c12986a2e93398d49d51b0f027224ebf1761ad3491eca27
-Description: Aishite.
-Name: Satella
-Author: paisseon
-Icon: https://i.imgur.com/HHOvZoD.png
-
-Package: ai.paisseon.satella
-Architecture: iphoneos-arm
-Version: 2.3
-Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debians/ai.paisseon.satella_2.3_iphoneos-arm.deb
-Size: 30476
-MD5sum: 247335b2a088f85e5b1f9b7ab108a8bf
-SHA1: b2e2b3eea4e3f6534590a61793aed3110230eefc
-SHA256: 7b5efeb67135291763f9ebed1694edf87dbbee9b6bd2d1312e6937ce72f70dcb
-SHA512: 0dd3f7d0a54d392c97618b2ed534c522a63a759bc513f30e62bdc6c27a7000fd6ad1341b288f2fa53d454a1d7a99d6c1ba0e46d0e9e31bb24eb28212f2e55575
-Description: Aishite.
-Name: Satella
-Author: paisseon
-Icon: https://i.imgur.com/HHOvZoD.png
-
-Package: ai.paisseon.satella
-Architecture: iphoneos-arm
-Version: 3.1
-Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debians/ai.paisseon.satella_3.1_iphoneos-arm.deb
-Size: 31476
-MD5sum: 924334a86d8acc66d15dc0b0fa3c5d4c
-SHA1: 5083ce86848950e6dadc021acd6167b12f48c884
-SHA256: d655b162628fbdecd380740366c78ea9c85362d2cd3c6772c5decc6ae99dfbb3
-SHA512: d3514d4b2044075706d8021c0478a996200eccf66f2997f2e1a7874e5d901785fc2e4fa672625f614675c1926f4d7fb29d77b1bd5cd4c50fff48c44279ef7ee4
-Description: Aishite.
-Name: Satella
-Author: paisseon
-Icon: https://i.imgur.com/HHOvZoD.png
-
-Package: ai.paisseon.satella
-Architecture: iphoneos-arm
-Version: 3.2
-Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debians/ai.paisseon.satella_3.2_iphoneos-arm.deb
-Size: 31756
-MD5sum: 6bb5f5795e277c274ec3fa685ab5b1e9
-SHA1: 60419804753a83bc58251b3f4a216051f0c50576
-SHA256: 55396eefefc644a23691f097517deaf93dd07e1d6fc7a71a5657f455420b1b47
-SHA512: 2fa768df7c5c824391cf5647b2501e949273ec5f94dbeab25a6ad5679236ee1cc1f48072a03a312084feb25a8a063ac1dbebf8933c9f9ce7727a242727c08982
-Description: Aishite.
-Name: Satella
-Author: paisseon
-Icon: https://i.imgur.com/HHOvZoD.png
-
-Package: ai.paisseon.satella
-Architecture: iphoneos-arm
-Version: 3.3
-Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debians/ai.paisseon.satella_3.3_iphoneos-arm.deb
-Size: 31240
-MD5sum: 8ebbf26c65d3a39b248f41f10bdedd87
-SHA1: 79b3035e202604b221756e07830267f61bae659a
-SHA256: 2723561047eecfce880970aa0ec7d65fe577c88cc225860f20cba6546320fd01
-SHA512: 7de9a2329ff7bdffe66c9630abf09704b426a83df7269a75301ec239a089b0cee710f4ea57dc412175897c7b5f6d0640f68859836c8ce7f6b17e674698127f0e
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/ai.paisseon.satella_2.0_iphoneos-arm.deb
+Size: 55372
+MD5sum: 64e133f27a9ff5f2e6a338570e212ac8
+SHA1: 7495f1e0fa41a13655059a995ea6530a7589fb6a
+SHA256: f1b72e953393f673b917cf5126fb18c0c2b1d7aadc0d522fc4946d9486f56faf
+SHA512: 48d4ec8aa319532b392a2837afc11c25d92f808074cbe831932ffa81a7e805f8afc92bd2cfababae4719070ecd6436c6da3e6f8ccb69c81cf12c35bd7167bc1b
 Description: Aishiteru
 Name: Satella
 Author: paisseon
 Icon: https://i.imgur.com/HHOvZoD.png
+SileoDepiction: https://paisseon.github.io/info/satella.json
 
 Package: ai.paisseon.seele
 Architecture: iphoneos-arm

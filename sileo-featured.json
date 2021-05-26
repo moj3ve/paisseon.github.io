@@ -26,30 +26,6 @@
         "title": "Juiceless",
         "package": "ai.paisseon.juiceless",
         "hideShadow": false
-    },
-    {
-        "url": "https://i.imgur.com/RPZZo7y.png",
-        "title": "Echidna",
-        "package": "ai.paisseon.echidna",
-        "hideShadow": false
-    },
-    {
-        "url": "https://i.imgur.com/ny2sIkb.png",
-        "title": "Seele",
-        "package": "ai.paisseon.seele",
-        "hideShadow": false
-    },
-    {
-        "url": "https://i.imgur.com/h5O0g3Y.png",
-        "title": "Peep Reborn",
-        "package": "ai.paisseon.peepreborn",
-        "hideShadow": false
-    },
-    {
-        "url": "https://i.imgur.com/h4gLu2S.png",
-        "title": "Kurisu",
-        "package": "ai.paisseon.kurisu",
-        "hideShadow": false
     }
   ]
 }

@@ -1,0 +1,40 @@
+{
+    "name": "Satella",
+    "tagline": "Aishiteru",
+    "desc": "Satella is a modern and lightweight LocalIAPStore alternative-- the first tweak of its kind to be open sourced.",
+    "screenshots": [
+        {
+            "name": "satella.png"
+        }
+    ],
+    "changelog": [
+        {
+            "version": "2.0",
+            "changes": "- New preferences\n- Complete rewrite of receipt spoofing\n- Switch to AltList"
+        },
+        {
+            "version": "1.5",
+            "changes": "- Bugfixes"
+        },
+        {
+            "version": "1.4",
+            "changes": "- Add disable in apps\n- Stabilise receipt spoofing"
+        },
+        {
+            "version": "1.3",
+            "changes": "- Added receipt spoofing"
+        },
+        {
+            "version": "1.2",
+            "changes": "- Add experimental features"
+        },
+        {
+            "version": "1.1",
+            "changes": "- Add preferences"
+        },
+        {
+            "version": "1.0",
+            "changes": "- Initial public release"
+        }
+    ]
+}
