@@ -1,40 +1,182 @@
 {
-    "name": "Satella",
-    "tagline": "Aishiteru",
-    "desc": "Satella is a modern and lightweight LocalIAPStore alternative-- the first tweak of its kind to be open sourced.",
-    "screenshots": [
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tintColor": "#8600ff",
+    "headerImage": "headerimgurl",
+    "tabs": [
         {
-            "name": "satella.png"
-        }
-    ],
-    "changelog": [
-        {
-            "version": "2.0",
-            "changes": "- New preferences\n- Complete rewrite of receipt spoofing\n- Switch to AltList"
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "tintColor": "#8600ff",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Description"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<p>A modern and feature-filled IAP cracker for iOS 13-14.</p>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": ""
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 284.44444444444}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://paisseon.github.io/info/satella.png",
+                            "fullSizeURL": "promoimgurl"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": "Paisseon"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "2.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Price",
+                    "text": "1TB of Emilia Gifs"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionStackView",
+                    "views": [
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Source Code",
+                            "action": "https://github.com/Paisseon/Satella",
+                            "openExternal": true
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
         },
         {
-            "version": "1.5",
-            "changes": "- Bugfixes"
-        },
-        {
-            "version": "1.4",
-            "changes": "- Add disable in apps\n- Stabilise receipt spoofing"
-        },
-        {
-            "version": "1.3",
-            "changes": "- Added receipt spoofing"
-        },
-        {
-            "version": "1.2",
-            "changes": "- Add experimental features"
-        },
-        {
-            "version": "1.1",
-            "changes": "- Add preferences"
-        },
-        {
-            "version": "1.0",
-            "changes": "- Initial public release"
+            "tabname": "Changelog",
+            "class": "DepictionStackView",
+            "tintColor": "#8600ff",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "2.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>New preferences<\\/li>\n<li>Complete rewrite of receipt faker<\\/li>\n<li>Fix bug where Satella injects into non-user applications<\\/li><\\/ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.5"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Fix bug where unc0ver users can't rejailbreak<\\/li><\\/ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.4"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Add blacklist feature<\\/li>\n<li>Stabilise receipt spoofing<\\/li><\\/ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.3"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Add receipt spoofing<\\/li>\n<li>Merge experimental features into main tweak<\\/li><\\/ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Add experimental features<\\/li><\\/ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Add preferences<\\/li><\\/ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Initial public release<\\/li><\\/ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "0.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Closed beta release<\\/li><\\/ul>",
+                    "useRawFormat": true
+                }
+            ]
         }
     ]
 }
