@@ -1,21 +1,5 @@
 Package: ai.paisseon.darkkeysreborn
 Architecture: iphoneos-arm
-Version: 2.1
-Maintainer: paisseon
-Depends: mobilesubstrate
-Filename: ./debians/ai.paisseon.darkkeysreborn_2.1_iphoneos-arm.deb
-Size: 28828
-MD5sum: 7c48b5eb9c909f80ea55c4b0942b3905
-SHA1: 66794df6f49e4dbf8137b106eeaa1b8a7dc615af
-SHA256: 5a7c1b9e086f518ead2ae20818f115f32a6c9b0070435afa15784735d8d21500
-SHA512: a34e1087c454d75c5b22285bdef1d78d313c8484c4920e3e7ab9f8f3c12be8759873e4b478e571b140c33b7cdd120f45300eba0ec3f5c1aeb84929b22ab5d10a
-Description: A true dark keyboard
-Name: Dark Keys Reborn
-Author: paisseon
-Icon: https://i.imgur.com/tlMa7ge.png
-
-Package: ai.paisseon.darkkeysreborn
-Architecture: iphoneos-arm
 Version: 2.2
 Maintainer: paisseon
 Depends: mobilesubstrate
@@ -29,38 +13,6 @@ Description: A true dark keyboard
 Name: Dark Keys Reborn
 Author: paisseon
 Icon: https://i.imgur.com/tlMa7ge.png
-
-Package: ai.paisseon.juiceless
-Architecture: iphoneos-arm
-Version: 1.2
-Maintainer: paisseon
-Depends: firmware (>= 12.0), org.coolstar.libhooker, preferenceloader
-Filename: ./debians/ai.paisseon.juiceless_1.2_iphoneos-arm.deb
-Size: 87464
-MD5sum: 97e9cc721159e0d542a9262a83989fe7
-SHA1: 01ffd4f6197afd7d4eed7c63a1f007bbb56c59fc
-SHA256: aa5e2c9788b7155fae0d747b0a3bb54a0f43230de7fda407fd8454bbadee668b
-SHA512: 41b22eccb61b8300b9588dbc17a629877df1bc575d1e9edd2f1617867d64b6bbef3ea95995bcc920953fcbad7f375b00b30493af5e9ebd27a4457b966de275be
-Description: Battery go UwU
-Name: Juiceless
-Author: paisseon
-Icon: https://i.imgur.com/HT7GCu1.png
-
-Package: ai.paisseon.kurisu
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: paisseon
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debians/ai.paisseon.kurisu_1.0_iphoneos-arm.deb
-Size: 4876
-MD5sum: ba67442ad9b8877726889465a9e862a7
-SHA1: 98c068101a2dcfd830001049e14200c079f4dd9d
-SHA256: b36105691b1876f8e2e5c60618e188e18423dcbde85f9067c2cb28691ed00dd4
-SHA512: 4b6d564cfcf3a5dd794352687dd53149e71fc34b77d40b9c23b75146cb9d92b31a69549f665e81212cc15a1fc0bee72388f0f864204cb2281e9a49c3bdb8ea31
-Description: Time travel in videos
-Name: Kurisu
-Author: paisseon
-Icon: https://i.imgur.com/h4gLu2S.png
 
 Package: ai.paisseon.peepreborn
 Architecture: iphoneos-arm
@@ -128,4 +80,22 @@ Description: It shall be eternal proof that mankind ever existed.
 Name: Seele
 Author: paisseon
 Icon: https://i.imgur.com/ny2sIkb.png
+
+Package: ai.paisseon.vivy
+Architecture: iphoneos-arm
+Version: 1.0-1
+Maintainer: paisseon
+Installed-Size: 384
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debians/ai.paisseon.vivy_1.0_iphoneos-arm.deb
+Size: 63690
+MD5sum: 6078069862489eb1c2251802b6b09ba2
+SHA1: 271d575d18a64e7c9c504689da542a680ae2ba00
+SHA256: 888011d8698eaa2641b090278be61a6a29eaa12a4770ccc6b6a1a7fd053324f5
+SHA512: 3058494d03591aa6d66197142fb654916420f26e5897e88aa0fddb5e1a5948cb590e9d5444ff3a43e65f60a9f992805bf915a9e990155725e27a50fed78f1357
+Description: Fluorite Ion's Song
+Name: Vivy
+Author: paisseon
+Icon: https://i.imgur.com/5Bmm40D.png
+SileoDepiction: https://paisseon.github.io/info/vivy.json
 
