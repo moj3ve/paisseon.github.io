@@ -17,7 +17,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<p>A hibernation mode to minimise battery drain and prevent losing jailbreak</p>",
+                    "markdown": "<p>A simple yet powerful battery theming engine for 13-14.</p>",
                     "useRawFormat": true
                 },
                 {
@@ -33,8 +33,8 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://paisseon.github.io/info/reverie.png",
-                            "fullSizeURL": "https://paisseon.github.io/info/reverie.png"
+                            "url": "https://paisseon.github.io/info/vivy.png",
+                            "fullSizeURL": "https://paisseon.github.io/info/vivy.png"
                         }
                     ]
                 },
@@ -55,12 +55,12 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "2.0"
+                    "text": "1.0"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Price",
-                    "text": "Fate Illya Route"
+                    "text": "DDLC Sequel"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -72,7 +72,7 @@
                         {
                             "class": "DepictionTableButtonView",
                             "title": "Support",
-                            "action": "https://github.com/Paisseon/Reverie",
+                            "action": "https://github.com/Paisseon/Vivy",
                             "openExternal": true
                         }
                     ]
@@ -88,50 +88,6 @@
             "class": "DepictionStackView",
             "tintColor": "#8600ff",
             "views": [
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "2.0"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>New preferences<\\/li>\n<li>Rewrite battery detection mechanism<\\/li>\n<li>Add option to choose automatic sleep/wake percentage<\\/li><\\/ul>",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "1.3"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Rewrite OLED logo view to be much cleaner<\\/li><\\/ul>",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "1.2"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Fix control centre module on arm64e<\\/li>\n<li>Add logo view like Sentinel<\\/li><\\/ul>",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "1.1"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Add control centre module to sleep<\\/li><\\/ul>",
-                    "useRawFormat": true
-                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
