@@ -83,6 +83,24 @@ Icon: https://i.imgur.com/ny2sIkb.png
 
 Package: ai.paisseon.vivy
 Architecture: iphoneos-arm
+Version: 1.0-2
+Maintainer: paisseon
+Installed-Size: 388
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debians/ai.paisseon.vivy_1.0-2_iphoneos-arm.deb
+Size: 63874
+MD5sum: 1cc8762aa8f9c26b43ab5a6f36b61eb2
+SHA1: 80fb6843a7b9d635f8120fa18017290713ec08ed
+SHA256: 34fcd1ee7d142715fdf0940e62d75ece566920ae709fee7f03ce4cf5fb8b7adc
+SHA512: c1106dbdc55d23e88223b86cac1b5800bd215a7f22a52f0bf94140ba2b99eb1add0e7fe42b4037f9f23b8dddaffbd91b9741a9434401a9023ab37515217a75ef
+Description: Fluorite Ion's Song
+Name: Vivy
+Author: paisseon
+Icon: https://i.imgur.com/5Bmm40D.png
+SileoDepiction: https://paisseon.github.io/info/vivy.json
+
+Package: ai.paisseon.vivy
+Architecture: iphoneos-arm
 Version: 1.0-1
 Maintainer: paisseon
 Installed-Size: 384
