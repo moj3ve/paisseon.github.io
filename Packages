@@ -65,6 +65,24 @@ Author: paisseon
 Icon: https://i.imgur.com/HHOvZoD.png
 SileoDepiction: https://paisseon.github.io/info/satella.json
 
+Package: ai.paisseon.satella
+Architecture: iphoneos-arm
+Version: 2.1-10
+Maintainer: paisseon
+Installed-Size: 340
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/ai.paisseon.satella_2.1-10_iphoneos-arm.deb
+Size: 49048
+MD5sum: b9cbfaf3b9cb0845099f1d8390825891
+SHA1: a55151c7b34ab28bd5b0ec2292df8e966e4a9c85
+SHA256: 4b147bf67c3a4e8c7c91d540eddb083e72dc202ef9694ff49c25b649baaaac7a
+SHA512: 2457a50deff56a1f17ee78fe630c7a0c01aa940243cb709642a62ff1ce8f61eb95965b0bdb0d6d5b6d00cbcaf5073aacf081eb5b19c2da77dc7bfe2fe8c070d3
+Description: Aishiteru
+Name: Satella
+Author: paisseon
+Icon: https://i.imgur.com/HHOvZoD.png
+SileoDepiction: https://paisseon.github.io/info/satella.json
+
 Package: ai.paisseon.seele
 Architecture: iphoneos-arm
 Version: 2.0

@@ -96,7 +96,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>New preferences<\\/li>\n<li>Rewrite battery detection mechanism<\\/li>\n<li>Add option to choose automatic sleep/wake percentage<\\/li><\\/ul>",
+                    "markdown": "<ul>\n<li>New preferences</li>\n<li>Rewrite battery detection mechanism</li>\n<li>Add option to choose automatic sleep/wake percentage</li></ul>",
                     "useRawFormat": true
                 },
                 {
@@ -107,7 +107,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Rewrite OLED logo view to be much cleaner<\\/li><\\/ul>",
+                    "markdown": "<ul>\n<li>Rewrite OLED logo view to be much cleaner</li></ul>",
                     "useRawFormat": true
                 },
                 {
@@ -118,7 +118,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Fix control centre module on arm64e<\\/li>\n<li>Add logo view like Sentinel<\\/li><\\/ul>",
+                    "markdown": "<ul>\n<li>Fix control centre module on arm64e</li>\n<li>Add logo view like Sentinel</li></ul>",
                     "useRawFormat": true
                 },
                 {
@@ -129,7 +129,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Add control centre module to sleep<\\/li><\\/ul>",
+                    "markdown": "<ul>\n<li>Add control centre module to sleep</li></ul>",
                     "useRawFormat": true
                 },
                 {
@@ -140,7 +140,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Initial release<\\/li><\\/ul>",
+                    "markdown": "<ul>\n<li>Initial release</li></ul>",
                     "useRawFormat": true
                 }
             ]

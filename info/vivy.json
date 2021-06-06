@@ -96,7 +96,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Attempt to fix <\\/li><\\/ul>",
+                    "markdown": "<ul>\n<li>Attempt to fix </li></ul>",
                     "useRawFormat": true
                 },
                 {
@@ -107,7 +107,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Initial release<\\/li><\\/ul>",
+                    "markdown": "<ul>\n<li>Initial release</li></ul>",
                     "useRawFormat": true
                 }
             ]

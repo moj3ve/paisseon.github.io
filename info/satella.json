@@ -17,7 +17,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<p>A modern and feature-filled IAP cracker for iOS 13-14.</p>",
+                    "markdown": "<p>A modern and feature-filled IAP cracker for iOS 12-14.</p>",
                     "useRawFormat": true
                 },
                 {
@@ -92,11 +92,22 @@
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
+                    "title": "2.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>iOS 12 support</li>\n<li>Fix bug with some apps crashing</li></ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
                     "title": "2.0"
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>New preferences<\\/li>\n<li>Complete rewrite of receipt faker<\\/li>\n<li>Fix bug where Satella injects into non-user applications<\\/li><\\/ul>",
+                    "markdown": "<ul>\n<li>New preferences</li>\n<li>Complete rewrite of receipt faker</li>\n<li>Fix bug where Satella injects into non-user applications</li></ul>",
                     "useRawFormat": true
                 },
                 {
@@ -107,7 +118,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Fix bug where unc0ver users can't rejailbreak<\\/li><\\/ul>",
+                    "markdown": "<ul>\n<li>Fix bug where unc0ver users can't rejailbreak</li></ul>",
                     "useRawFormat": true
                 },
                 {
@@ -118,7 +129,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Add blacklist feature<\\/li>\n<li>Stabilise receipt spoofing<\\/li><\\/ul>",
+                    "markdown": "<ul>\n<li>Add blacklist feature</li>\n<li>Stabilise receipt spoofing</li></ul>",
                     "useRawFormat": true
                 },
                 {
@@ -129,7 +140,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Add receipt spoofing<\\/li>\n<li>Merge experimental features into main tweak<\\/li><\\/ul>",
+                    "markdown": "<ul>\n<li>Add receipt spoofing</li>\n<li>Merge experimental features into main tweak</li></ul>",
                     "useRawFormat": true
                 },
                 {
@@ -140,7 +151,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Add experimental features<\\/li><\\/ul>",
+                    "markdown": "<ul>\n<li>Add experimental features</li></ul>",
                     "useRawFormat": true
                 },
                 {
@@ -151,7 +162,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Add preferences<\\/li><\\/ul>",
+                    "markdown": "<ul>\n<li>Add preferences</li></ul>",
                     "useRawFormat": true
                 },
                 {
@@ -162,7 +173,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Initial public release<\\/li><\\/ul>",
+                    "markdown": "<ul>\n<li>Initial public release</li></ul>",
                     "useRawFormat": true
                 },
                 {
@@ -173,7 +184,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Closed beta release<\\/li><\\/ul>",
+                    "markdown": "<ul>\n<li>Closed beta release</li></ul>",
                     "useRawFormat": true
                 }
             ]
