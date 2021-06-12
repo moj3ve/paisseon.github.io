@@ -17,7 +17,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<p>A simple yet powerful battery theming engine for 13-14.</p><p>Features:</p><br><ul>\n<li>Create your own custom battery icon in minutes</li>\n<li>Multiple fill styles</li>\n<li>Several icons right out of the box</li></ul><br><p>Known issues/limitations:</p><br><ul>\n<li>Some users have reported Vivy making their icon disappear. I have been unable to replicate the error and have added an update intending to fix it, but nobody reported back ¯\_ (ツ)_/¯</li></ul>",
+                    "markdown": "<p>A simple yet powerful battery theming engine for 13-14.</p><p>Features:</p><ul>\n<li>Create your own custom battery icon in minutes</li>\n<li>Multiple fill styles</li>\n<li>Several icons right out of the box</li></ul><br><p>Known issues/limitations:</p><ul>\n<li>Some users have reported Vivy making their icon disappear. I have been unable to replicate the error and have added an update intending to fix it, but nobody reported back 🤷</li></ul>",
                     "useRawFormat": true
                 },
                 {
@@ -60,7 +60,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Price",
-                    "text": "DDLC Sequel (Update June 11: It's happening! :zerotwohype:)"
+                    "text": "DDLC Plus :zerotwohype:"
                 },
                 {
                     "class": "DepictionSpacerView",
