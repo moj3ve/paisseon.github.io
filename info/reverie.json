@@ -17,7 +17,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<p>A hibernation mode to minimise battery drain and prevent losing jailbreak</p>",
+                    "markdown": "<p>A hibernation mode to minimise battery drain and prevent losing jailbreak</p><br><p>Features:</p><br><ul>\n<li>Use a built-in hibernation to save maximum battery</li>\n<li>Temporarily disable battery-draining features</li>\n<li>Wake at any time by pressing volume up x3</li></ul><br><p>Known issues/limitations:</p><br><ul>\n<li>None!</li></ul>",
                     "useRawFormat": true
                 },
                 {
@@ -60,7 +60,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Price",
-                    "text": "Fate Illya Route"
+                    "text": "Illya Route in Fate/Stay Night"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -96,7 +96,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>New preferences</li>\n<li>Rewrite battery detection mechanism</li>\n<li>Add option to choose automatic sleep/wake percentage</li></ul>",
+                    "markdown": "<ul>\n<li>New preferences</li>\n<li>Improve battery detection</li>\n<li>Add option to choose automatic sleep/wake percentage</li></ul>",
                     "useRawFormat": true
                 },
                 {
