@@ -1,0 +1,18 @@
+Origin: Paisseon's Repo 
+Label: Paisseon's Repo
+Suite: stable
+Version: 1.0
+Codename: PSN
+Architectures: iphoneos-arm
+Components: main
+Description: Open source tweaks for 13-14 device
+MD5Sum:
+ 716ae7e8f537842ee97b1b6bbad5d030 5444 Packages
+ 6cab9be09bb8b631ea5a4a91ecc254e3 1912 Packages.bz2
+ 60579cecec6d3c13ca3689e3b9eb4dd0 1741 Packages.gz
+ 0d9981f365721b54c74b4b6f0c3c9fa4 1643 Packages.zst
+SHA256:
+ 1a8ab05faddbd18cdbe578f8c32f621398464322c33eddab88688b59191666ea 5444 Packages
+ 85b90dbf630f65d42b2f7c171a93e042bb864cafda04c5652321d648a4820b43 1912 Packages.bz2
+ 5bcb72f734ef5aabb2abaa8c95055927c530d3e136a2afcfeaefbb607d701b8b 1741 Packages.gz
+ c0a6b99d8cb95b2894300fa6e70aadaeaa5a9749e3031380933ea7324d615b7e 1643 Packages.zst

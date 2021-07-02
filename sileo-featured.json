@@ -1,0 +1,31 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://i.imgur.com/HHOvZoD.png",
+        "title": "Satella",
+        "package": "ai.paisseon.satella",
+        "hideShadow": false
+    },
+    {
+        "url": "https://i.imgur.com/5Bmm40D.png",
+        "title": "Vivy",
+        "package": "ai.paisseon.vivy",
+        "hideShadow": false
+    },
+    {
+        "url": "https://i.imgur.com/oF8M1mG.png",
+        "title": "Reverie",
+        "package": "ai.paisseon.reverie",
+        "hideShadow": false
+    },
+    {
+        "url": "https://i.imgur.com/tlMa7ge.png",
+        "title": "Dark Keys Reborn",
+        "package": "ai.paisseon.darkkeysreborn",
+        "hideShadow": false
+    }
+  ]
+}

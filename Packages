@@ -1,0 +1,163 @@
+Package: ai.paisseon.darkkeysreborn
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Depends: mobilesubstrate
+Filename: debs/ai.paisseon.darkkeysreborn_2.2_iphoneos-arm.deb
+Size: 29416
+MD5sum: aa8951b3e150062e28159e380d958234
+SHA1: d865aec304a6791bd2bcb3b4e5746d09a0164002
+SHA256: 5bb977c1b0efb42e42e34874e0cf2edae4c0564044569ade2901405178b628bf
+Description: A true dark keyboard
+Author: paisseon
+Icon: https://i.imgur.com/tlMa7ge.png
+Name: Dark Keys Reborn
+
+Package: ai.paisseon.peepreborn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Depends: mobilesubstrate
+Filename: debs/ai.paisseon.peepreborn_1.0_iphoneos-arm.deb
+Size: 7736
+MD5sum: cabdd49834daef373d6b11560a9190e3
+SHA1: 1f27d5b3918dceb3698510abb06da7211d09e431
+SHA256: dc5a0c0d8c1f604d9f167b86a3ddaa82f65b7febf7ee552f5ccd7de77bdfed33
+Description: Tap to hide status bar
+Author: paisseon
+Icon: https://i.imgur.com/h5O0g3Y.png
+Name: Peep Reborn
+
+Package: ai.paisseon.reverie
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Depends: firmware (>= 13.0), mobilesubstrate, com.creaturecoding.crux
+Conflicts: com.megadev.sentinel, love.litten.puck
+Filename: debs/ai.paisseon.reverie_2.0_iphoneos-arm.deb
+Size: 64176
+MD5sum: 07fe437c6ae4ead5888f841052dcc5e1
+SHA1: 05b053b7ae857e7ae8a81b37f09d1fdc184f9baf
+SHA256: 218ed5a6f4b5632742cfb4a928847b602e0209921eee346f1318c3d1d0ee8be4
+Description: Let your iPhone daydream
+Author: paisseon
+Icon: https://i.imgur.com/oF8M1mG.png
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/info/reverie.json
+
+Package: ai.paisseon.satella
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/ai.paisseon.satella_2.0_iphoneos-arm.deb
+Size: 55372
+MD5sum: 64e133f27a9ff5f2e6a338570e212ac8
+SHA1: 7495f1e0fa41a13655059a995ea6530a7589fb6a
+SHA256: f1b72e953393f673b917cf5126fb18c0c2b1d7aadc0d522fc4946d9486f56faf
+Description: Aishiteru
+Author: paisseon
+Icon: https://i.imgur.com/HHOvZoD.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
+Package: ai.paisseon.satella
+Version: 2.1-10
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Installed-Size: 340
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/ai.paisseon.satella_2.1-10_iphoneos-arm.deb
+Size: 49048
+MD5sum: b9cbfaf3b9cb0845099f1d8390825891
+SHA1: a55151c7b34ab28bd5b0ec2292df8e966e4a9c85
+SHA256: 4b147bf67c3a4e8c7c91d540eddb083e72dc202ef9694ff49c25b649baaaac7a
+Description: Aishiteru
+Author: paisseon
+Icon: https://i.imgur.com/HHOvZoD.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
+Package: ai.paisseon.satella
+Version: 2.2-1
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Installed-Size: 344
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/ai.paisseon.satella_2.2-1_iphoneos-arm.deb
+Size: 49514
+MD5sum: ed8f01a50cdc08bcb80fba4be7659c31
+SHA1: 7750abee7092865bf907c6ca32c021ad86f92a2a
+SHA256: 2a3047a96f93cc967b5460174282a78681a9419f47af740e8bb2831d53cd9ffe
+Description: Aishiteru
+Author: paisseon
+Icon: https://i.imgur.com/HHOvZoD.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
+Package: ai.paisseon.seele
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Depends: firmware (>= 13.0), org.coolstar.libhooker, preferenceloader
+Filename: debs/ai.paisseon.seele_2.0_iphoneos-arm'.deb
+Size: 22536
+MD5sum: 68a140e1dc16fa989e7cef8e0bd3d6db
+SHA1: 217984b41fea5fbe1d664d92044f0fb58b1409a1
+SHA256: 0fe107e0d46dc1e2930735b5b8c363a2b897b070eb2ae9244582c0f2637b2d57
+Description: It shall be eternal proof that mankind ever existed.
+Author: paisseon
+Icon: https://i.imgur.com/ny2sIkb.png
+Name: Seele
+
+Package: ai.paisseon.vivy
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Installed-Size: 384
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: debs/ai.paisseon.vivy_1.0_iphoneos-arm.deb
+Size: 63690
+MD5sum: 6078069862489eb1c2251802b6b09ba2
+SHA1: 271d575d18a64e7c9c504689da542a680ae2ba00
+SHA256: 888011d8698eaa2641b090278be61a6a29eaa12a4770ccc6b6a1a7fd053324f5
+Description: Fluorite Ion's Song
+Author: paisseon
+Icon: https://i.imgur.com/5Bmm40D.png
+Name: Vivy
+Sileodepiction: https://paisseon.github.io/info/vivy.json
+
+Package: ai.paisseon.vivy
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Installed-Size: 388
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: debs/ai.paisseon.vivy_1.0-2_iphoneos-arm.deb
+Size: 63874
+MD5sum: 1cc8762aa8f9c26b43ab5a6f36b61eb2
+SHA1: 80fb6843a7b9d635f8120fa18017290713ec08ed
+SHA256: 34fcd1ee7d142715fdf0940e62d75ece566920ae709fee7f03ce4cf5fb8b7adc
+Description: Fluorite Ion's Song
+Author: paisseon
+Icon: https://i.imgur.com/5Bmm40D.png
+Name: Vivy
+Sileodepiction: https://paisseon.github.io/info/vivy.json
+
+Package: ai.paisseon.vivy
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Installed-Size: 840
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: debs/ai.paisseon.vivy_1.1_iphoneos-arm.deb
+Size: 72220
+MD5sum: bbfa36888af5025379ab79a1befcdc4e
+SHA1: 9e064149f8080b562d42509712cfa2002a07cc23
+SHA256: 5629997e8d6590696053abad9cd2ad0516b885571440723ce1e4b48ce6aaa7b4
+Description: Fluorite Ion's Song
+Author: paisseon
+Icon: https://i.imgur.com/5Bmm40D.png
+Name: Vivy
+Sileodepiction: https://paisseon.github.io/info/vivy.json
+
