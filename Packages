@@ -45,6 +45,24 @@ Icon: https://i.imgur.com/oF8M1mG.png
 Name: Reverie
 Sileodepiction: https://paisseon.github.io/info/reverie.json
 
+Package: ai.paisseon.reverie
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Installed-Size: 1200
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.megadev.sentinel, love.litten.puck
+Filename: debs/ai.paisseon.reverie_2.1_iphoneos-arm.deb
+Size: 71236
+MD5sum: b6e9495cdc1c23c785a8d256e8078890
+SHA1: 847ccb250781e84c776646e7e9504638ecc158b7
+SHA256: 3b43e78f6323475da48f4e993ad8651ad67c9e8d63a57d8cbf854a5def3646fa
+Description: Let your iPhone daydream
+Author: paisseon
+Icon: https://i.imgur.com/oF8M1mG.png
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/info/reverie.json
+
 Package: ai.paisseon.satella
 Version: 2.0
 Architecture: iphoneos-arm
@@ -151,11 +169,11 @@ Maintainer: paisseon
 Installed-Size: 840
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: debs/ai.paisseon.vivy_1.1_iphoneos-arm.deb
-Size: 72220
-MD5sum: bbfa36888af5025379ab79a1befcdc4e
-SHA1: 9e064149f8080b562d42509712cfa2002a07cc23
-SHA256: 5629997e8d6590696053abad9cd2ad0516b885571440723ce1e4b48ce6aaa7b4
-Description: Fluorite Ion's Song
+Size: 69272
+MD5sum: f571f10a01a09196047144300cb68911
+SHA1: 0d3e5cfa8b1bbf79c02e8ee96b49a698b8462a01
+SHA256: bfe2cc9940c9f054478495f4124a1b25288fd5c6e8d0445a192cea0b8d0067e8
+Description: What does it mean to sing from your heart?
 Author: paisseon
 Icon: https://i.imgur.com/5Bmm40D.png
 Name: Vivy
