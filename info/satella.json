@@ -55,7 +55,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "2.3"
+                    "text": "2.4"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -88,6 +88,17 @@
             "class": "DepictionStackView",
             "tintColor": "#8600ff",
             "views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "2.4"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Adds an 'Enable in All' toggle</li>\n<li>Improvements to AnComCatGirls</li>\n<li>Faster server requests for fake receipts</li></ul>",
+					"useRawFormat": true
+				},
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
@@ -107,7 +118,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Switch receipt faker from Grim_Receiper to AnComCatgirls</li></ul>",
+                    "markdown": "<ul>\n<li>Switch receipt faker from Grim_Receiper to AnComCatGirls</li></ul>",
                     "useRawFormat": true
                 },
                 {
@@ -118,7 +129,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>iOS 12 support</li>\n<li>Fix bug causing apps that check transaction_id to crash</li></ul>",
+                    "markdown": "<ul>\n<li>Tentative iOS 12 support</li>\n<li>Fix bug causing apps that check transaction_id to crash</li></ul>",
                     "useRawFormat": true
                 },
                 {
