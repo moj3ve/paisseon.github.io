@@ -1,3 +1,20 @@
+Package: ai.paisseon.cccalc
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: debs/ai.paisseon.cccalc_2.0_iphoneos-arm.deb
+Size: 74468
+MD5sum: b2a1cf75e4ed9045034a0282b7e88214
+SHA1: ca3bae5d7976b2b465b7e49deb3510fe143afd1f
+SHA256: d9dfddf74a82ffce469cf5557e88df6a3ee3de95467ac2d81bf574cf0893276c
+Description: Turn your control centre's calculator module into a real, working calculator
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.cccalc
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
+Name: CCCalc (iOS 14)
+
 Package: ai.paisseon.darkkeysreborn
 Version: 2.2
 Architecture: iphoneos-arm
