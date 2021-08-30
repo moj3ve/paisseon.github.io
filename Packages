@@ -15,6 +15,23 @@ Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.cccalc
 Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
 Name: CCCalc (iOS 14)
 
+Package: ai.paisseon.cydown
+Version: 7.1.1
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown
+Filename: debs/ai.paisseon.cydown_7.1.1_iphoneos-arm.deb
+Size: 2600944
+MD5sum: f2df2f3c5fbb619730601be2e2a2641a
+SHA1: ef0f59378b41d474e0e01ec56d687f2e940be006
+SHA256: 8a75e86c749dfbc9f8827661d2abd2c4ea032680d0f29005ab39bd5595207776
+Description: CyDown but it bypasses more repo DRM
+Author: julioverne <julioverne@me.com>
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown by CyPwn
+
 Package: ai.paisseon.darkkeysreborn
 Version: 2.2
 Architecture: iphoneos-arm
