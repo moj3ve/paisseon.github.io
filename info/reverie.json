@@ -12,31 +12,35 @@
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
-					"useBottomMargin": false,
+					"useBottomMargin": true,
 					"title": "Description"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<p>A hibernation mode to minimise battery drain and prevent losing jailbreak</p><br><b>Features:</b><ul>\n<li>Use a built-in hibernation to save maximum battery</li>\n<li>Temporarily disable battery-draining features</li>\n<li>Wake at any time by pressing volume up x3</li></ul><br><b>Known issues/limitations:</b><ul>\n<li>None!</li></ul>",
+					"markdown": "A hibernation mode to minimise battery drain and prevent losing your jailbreak",
 					"useRawFormat": true
 				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
-					"title": ""
+					"title": "Features"
 				},
 				{
-					"class": "DepictionScreenshotsView",
-					"itemCornerRadius": 6,
-					"itemSize": "{160, 284.44444444444}",
-					"screenshots": [
-						{
-							"accessibilityText": "Screenshot",
-							"url": "https://paisseon.github.io/info/reverie.png",
-							"fullSizeURL": "https://paisseon.github.io/info/reverie.png"
-						}
-					]
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Use a built-in hibernation to save maximum battery</li>\n<li>Temporarily disable battery-draining features</li>\n<li>Wake at any time by pressing volume up x3</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "Known Issues"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul><li>Wait, a Paisseon tweak without a million bugs? Impossible!</li></ul>",
+					"useRawFormat": true
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -71,9 +75,15 @@
 					"views": [
 						{
 							"class": "DepictionTableButtonView",
-							"title": "Support",
+							"title": "Source Code",
 							"action": "https://github.com/Paisseon/Reverie",
-							"openExternal": true
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "CyPwn's Discord",
+							"action": "https://discord.com/invite/cZ2gBRZvwW",
+							"openExternal": false
 						}
 					]
 				},

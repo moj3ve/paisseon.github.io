@@ -32,6 +32,23 @@ Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cy
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown by CyPwn
 
+Package: ai.paisseon.cydown
+Version: 7.1.2
+Architecture: iphoneos-arm
+Maintainer: Julioverne & CyPwn
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown, org.mr.cydown, ru.rj.cydown
+Filename: debs/ai.paisseon.cydown_7.1.2_iphoneos-arm.deb
+Size: 2603784
+MD5sum: e0c8374b69e3be41cb6d8e1a6f99e89a
+SHA1: 67b83a44de7b9bc498c6f0bc512932ebc9a653a4
+SHA256: baedad03fdb18b2593ba8650a1a7b44c15baafe5a9565cb07827349a82bb88f3
+Description: Download tweaks for free
+Author: Julioverne & CyPwn
+Icon: https://i.imgur.com/BPVZyJ4.png
+Name: CyDown++
+Sileodepiction: https://paisseon.github.io/info/cydown.json
+
 Package: ai.paisseon.darkkeysreborn
 Version: 2.2
 Architecture: iphoneos-arm

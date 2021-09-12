@@ -12,12 +12,34 @@
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
-					"useBottomMargin": false,
+					"useBottomMargin": true,
 					"title": "Description"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<p>A fast and modern IAP hacker for iOS 13-14, also the only open source IAP hack ever!</p><br><b>Features:</b><ul>\n<li>The only open source IAP hacker for iOS</li>\n<li>Compatible with iOS 12-14 and all devices newer than iPhone 6</li>\n<li>Fast and lightweight, injects only into the apps you choose</li>\n<li>Option to fake receipts, which means you can hack more apps</li></ul>\n<b>Known issues/limitations:</b><ul>\n<li>Receipt faking works on iOS 13 but will fail on iOS 14.</li>\n<li>Server-sided purchases, including all subscriptions, will fail.</li></ul>",
+					"markdown": "A fast and modern IAP hacker for iOS 13-14, also the only open source IAP hack ever!",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "Features"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>The only open source IAP hacker for iOS</li>\n<li>Compatible with iOS 13-14 and all iPhone/iPad newer than iPhone 6</li>\n<li>Fast and lightweight, injects only into the apps you choose</li>\n<li>Option to fake receipts, which means you can hack more apps</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "Known Issues"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Receipt faker doesn't work on iOS 14 and I'm not good enough to fix it (yet?)</li>\n<li>Server sided purchases, including all subscriptions, are incompatible with Satella</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -73,7 +95,13 @@
 							"class": "DepictionTableButtonView",
 							"title": "Source Code",
 							"action": "https://github.com/Paisseon/Satella",
-							"openExternal": true
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "CyPwn's Discord",
+							"action": "https://discord.com/invite/cZ2gBRZvwW",
+							"openExternal": false
 						}
 					]
 				},

@@ -12,12 +12,12 @@
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
-					"useBottomMargin": false,
+					"useBottomMargin": true,
 					"title": "Description"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "A simple yet powerful battery theming engine for 13-14",
+					"markdown": "Download paid tweaks for free in your package manager. It works by preventing CyDown from deleting debs that fail a MD5sum check (abused by repos to add DRM), instead holding them in temporary folders until the CyPwn script converts them into working tweaks.<br><br>Most of the credit goes to Julioverne for creating the original CyDown, we just update it since he has abandoned it since October 2020.",
 					"useRawFormat": true
 				},
 				{
@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Create your own custom battery icon with a single PNG</li>\n<li>Fill horizontally, vertically, or in a circle</li>\n<li>Several themes included right out of the box</li></ul>",
+					"markdown": "<ul>\n<li>Works with Cydia, Zebra, and Installer</li>\n<li>Bypass DRM that blocks Julio's original CyDown</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul><li>The icon might have a battery outline around it-- I'm working on fixing this</li></ul>",
+					"markdown": "<ul>\n<li>Doesn't work with Sileo, Saily, or Icy. Adding support for them is above my level given that I am using IDA Pro and a hex editor for this.</li>\n<li>Unsupported URL error is not a bug. Just be patient and try again later.</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -53,13 +53,13 @@
 				},
 				{
 					"class": "DepictionTableTextView",
-					"title": "Author",
-					"text": "Paisseon"
+					"title": "Authors",
+					"text": "Julioverne & CyPwn"
 				},
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "1.2"
+					"text": "7.1.2"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -73,12 +73,6 @@
 				{
 					"class": "DepictionStackView",
 					"views": [
-						{
-							"class": "DepictionTableButtonView",
-							"title": "Source Code",
-							"action": "https://github.com/Paisseon/Vivy",
-							"openExternal": false
-						},
 						{
 							"class": "DepictionTableButtonView",
 							"title": "CyPwn's Discord",
@@ -102,40 +96,18 @@
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
-					"title": "1.2"
+					"title": "7.1.2"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>More user-friendly theme selection</li></ul>",
+					"markdown": "<ul>\n<li>Add compatibility with Cydia</li>\n<li>Fixed error message showing when download succeeds</li></ul>",
 					"useRawFormat": true
 				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
-					"title": "1.1"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Actually fix the display bug</li></ul>",
-					"useRawFormat": true
-				},
-				{
-					"class": "DepictionSubheaderView",
-					"useBoldText": true,
-					"useBottomMargin": false,
-					"title": "1.0.1"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Attempt to fix icon not displaying</li></ul>",
-					"useRawFormat": true
-				},
-				{
-					"class": "DepictionSubheaderView",
-					"useBoldText": true,
-					"useBottomMargin": false,
-					"title": "1.0"
+					"title": "7.1.1"
 				},
 				{
 					"class": "DepictionMarkdownView",
