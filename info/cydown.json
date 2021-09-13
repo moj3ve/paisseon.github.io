@@ -17,7 +17,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Download paid tweaks for free in your package manager. It works by preventing CyDown from deleting debs that fail a MD5sum check (abused by repos to add DRM), instead holding them in temporary folders until the CyPwn script converts them into working tweaks.<br><br>Most of the credit goes to Julioverne for creating the original CyDown, we just update it since he has abandoned it since October 2020.",
+					"markdown": "Download paid tweaks for free and more! Modified version of CyDown by Julioverne",
 					"useRawFormat": true
 				},
 				{
@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Doesn't work with Sileo, Saily, or Icy. Adding support for them is above my level given that I am using IDA Pro and a hex editor for this.</li>\n<li>Unsupported URL error is not a bug. Just be patient and try again later.</li></ul>",
+					"markdown": "<ul>\n<li>Doesn't work with Sileo, Saily, or Icy. Adding support for them is above my level given that I am using IDA Pro and a hex editor for this.</li>\n<li>Unsupported URL error is not a bug. Just be patient and try again later or request it on CyPwn's Discord: https://discord.gg/cZ2gBRZvwW.</li></ul>",
 					"useRawFormat": true
 				},
 				{

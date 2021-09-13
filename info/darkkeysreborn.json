@@ -17,7 +17,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Let your iPhone daydream",
+					"markdown": "Bring a true dark mode to the iOS keyboard",
 					"useRawFormat": true
 				},
 				{
@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Use a built-in hibernation to save maximum battery</li>\n<li>Temporarily disable battery-draining features</li>\n<li>Wake at any time by pressing volume up x3</li></ul>",
+					"markdown": "<ul>\n<li>Looks great on OLED phones</li>\n<li>Toggle whether to show or hide keycaps</li>\n<li>Option to disable dark keyboard when device is in light mode</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul><li>Wait, a Paisseon tweak without a million bugs? Impossible!</li></ul>",
+					"markdown": "<ul>\n<li>Don't think there's any.</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "2.2"
+					"text": "2.3"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -76,13 +76,19 @@
 						{
 							"class": "DepictionTableButtonView",
 							"title": "Source Code",
-							"action": "https://github.com/Paisseon/Reverie",
+							"action": "https://github.com/Paisseon/DarkKeysReborn",
 							"openExternal": false
 						},
 						{
 							"class": "DepictionTableButtonView",
 							"title": "CyPwn's Discord",
 							"action": "https://discord.com/invite/cZ2gBRZvwW",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Featured on iDownloadBlog",
+							"action": "https://www.idownloadblog.com/2021/08/05/dark-keys-reborn/",
 							"openExternal": false
 						}
 					]
@@ -102,11 +108,22 @@
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
+					"title": "2.3"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Modern prefs + remove Cephei</li>\n<li>Cleaner code</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
 					"title": "2.2"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Added the option to disable Reverie whilst charging</li></ul>",
+					"markdown": "<ul>\n<li>Add toggle to disable in light mode</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -117,7 +134,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Remove dependency on crux</li></ul>",
+					"markdown": "<ul>\n<li>Fix blinding keyboard in light mode</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -128,7 +145,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>New preferences</li>\n<li>Improve battery detection</li>\n<li>Add option to choose automatic sleep/wake percentage</li></ul>",
+					"markdown": "<ul>\n<li>Add preferences</li>\n<li>Add toggle to hide key caps</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -139,7 +156,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Rewrite OLED logo view to be much cleaner</li></ul>",
+					"markdown": "<ul>\n<li>My commit doesn't say what this did and I'm too lazy to find out.</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -150,7 +167,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Fix control centre module on arm64e</li>\n<li>Add logo view like Sentinel</li></ul>",
+					"markdown": "<ul>\n<li>Fix crash in apps with custom keyboards (iA Writer)</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -161,7 +178,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Add control centre module to sleep</li></ul>",
+					"markdown": "<ul>\n<li>Optimise code (remove layoutSubviews)</li></ul>",
 					"useRawFormat": true
 				},
 				{

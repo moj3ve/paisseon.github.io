@@ -17,7 +17,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "A fast and modern IAP hacker for iOS 13-14, also the only open source IAP hack ever!",
+					"markdown": "Aishiteru",
 					"useRawFormat": true
 				},
 				{
@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>The only open source IAP hacker for iOS</li>\n<li>Compatible with iOS 13-14 and all iPhone/iPad newer than iPhone 6</li>\n<li>Fast and lightweight, injects only into the apps you choose</li>\n<li>Option to fake receipts, which means you can hack more apps</li></ul>",
+					"markdown": "<ul>\n<li>The only open source IAP cracker ever made for iOS</li>\n<li>Compatible with iOS 13-14 and all iPhone/iPad newer than iPhone 6</li>\n<li>Fast and lightweight, injects only into the apps you choose</li>\n<li>Option to fake receipts, which means you can hack more apps</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -41,24 +41,6 @@
 					"class": "DepictionMarkdownView",
 					"markdown": "<ul>\n<li>Receipt faker doesn't work on iOS 14 and I'm not good enough to fix it (yet?)</li>\n<li>Server sided purchases, including all subscriptions, are incompatible with Satella</li></ul>",
 					"useRawFormat": true
-				},
-				{
-					"class": "DepictionSubheaderView",
-					"useBoldText": true,
-					"useBottomMargin": false,
-					"title": ""
-				},
-				{
-					"class": "DepictionScreenshotsView",
-					"itemCornerRadius": 6,
-					"itemSize": "{160, 284.44444444444}",
-					"screenshots": [
-						{
-							"accessibilityText": "Screenshot",
-							"url": "https://paisseon.github.io/info/satella.png",
-							"fullSizeURL": "promoimgurl"
-						}
-					]
 				},
 				{
 					"class": "DepictionSeparatorView"

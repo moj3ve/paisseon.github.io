@@ -17,7 +17,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "A simple yet powerful battery theming engine for 13-14",
+					"markdown": "What does it mean to sing with all your heart?",
 					"useRawFormat": true
 				},
 				{
@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul><li>The icon might have a battery outline around it-- I'm working on fixing this</li></ul>",
+					"markdown": "<ul><li>I *think* I fixed all of them.</li></ul>",
 					"useRawFormat": true
 				},
 				{
