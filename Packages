@@ -15,6 +15,24 @@ Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.cccalc
 Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
 Name: CCCalc (iOS 14)
 
+Package: ai.paisseon.cccalc
+Version: 2.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: gilesgc & paisseon
+Installed-Size: 328
+Depends: mobilesubstrate
+Filename: debs/ai.paisseon.cccalc_2.0.1-1+debug_iphoneos-arm.deb
+Size: 47580
+MD5sum: 87eed7aabaf22442d48960f0fb2ffb59
+SHA1: a0596a523ba7256e40142f126c89841c6c2e5467
+SHA256: 8dba5daf2a3d42d4d3d7a39edd1ab09519e78fcfbca5377b80251b1c08926c54
+Description: Turn the Calculator CC module into a working calculator
+Author: gilesgc & paisseon
+Depiction: https://paisseon.github.io/info/cccalc.html
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
+Name: CCCalc
+Sileodepiction: https://paisseon.github.io/info/cccalc.json
+
 Package: ai.paisseon.cydown
 Version: 7.1.1
 Architecture: iphoneos-arm
@@ -39,10 +57,10 @@ Maintainer: Julioverne & CyPwn
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.cydown, org.mr.cydown, ru.rj.cydown
 Filename: debs/ai.paisseon.cydown_7.1.2_iphoneos-arm.deb
-Size: 2603784
-MD5sum: e0c8374b69e3be41cb6d8e1a6f99e89a
-SHA1: 67b83a44de7b9bc498c6f0bc512932ebc9a653a4
-SHA256: baedad03fdb18b2593ba8650a1a7b44c15baafe5a9565cb07827349a82bb88f3
+Size: 2600800
+MD5sum: 12937e20e855a307f3ccb52daba6042f
+SHA1: 99bc7ff2ae110f1bbb487e0630acaf42ed868df4
+SHA256: f6c152330a4ad6c461719afd632358517bfbe309be191a975fc6b083649f94c1
 Description: Download tweaks for free
 Author: Julioverne & CyPwn
 Icon: https://i.imgur.com/BPVZyJ4.png
@@ -114,6 +132,25 @@ Icon: https://i.imgur.com/oF8M1mG.png
 Name: Reverie
 Sileodepiction: https://paisseon.github.io/info/reverie.json
 
+Package: ai.paisseon.reverie
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 788
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.megadev.sentinel, love.litten.puck
+Filename: debs/ai.paisseon.reverie_2.2_iphoneos-arm.deb
+Size: 56608
+MD5sum: 4840295c31dd621bce1510a1d7f82924
+SHA1: ce02cc8b9aca673c93441a6a6eec11cf5172da88
+SHA256: 0a78fa08eda22af176de7e055dc5934940d88f72dffad41911771165ebdba435
+Description: Hibernate when your battery gets low
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/reverie.html
+Icon: https://paisseon.github.io/info/reverie.png
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/info/reverie.json
+
 Package: ai.paisseon.satella
 Version: 2.0
 Architecture: iphoneos-arm
@@ -181,6 +218,24 @@ Icon: https://i.imgur.com/HHOvZoD.png
 Name: Satella
 Sileodepiction: https://paisseon.github.io/info/satella.json
 
+Package: ai.paisseon.satella
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 404
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/ai.paisseon.satella_2.5_iphoneos-arm.deb
+Size: 47684
+MD5sum: 1a120e99da22ad8c1896531fab1db0a8
+SHA1: 0bc868015962381c7177a46c54ae6f827e2e6b61
+SHA256: 01c5f83348c522d3ea7f2ab91f7139a11750a2b0c4b8c67bcf8711cdccaef723
+Description: IAP cracker for modern devices
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/satella.html
+Icon: https://paisseon.github.io/info/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
 Package: ai.paisseon.seele
 Version: 2.0
 Architecture: iphoneos-arm
@@ -244,6 +299,25 @@ SHA256: bfe2cc9940c9f054478495f4124a1b25288fd5c6e8d0445a192cea0b8d0067e8
 Description: What does it mean to sing from your heart?
 Author: paisseon
 Icon: https://i.imgur.com/5Bmm40D.png
+Name: Vivy
+Sileodepiction: https://paisseon.github.io/info/vivy.json
+
+Package: ai.paisseon.vivy
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 452
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Conflicts: com.spark.juice
+Filename: debs/ai.paisseon.vivy_1.2_iphoneos-arm.deb
+Size: 62984
+MD5sum: d28067df3ffb58cf36c938c188889bba
+SHA1: 8281959dbc0f9d11a30e0384f233cef25a8b998c
+SHA256: 102e99d41b6790bad5f935becd296f68f015f30bacc8f2775a0ff4aad8504d7d
+Description: Free battery theming engine
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/vivy.html
+Icon: https://paisseon.github.io/info/vivy.png
 Name: Vivy
 Sileodepiction: https://paisseon.github.io/info/vivy.json
 
