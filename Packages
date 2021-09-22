@@ -33,6 +33,24 @@ Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.p
 Name: CCCalc
 Sileodepiction: https://paisseon.github.io/info/cccalc.json
 
+Package: ai.paisseon.cccalc
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: gilesgc & paisseon
+Installed-Size: 364
+Depends: mobilesubstrate
+Filename: debs/ai.paisseon.cccalc_2.0.2_iphoneos-arm.deb
+Size: 74424
+MD5sum: e404cf55322c6a57ab3862093fd2dcfd
+SHA1: 90a5442b3c1f38296204d1b3047d1085a524e562
+SHA256: cd3b03a038a3d1e1c855944efc4a6c6bb7593d4f76f3bc18e71b1102b123cfad
+Description: Turn the Calculator CC module into a working calculator
+Author: gilesgc & paisseon
+Depiction: https://paisseon.github.io/info/cccalc.html
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
+Name: CCCalc
+Sileodepiction: https://paisseon.github.io/info/cccalc.json
+
 Package: ai.paisseon.cydown
 Version: 7.1.1
 Architecture: iphoneos-arm

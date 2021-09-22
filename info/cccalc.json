@@ -53,13 +53,13 @@
 				},
 				{
 					"class": "DepictionTableTextView",
-					"title": "Authors",
+					"title": "Developers",
 					"text": "gilesgc & Paisseon"
 				},
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "2.0.1"
+					"text": "2.0.2"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -104,6 +104,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#8600ff",
 			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "2.0.2"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Fix some icons not showing</li>\n<li>Using my own fix again not HaloMichael's. Ivars are gone again!</li></ul>",
+					"useRawFormat": true
+				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
