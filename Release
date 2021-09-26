@@ -2,17 +2,17 @@ Origin: Paisseon's Repo
 Label: Paisseon's Repo
 Suite: stable
 Version: 1.0
-Codename: PSN
+Codename: EMT
 Architectures: iphoneos-arm
 Components: main
-Description: Open source tweaks for 13-14 device
+Description: Open source tweaks for 13-14 devices
 MD5Sum:
- 055f0a1b5847029fbecce91e9924f56f 12758 Packages
- 412416a9e135d8f341004d43e0095d05 3615 Packages.bz2
- bdba93932850faf988d4d21c6c951c76 3543 Packages.gz
- 835eac0d6ba6e1f478e6c77174028d70 3303 Packages.zst
+ d218abd0a93696b4bd3de4985886d344 14589 Packages
+ 7634f9f8eb65604d2a43b8b13c7ac966 4106 Packages.bz2
+ 66c90bce570c1483e78720c39c7844e8 4097 Packages.gz
+ a0d3205a147e546960441c72e0b8cada 3817 Packages.zst
 SHA256:
- 3f02ac54292262125687313ff8cf2637a2a8db41989f0d48dd906448454696bd 12758 Packages
- b7729700fdd8276cd1785080344f0897300b7d563289582432264e03a1f81b4c 3615 Packages.bz2
- cf3717d6a2a5d0b3a5d2152213accd4b7a17bd1d1d7e25a40a764476dfa9343a 3543 Packages.gz
- 315d345c264f7fb7caa41c8cece9dc0c7b0cc41a7ab8409d170a2c07d22d79b9 3303 Packages.zst
+ f8ad4674f08036a92a8d9602d93679b912cca3169ad23d5d28dabc7630dd80bf 14589 Packages
+ 2934d99eb1fde346760af43a84225132ec1e990ed795eba5c3cf430e8f7c7a97 4106 Packages.bz2
+ f5648691fb80f00ebb0d1135f9acf6a842b0529636cfd47d92ade9a622c319e3 4097 Packages.gz
+ 0815a96f219f8fee3663add5847c38c75aec9b57569713031e3f8ec87a16f55f 3817 Packages.zst

@@ -103,6 +103,24 @@ Icon: https://paisseon.github.io/info/cydown.png
 Name: CyDown++
 Sileodepiction: https://paisseon.github.io/info/cydown.json
 
+Package: ai.paisseon.cydown
+Version: 7.1.4
+Architecture: iphoneos-arm
+Maintainer: Julioverne & CyPwn
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown, org.mr.cydown, ru.rj.cydown
+Filename: debs/ai.paisseon.cydown_7.1.4_iphoneos-arm.deb
+Size: 2602796
+MD5sum: 10fc74051cc47adc8d27e7ff17d8524c
+SHA1: df3c7a34084b140a7afa69ce75bcd727033a0a0b
+SHA256: b81c9f40d96e4639cbdcd3e42c8169fe88d83d7788d66771efc1a46931c81448
+Description: Download tweaks for free
+Author: Julioverne & CyPwn
+Depiction: https://paisseon.github.io/info/cydown.html
+Icon: https://paisseon.github.io/info/cydown.png
+Name: CyDown++
+Sileodepiction: https://paisseon.github.io/info/cydown.json
+
 Package: ai.paisseon.darkkeysreborn
 Version: 2.2
 Architecture: iphoneos-arm
@@ -117,6 +135,21 @@ Description: A true dark keyboard
 Author: paisseon
 Icon: https://i.imgur.com/tlMa7ge.png
 Name: Dark Keys Reborn
+
+Package: ai.paisseon.dodontsuggest
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/ai.paisseon.dodontsuggest_1.0_iphoneos-arm.deb
+Size: 4332
+MD5sum: aba3507385e2c9931870e17d651cd675
+SHA1: 92a62a8e328c37258a5836401d4e0c9727e1d370
+SHA256: 77e330f5b12a626528f45956da87b53905a7cc70f3ff2b784f55c8713b5ced1b
+Description: Hide the music suggestion in Dodo tweak
+Author: Paisseon
+Name: Dodon't Suggest My Music
 
 Package: ai.paisseon.peepreborn
 Version: 1.0
@@ -356,4 +389,20 @@ Depiction: https://paisseon.github.io/info/vivy.html
 Icon: https://paisseon.github.io/info/vivy.png
 Name: Vivy
 Sileodepiction: https://paisseon.github.io/info/vivy.json
+
+Package: com.sudo.debra
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Sudo <sudocat-dev.tweaks@gmail.com>
+Depends: bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1)
+Filename: debs/com.sudo.debra_1.6_iphoneos-arm.deb
+Size: 4178
+MD5sum: 091a68897f9f9c7638693fbde06af868
+SHA1: 3a432da6f6c45d2bbe2ff15cfee4185771f030f7
+SHA256: e8cb33d87f67dc7b85d4d5681d3af6ecbd0917a90710caf3b4c93fc61a36fcea
+Section: Utilities
+Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal.
+Author: Sudo & Paisseon
+Depiction: https://sudocat-dev.github.io/repo/depictions/?p=com.sudo.debra
+Name: Debra
 

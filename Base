@@ -2,7 +2,7 @@ Origin: Paisseon's Repo
 Label: Paisseon's Repo
 Suite: stable
 Version: 1.0
-Codename: PSN
+Codename: EMT
 Architectures: iphoneos-arm
 Components: main
-Description: Open source tweaks for 13-14 device
+Description: Open source tweaks for 13-14 devices

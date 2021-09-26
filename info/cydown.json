@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Doesn't work with Sileo, Saily, or Icy. Adding support for them is above my level given that I am using IDA Pro and a hex editor for this.</li>\n<li>Unsupported URL error is not a bug. Just be patient and try again later or request it on CyPwn's Discord: https://discord.gg/cZ2gBRZvwW.</li></ul>",
+					"markdown": "<ul>\n<li>Doesn't work with Sileo, Saily, or Icy. This is out of CyDown++'s scope.</li>\n<li>Unsupported URL error is not a bug. Just be patient and try again later or request it on CyPwn's Discord: https://discord.gg/cZ2gBRZvwW.</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "7.1.3"
+					"text": "7.1.4"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -73,6 +73,12 @@
 				{
 					"class": "DepictionStackView",
 					"views": [
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Partial Source Code",
+							"action": "https://github.com/paisseon/cydownplusplus",
+							"openExternal": false
+						},
 						{
 							"class": "DepictionTableButtonView",
 							"title": "CyPwn's Discord",
@@ -92,6 +98,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#8600ff",
 			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "7.1.4"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Automatically run the _CyPwn script and go to Filza for installation</li>\n<li>Move all modifications to an external dylib (open source!)</li></ul>",
+					"useRawFormat": true
+				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
