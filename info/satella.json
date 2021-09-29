@@ -17,7 +17,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Aishiteru",
+					"markdown": "I love you. Because you gave me light. Because you took my hand and you taught me about the world outside. Because when I trembled on lonely nights, you never stopped holding my hand. Because when I felt lonely, you kissed me and said that I wasn't alone. You gave me so many things. That's why I love you. Because you gave me everything.",
 					"useRawFormat": true
 				},
 				{
@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "2.5"
+					"text": "2.5.1"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -117,7 +117,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Adds an 'Enable in All' toggle</li>\n<li>Improvements to AnComCatGirls</li>\n<li>Faster server requests for fake receipts</li></ul>",
+					"markdown": "<ul>\n<li>Adds an 'Enable in All Apps' toggle</li>\n<li>Faster server requests for fake receipts</li></ul>",
 					"useRawFormat": true
 				},
 				{

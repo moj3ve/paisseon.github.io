@@ -136,6 +136,24 @@ Author: paisseon
 Icon: https://i.imgur.com/tlMa7ge.png
 Name: Dark Keys Reborn
 
+Package: ai.paisseon.darkkeysreborn
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 552
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: debs/ai.paisseon.darkkeysreborn_2.3_iphoneos-arm.deb
+Size: 51068
+MD5sum: 163b548634f1dee5354a174212f73e1f
+SHA1: 0ff17bc22380b9a76ac4308f8af8c44f17b725e4
+SHA256: 243d0f35e747c6d1ac280957a8b60080053c8e5b119a18e1001e7339cf004c1d
+Description: OLED black keyboard
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/darkkeysreborn.html
+Icon: https://paisseon.github.io/info/darkkeysreborn.png
+Name: Dark Keys Reborn
+Sileodepiction: https://paisseon.github.io/info/darkkeysreborn.json
+
 Package: ai.paisseon.dodontsuggest
 Version: 1.0
 Architecture: iphoneos-arm
@@ -298,6 +316,24 @@ Size: 47684
 MD5sum: 1a120e99da22ad8c1896531fab1db0a8
 SHA1: 0bc868015962381c7177a46c54ae6f827e2e6b61
 SHA256: 01c5f83348c522d3ea7f2ab91f7139a11750a2b0c4b8c67bcf8711cdccaef723
+Description: IAP cracker for modern devices
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/satella.html
+Icon: https://paisseon.github.io/info/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
+Package: ai.paisseon.satella
+Version: 2.5.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 372
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/ai.paisseon.satella_2.5.1_iphoneos-arm.deb
+Size: 48146
+MD5sum: 7189358d0dd8de39dbeb293d857dc872
+SHA1: f66d6fb76bd0f73279b46baaec53bac44653bb3c
+SHA256: 1e3f2b810c362c57ea8c158c3cfe9aa0d8acbf44abe3dd517df53b4e1be1521a
 Description: IAP cracker for modern devices
 Author: Paisseon
 Depiction: https://paisseon.github.io/info/satella.html
