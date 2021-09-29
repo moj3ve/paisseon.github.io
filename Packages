@@ -330,10 +330,10 @@ Maintainer: Paisseon
 Installed-Size: 372
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: debs/ai.paisseon.satella_2.5.1_iphoneos-arm.deb
-Size: 48146
-MD5sum: 7189358d0dd8de39dbeb293d857dc872
-SHA1: f66d6fb76bd0f73279b46baaec53bac44653bb3c
-SHA256: 1e3f2b810c362c57ea8c158c3cfe9aa0d8acbf44abe3dd517df53b4e1be1521a
+Size: 47408
+MD5sum: a7fb76ef459f77dfdcafe9d5106f23bd
+SHA1: 4190df43362ca415360fb5590ad5712acbd745a9
+SHA256: 0b33005e1615114bb1ef223c0f049470d1f54e87aad23a9dd17ce890045d0d6b
 Description: IAP cracker for modern devices
 Author: Paisseon
 Depiction: https://paisseon.github.io/info/satella.html
