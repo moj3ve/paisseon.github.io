@@ -122,21 +122,6 @@ Name: CyDown++
 Sileodepiction: https://paisseon.github.io/info/cydown.json
 
 Package: ai.paisseon.darkkeysreborn
-Version: 2.2
-Architecture: iphoneos-arm
-Maintainer: paisseon
-Depends: mobilesubstrate
-Filename: debs/ai.paisseon.darkkeysreborn_2.2_iphoneos-arm.deb
-Size: 29416
-MD5sum: aa8951b3e150062e28159e380d958234
-SHA1: d865aec304a6791bd2bcb3b4e5746d09a0164002
-SHA256: 5bb977c1b0efb42e42e34874e0cf2edae4c0564044569ade2901405178b628bf
-Description: A true dark keyboard
-Author: paisseon
-Icon: https://i.imgur.com/tlMa7ge.png
-Name: Dark Keys Reborn
-
-Package: ai.paisseon.darkkeysreborn
 Version: 2.3
 Architecture: iphoneos-arm
 Maintainer: Paisseon
@@ -147,6 +132,24 @@ Size: 51068
 MD5sum: 163b548634f1dee5354a174212f73e1f
 SHA1: 0ff17bc22380b9a76ac4308f8af8c44f17b725e4
 SHA256: 243d0f35e747c6d1ac280957a8b60080053c8e5b119a18e1001e7339cf004c1d
+Description: OLED black keyboard
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/darkkeysreborn.html
+Icon: https://paisseon.github.io/info/darkkeysreborn.png
+Name: Dark Keys Reborn
+Sileodepiction: https://paisseon.github.io/info/darkkeysreborn.json
+
+Package: ai.paisseon.darkkeysreborn
+Version: 2.3.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 616
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: debs/ai.paisseon.darkkeysreborn_2.3.0_iphoneos-arm.deb
+Size: 51802
+MD5sum: 4d87dbd5bf3d82f1a501a8771a14b909
+SHA1: a051306e8bd6ae9e149718e33778eaf0658d6c9a
+SHA256: 4dc3ede47eab742092f0ce49370c2adb4ff0dcb87557f39854780f860a07e6b5
 Description: OLED black keyboard
 Author: Paisseon
 Depiction: https://paisseon.github.io/info/darkkeysreborn.html
