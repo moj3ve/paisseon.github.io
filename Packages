@@ -157,6 +157,24 @@ Icon: https://paisseon.github.io/info/darkkeysreborn.png
 Name: Dark Keys Reborn
 Sileodepiction: https://paisseon.github.io/info/darkkeysreborn.json
 
+Package: ai.paisseon.darkkeysreborn
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 412
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: debs/ai.paisseon.darkkeysreborn_2.3.1_iphoneos-arm.deb
+Size: 45290
+MD5sum: a463a7abd684ddb4b6377460a8c1669c
+SHA1: f76601172cadb215efcb514b7d59f35ff98029d9
+SHA256: 18bcc49117262a015072d4b24ebd8b11d80d11a6fd3e8de2a23a4c355a4672c4
+Description: OLED black keyboard
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/darkkeysreborn.html
+Icon: https://paisseon.github.io/info/darkkeysreborn.png
+Name: Dark Keys Reborn
+Sileodepiction: https://paisseon.github.io/info/darkkeysreborn.json
+
 Package: ai.paisseon.dodontsuggest
 Version: 1.0
 Architecture: iphoneos-arm
