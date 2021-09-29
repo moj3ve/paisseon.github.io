@@ -143,13 +143,13 @@ Package: ai.paisseon.darkkeysreborn
 Version: 2.3.0
 Architecture: iphoneos-arm
 Maintainer: Paisseon
-Installed-Size: 616
+Installed-Size: 412
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: debs/ai.paisseon.darkkeysreborn_2.3.0_iphoneos-arm.deb
-Size: 51802
-MD5sum: 4d87dbd5bf3d82f1a501a8771a14b909
-SHA1: a051306e8bd6ae9e149718e33778eaf0658d6c9a
-SHA256: 4dc3ede47eab742092f0ce49370c2adb4ff0dcb87557f39854780f860a07e6b5
+Size: 45230
+MD5sum: d6158f0f13aa17c5dd9bf0c124a73a74
+SHA1: e0a75bca1868ebcc82ab7dd988abd14eeeadfe51
+SHA256: c038db31e0318c0d2c9535f510910ccd300586025f8b7c7fe171eac30b47432d
 Description: OLED black keyboard
 Author: Paisseon
 Depiction: https://paisseon.github.io/info/darkkeysreborn.html
