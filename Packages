@@ -121,6 +121,21 @@ Icon: https://paisseon.github.io/info/cydown.png
 Name: CyDown++
 Sileodepiction: https://paisseon.github.io/info/cydown.json
 
+Package: ai.paisseon.darkkeysreborn
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Depends: mobilesubstrate
+Filename: debs/ai.paisseon.darkkeysreborn_2.2_iphoneos-arm.deb
+Size: 29416
+MD5sum: aa8951b3e150062e28159e380d958234
+SHA1: d865aec304a6791bd2bcb3b4e5746d09a0164002
+SHA256: 5bb977c1b0efb42e42e34874e0cf2edae4c0564044569ade2901405178b628bf
+Description: A true dark keyboard
+Author: paisseon
+Icon: https://i.imgur.com/tlMa7ge.png
+Name: Dark Keys Reborn
+
 Package: ai.paisseon.dodontsuggest
 Version: 1.0
 Architecture: iphoneos-arm
