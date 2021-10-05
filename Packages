@@ -37,13 +37,13 @@ Package: ai.paisseon.cccalc
 Version: 2.0.2
 Architecture: iphoneos-arm
 Maintainer: gilesgc & paisseon
-Installed-Size: 364
 Depends: mobilesubstrate
 Filename: debs/ai.paisseon.cccalc_2.0.2_iphoneos-arm.deb
-Size: 74424
-MD5sum: e404cf55322c6a57ab3862093fd2dcfd
-SHA1: 90a5442b3c1f38296204d1b3047d1085a524e562
-SHA256: cd3b03a038a3d1e1c855944efc4a6c6bb7593d4f76f3bc18e71b1102b123cfad
+Size: 74620
+MD5sum: 9e301ffe153933a14ced2cc6ceb8be65
+SHA1: 62adea3fa56a2710d7ba26e4ee2453133158386d
+SHA256: 8530aad50b57ec01c14de19d30017a7456ac72fc6f43f4a60bf5b1591bba2ab3
+Section: Tweaks
 Description: Turn the Calculator CC module into a working calculator
 Author: gilesgc & paisseon
 Depiction: https://paisseon.github.io/info/cccalc.html
@@ -121,19 +121,39 @@ Icon: https://paisseon.github.io/info/cydown.png
 Name: CyDown++
 Sileodepiction: https://paisseon.github.io/info/cydown.json
 
+Package: ai.paisseon.cydown
+Version: 7.1.5
+Architecture: iphoneos-arm
+Maintainer: Julioverne & CyPwn
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown, org.mr.cydown, ru.rj.cydown
+Filename: debs/ai.paisseon.cydown_7.1.5_iphoneos-arm.deb
+Size: 2620384
+MD5sum: 2f2aa677b46172ef7131ff6ae0a5dfd6
+SHA1: a5b5997b1daa52110e513d669af7d784d0d57a77
+SHA256: c79f832eb7cb602cdfec9239001f6fc4015ae29d93495bb1962613bc828037c4
+Section: Tweaks
+Description: Download tweaks for free
+Author: Julioverne & CyPwn
+Depiction: https://paisseon.github.io/info/cydown.html
+Icon: https://paisseon.github.io/info/cydown.png
+Name: CyDown++
+Sileodepiction: https://paisseon.github.io/info/cydown.json
+
 Package: ai.paisseon.darkkeysreborn
 Version: 2.2
 Architecture: iphoneos-arm
-Maintainer: paisseon
+Maintainer: Paisseon
 Depends: mobilesubstrate
 Filename: debs/ai.paisseon.darkkeysreborn_2.2_iphoneos-arm.deb
-Size: 29416
-MD5sum: aa8951b3e150062e28159e380d958234
-SHA1: d865aec304a6791bd2bcb3b4e5746d09a0164002
-SHA256: 5bb977c1b0efb42e42e34874e0cf2edae4c0564044569ade2901405178b628bf
+Size: 29412
+MD5sum: e549658db6fe669333f1b16377cd93bf
+SHA1: 3435886e908517dcd5730dfc22639674c313171f
+SHA256: b4a8c2ef27259e7d813a5ae9fcaa8dc0301ce64debedcd627cc913716e0b611e
+Section: Tweaks
 Description: A true dark keyboard
-Author: paisseon
-Icon: https://i.imgur.com/tlMa7ge.png
+Author: Paisseon
+Icon: https://paisseon.github.io/darkkeysreborn.png
 Name: Dark Keys Reborn
 
 Package: ai.paisseon.dodontsuggest
@@ -151,19 +171,36 @@ Description: Hide the music suggestion in Dodo tweak
 Author: Paisseon
 Name: Dodon't Suggest My Music
 
+Package: ai.paisseon.dodontsuggest
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker, com.smokin1337.ldrestarthelper
+Filename: debs/ai.paisseon.dodontsuggest_1.2.1_iphoneos-arm.deb
+Size: 42576
+MD5sum: 946ad4a5034a6f679d24c707144441e1
+SHA1: ca4a58f9b7e5c28cecf59dc7fe716bdf684f8d15
+SHA256: 5b947643f1f7bdbe20f60334294837fc7fe57e13cd52aeb97157da26a987d446
+Section: Tweaks
+Description: Remove suggestions and change the clock colour in Dodo tweak
+Author: Paisseon
+Icon: https://paisseon.github.io/info/dodontsuggest.png
+Name: Dodon't Suggest My Music
+
 Package: ai.paisseon.peepreborn
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: paisseon
+Maintainer: Paisseon
 Depends: mobilesubstrate
 Filename: debs/ai.paisseon.peepreborn_1.0_iphoneos-arm.deb
-Size: 7736
-MD5sum: cabdd49834daef373d6b11560a9190e3
-SHA1: 1f27d5b3918dceb3698510abb06da7211d09e431
-SHA256: dc5a0c0d8c1f604d9f167b86a3ddaa82f65b7febf7ee552f5ccd7de77bdfed33
+Size: 7744
+MD5sum: eda40590a10dd108f588307049a97807
+SHA1: e92e3fbd2438dbb7284d804a16cb24d62c747d7c
+SHA256: d5f8496cbe469293f154ba4060fbe02b1380716e8c83c07c27f7b98bd6af23be
+Section: Tweaks
 Description: Tap to hide status bar
-Author: paisseon
-Icon: https://i.imgur.com/h5O0g3Y.png
+Author: Paisseon
+Icon: https://paisseon.github.io/peepreborn.png
 Name: Peep Reborn
 
 Package: ai.paisseon.reverie
@@ -205,14 +242,14 @@ Package: ai.paisseon.reverie
 Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: Paisseon
-Installed-Size: 788
 Depends: firmware (>= 13.0), mobilesubstrate
 Conflicts: com.megadev.sentinel, love.litten.puck
 Filename: debs/ai.paisseon.reverie_2.2_iphoneos-arm.deb
-Size: 56608
-MD5sum: 4840295c31dd621bce1510a1d7f82924
-SHA1: ce02cc8b9aca673c93441a6a6eec11cf5172da88
-SHA256: 0a78fa08eda22af176de7e055dc5934940d88f72dffad41911771165ebdba435
+Size: 56640
+MD5sum: 9e17fb2f2f2a6662e07a02800031152f
+SHA1: 49ddeb75fec62fe2445e224697ef38831d0b6f7c
+SHA256: 45722159b9c785dd84bfba0d21941bef83a1961d547cd413e7e8f35d27e8836b
+Section: Tweaks
 Description: Hibernate when your battery gets low
 Author: Paisseon
 Depiction: https://paisseon.github.io/info/reverie.html
@@ -309,19 +346,35 @@ Package: ai.paisseon.satella
 Version: 2.5.1
 Architecture: iphoneos-arm
 Maintainer: Paisseon
-Installed-Size: 372
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: debs/ai.paisseon.satella_2.5.1_iphoneos-arm.deb
-Size: 47408
-MD5sum: a7fb76ef459f77dfdcafe9d5106f23bd
-SHA1: 4190df43362ca415360fb5590ad5712acbd745a9
-SHA256: 0b33005e1615114bb1ef223c0f049470d1f54e87aad23a9dd17ce890045d0d6b
+Size: 47512
+MD5sum: 49397eda8591de297d534bf1305d383d
+SHA1: 099000bde49f1312c0e23d572ee0e70de0d4e6a2
+SHA256: 07f9fe68f80f81a47f10a1cb34cba1c61577cf7ebe81bf1d61c681236ac066b8
+Section: Tweaks
 Description: IAP cracker for modern devices
 Author: Paisseon
 Depiction: https://paisseon.github.io/info/satella.html
 Icon: https://paisseon.github.io/info/satella.png
 Name: Satella
 Sileodepiction: https://paisseon.github.io/info/satella.json
+
+Package: ai.paisseon.seele
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: debs/ai.paisseon.seele_2.0_iphoneos-arm.deb
+Size: 22548
+MD5sum: ac048590bcc41e63a19d3a42adebf787
+SHA1: 354aef0d67eb3d7afe517320d4cac6be169c7796
+SHA256: 064e581b48eded598b567ae66209418c71b38b22211aad15aa59e6b3bf576607
+Section: Tweaks
+Description: It shall be eternal proof that mankind ever existed.
+Author: paisseon
+Icon: https://paisseon.github.io/seele.png
+Name: Seele
 
 Package: ai.paisseon.seele
 Version: 2.0
@@ -393,14 +446,14 @@ Package: ai.paisseon.vivy
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Paisseon
-Installed-Size: 452
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
 Conflicts: com.spark.juice
 Filename: debs/ai.paisseon.vivy_1.2_iphoneos-arm.deb
-Size: 62984
-MD5sum: d28067df3ffb58cf36c938c188889bba
-SHA1: 8281959dbc0f9d11a30e0384f233cef25a8b998c
-SHA256: 102e99d41b6790bad5f935becd296f68f015f30bacc8f2775a0ff4aad8504d7d
+Size: 62996
+MD5sum: a5ec47895892b086847509fbb90bc7a6
+SHA1: 3cdc58400ba1fbee5e7ab8386ebbbcc05d29e2d3
+SHA256: e90dd25cfa41d4b0ed7370d320e5978053dfb96c5c4d7635748bf36756e50516
+Section: Tweaks
 Description: Free battery theming engine
 Author: Paisseon
 Depiction: https://paisseon.github.io/info/vivy.html
@@ -418,6 +471,24 @@ Size: 4194
 MD5sum: b3f50d928e7aa7b179877d0babfdd278
 SHA1: 73639584a29b7b794d7d6cfaf3e9d1359fa8e932
 SHA256: fbc781401b0ed4f658a3eae545f996f7be45a8d07648201551208a09fa8c2592
+Section: Utilities
+Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal.
+Author: Sudo & Paisseon
+Depiction: https://sudo9000.github.io/info/debra.html
+Icon: https://sudo9000.github.io/info/debra.png
+Name: Debra
+Sileodepiction: https://sudo9000.github.io/info/debra.json
+
+Package: com.sudo.debra
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Sudo <sudo9000@outlook.com>
+Depends: bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1)
+Filename: debs/com.sudo.debra_1.7_iphoneos-arm.deb
+Size: 4242
+MD5sum: 49a0418619f03b6bfafd69f3d92e2a28
+SHA1: 99c04efa260e17c8f90224630cb35576b9ee6696
+SHA256: 74b5acd099e3d019e9cb6f3f7f12ca0c038f3f6ba611454bcb2f0846bc6b2478
 Section: Utilities
 Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal.
 Author: Sudo & Paisseon
