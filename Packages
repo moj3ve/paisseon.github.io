@@ -121,25 +121,6 @@ Icon: https://paisseon.github.io/info/cydown.png
 Name: CyDown++
 Sileodepiction: https://paisseon.github.io/info/cydown.json
 
-Package: ai.paisseon.cydown
-Version: 7.1.5
-Architecture: iphoneos-arm
-Maintainer: Julioverne & CyPwn
-Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Conflicts: com.julioverne.cydown, org.mr.cydown, ru.rj.cydown
-Filename: debs/ai.paisseon.cydown_7.1.5_iphoneos-arm.deb
-Size: 2620384
-MD5sum: 2f2aa677b46172ef7131ff6ae0a5dfd6
-SHA1: a5b5997b1daa52110e513d669af7d784d0d57a77
-SHA256: c79f832eb7cb602cdfec9239001f6fc4015ae29d93495bb1962613bc828037c4
-Section: Tweaks
-Description: Download tweaks for free
-Author: Julioverne & CyPwn
-Depiction: https://paisseon.github.io/info/cydown.html
-Icon: https://paisseon.github.io/info/cydown.png
-Name: CyDown++
-Sileodepiction: https://paisseon.github.io/info/cydown.json
-
 Package: ai.paisseon.darkkeysreborn
 Version: 2.2
 Architecture: iphoneos-arm
