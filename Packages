@@ -478,3 +478,19 @@ Icon: https://sudo9000.github.io/info/debra.png
 Name: Debra
 Sileodepiction: https://sudo9000.github.io/info/debra.json
 
+Package: emt.paisseon.lunartime
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/emt.paisseon.lunartime_1.0_iphoneos-arm.deb
+Size: 4156
+MD5sum: fa8ce70402ed9fa246e790e5eb6d3337
+SHA1: fa149e096901f17b4dfec2771257283403c0aa16
+SHA256: 473a602b0516fc436f161ac8cbd52ae6859e59b47506cb062ab64753e3882bd5
+Section: Tweaks
+Description: Happy Halloween for Maria
+Author: Paisseon
+Name: LunarTime
+
