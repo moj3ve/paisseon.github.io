@@ -442,6 +442,24 @@ Icon: https://paisseon.github.io/info/vivy.png
 Name: Vivy
 Sileodepiction: https://paisseon.github.io/info/vivy.json
 
+Package: ai.paisseon.vivy
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 452
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.muirey03.libimagepicker, org.thebigboss.libcolorpicker, emt.paisseon.lipfix
+Filename: debs/ai.paisseon.vivy_1.3_iphoneos-arm.deb
+Size: 64016
+MD5sum: c6e1c36f4952c00b9294459066184e24
+SHA1: f58684e6537c291ba8541891a98e5eb6b1d3bfd1
+SHA256: bf9e236484a6b12aa73d4522d95f9300f7f968e7b1004804eac536eaf02c1244
+Description: Free battery theming engine
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/vivy.html
+Icon: https://paisseon.github.io/info/vivy.png
+Name: Vivy
+Sileodepiction: https://paisseon.github.io/info/vivy.json
+
 Package: com.sudo.debra
 Version: 1.6
 Architecture: iphoneos-arm
@@ -478,6 +496,22 @@ Icon: https://sudo9000.github.io/info/debra.png
 Name: Debra
 Sileodepiction: https://sudo9000.github.io/info/debra.json
 
+Package: emt.paisseon.lipfix
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/emt.paisseon.lipfix_1.0.1_iphoneos-arm.deb
+Size: 3796
+MD5sum: 1f61a3d3c3d43eaa666946727e4abcfe
+SHA1: a9d82e719c740b71e03313d017929b29cb2bb1c1
+SHA256: 520d121404dec527a180e601bc32cc95b7406cdea971cd8646fd855c4e201506
+Section: Tweaks
+Description: Fix a bug with libimagepicker in my tweaks
+Author: Paisseon
+Name: libimagepicker Fix
+
 Package: emt.paisseon.lunartime
 Version: 1.0
 Architecture: iphoneos-arm
@@ -489,6 +523,22 @@ Size: 4156
 MD5sum: fa8ce70402ed9fa246e790e5eb6d3337
 SHA1: fa149e096901f17b4dfec2771257283403c0aa16
 SHA256: 473a602b0516fc436f161ac8cbd52ae6859e59b47506cb062ab64753e3882bd5
+Section: Tweaks
+Description: Happy Halloween for Maria
+Author: Paisseon
+Name: LunarTime
+
+Package: emt.paisseon.lunartime
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/emt.paisseon.lunartime_1.0.1_iphoneos-arm.deb
+Size: 4182
+MD5sum: 24d89d85ac2a2dc12084622fe1096f6f
+SHA1: a5767ea2f86df26d4ea47bee3df36d195da82176
+SHA256: e06df44b0e3b7dba6912833e5731517f3c0523fddbf45af620e81b10cde2a947
 Section: Tweaks
 Description: Happy Halloween for Maria
 Author: Paisseon
