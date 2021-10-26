@@ -102,6 +102,17 @@
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
+					"title": "2.3"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Significant improvements to the hibernation mode</li>\n<li>Improvements to CPU throttling</li>\n<li>Remove external binaries (hibernation now happens in Reverie.x)</li>\n<li>Change the logo to use SF Symbols</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
 					"title": "2.2"
 				},
 				{

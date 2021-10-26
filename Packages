@@ -238,6 +238,25 @@ Icon: https://paisseon.github.io/info/reverie.png
 Name: Reverie
 Sileodepiction: https://paisseon.github.io/info/reverie.json
 
+Package: ai.paisseon.reverie
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 584
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.megadev.sentinel, love.litten.puck
+Filename: debs/ai.paisseon.reverie_2.3_iphoneos-arm.deb
+Size: 53062
+MD5sum: 74a0e6f0a96a7352ee1bd5e6b3ba3f32
+SHA1: e3929628eab9524b91fceda2d1ddbee3cc5fe846
+SHA256: a40864aed50554483b5a25e18de2e811b377d817dc6c79056db3094463992b9e
+Description: Hibernate when your battery gets low
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/reverie.html
+Icon: https://paisseon.github.io/info/reverie.png
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/info/reverie.json
+
 Package: ai.paisseon.satella
 Version: 2.0
 Architecture: iphoneos-arm
