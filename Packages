@@ -246,10 +246,10 @@ Installed-Size: 584
 Depends: firmware (>= 13.0), mobilesubstrate
 Conflicts: com.megadev.sentinel, love.litten.puck
 Filename: debs/ai.paisseon.reverie_2.3_iphoneos-arm.deb
-Size: 53062
-MD5sum: 74a0e6f0a96a7352ee1bd5e6b3ba3f32
-SHA1: e3929628eab9524b91fceda2d1ddbee3cc5fe846
-SHA256: a40864aed50554483b5a25e18de2e811b377d817dc6c79056db3094463992b9e
+Size: 59752
+MD5sum: 3503a35b6776b5ea81b56707abc2196c
+SHA1: 3bbf97eac770403b2dfbbb5213e593a25f34b7c5
+SHA256: 98a74fcb66389c76b62eabe4ede101e5f02f66a650d88d2018a8bb9f1e964c45
 Description: Hibernate when your battery gets low
 Author: Paisseon
 Depiction: https://paisseon.github.io/info/reverie.html
