@@ -563,3 +563,19 @@ Description: Happy Halloween for Maria
 Author: Paisseon
 Name: LunarTime
 
+Package: emt.paisseon.lunartime
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/emt.paisseon.lunartime_1.1_iphoneos-arm.deb
+Size: 4508
+MD5sum: 452abd13e65df37c63da8fc8e31510bf
+SHA1: 567cc6feb9c0d4f5be32aacf05054d7906418b83
+SHA256: 33a185fe9687c707cc8aa2a5c44af43ff94030f2fa0d5653a1f2c934f6cf43d6
+Section: Tweaks
+Description: Show lunar phase in the status bar
+Author: Paisseon
+Name: LunarTime
+
