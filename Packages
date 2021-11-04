@@ -121,6 +121,24 @@ Icon: https://paisseon.github.io/info/cydown.png
 Name: CyDown++
 Sileodepiction: https://paisseon.github.io/info/cydown.json
 
+Package: ai.paisseon.cydown
+Version: 7.1.4-712
+Architecture: iphoneos-arm
+Maintainer: Julioverne & CyPwn
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown, org.mr.cydown, ru.rj.cydown
+Filename: debs/ai.paisseon.cydown_7.1.5.1_iphoneos-arm.deb
+Size: 4372096
+MD5sum: 2eed4614947c8d0f1cc4efc2a11c5c0b
+SHA1: e90cc386c2c91015ea1c70040580bacdeb0ef57f
+SHA256: 9ee54fe5de8591d2c634d6b10816dbc93de33d34e356a0b2026bfaad792a6d12
+Description: Download tweaks for free
+Author: Julioverne & CyPwn
+Depiction: https://paisseon.github.io/info/cydown.html
+Icon: https://paisseon.github.io/info/cydown.png
+Name: CyDown++
+Sileodepiction: https://paisseon.github.io/info/cydown.json
+
 Package: ai.paisseon.darkkeysreborn
 Version: 2.2
 Architecture: iphoneos-arm
@@ -478,6 +496,21 @@ Depiction: https://paisseon.github.io/info/vivy.html
 Icon: https://paisseon.github.io/info/vivy.png
 Name: Vivy
 Sileodepiction: https://paisseon.github.io/info/vivy.json
+
+Package: anondev.LocalIAPStore
+Version: 1.4-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: debs/anondev.LocalIAPStore_1.4-1_iphoneos-arm.deb
+Size: 71170
+MD5sum: adce93b64675706f4a4c4b5204a1e8fe
+SHA1: c9bb6d2749f5d065e9c29a2a39cf233a3a1465d2
+SHA256: 97d20ebc8f9d96da6f4749499be4664d7ab946d469439b7ab04af1e167afaca2
+Section: Tweaks
+Priority: optional
+Description: Pwns In-app purchases on iOS 5.1.1 - 7.1 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
+Author: anondev
+Name: LocalIAPStore
 
 Package: com.sudo.debra
 Version: 1.6

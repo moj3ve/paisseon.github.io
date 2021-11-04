@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "7.1.5"
+					"text": "7.1.5.1"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -102,7 +102,18 @@
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
-					"title": "7.1.5"
+					"title": "7.1.5.1"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>7.1.4 but includes Julioverne's updated CyDown</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "7.1.5 (Reverted to 7.1.4)"
 				},
 				{
 					"class": "DepictionMarkdownView",
