@@ -628,20 +628,19 @@ Description: Show lunar phase in the status bar
 Author: Paisseon
 Name: LunarTime
 
-Package: emt.paisseon.ulysses
+Package: moe.emilia.ulysses
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Paisseon
 Installed-Size: 192
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Conflicts: moe.emilia.ulysses
-Filename: debs/emt.paisseon.ulysses_1.0_iphoneos-arm.deb
-Size: 17790
-MD5sum: 2ad7a15a954a8780d4eb19703424806e
-SHA1: 7a053146eb73f9a4a611d9a5be0276eb85e8586d
-SHA256: b236fc4df9eeb57849961c2ab03cd24cb23f079ef448aefe5795d8a2b2d4dd63
+Depends: dev.theos.orion (= 0.9.5), firmware (>= 12.2)
+Filename: debs/moe.emilia.ulysses_1.0_iphoneos-arm.deb
+Size: 17818
+MD5sum: cc8f14f28e1625fbcdaecc667ed58b6c
+SHA1: 49f58658e8d35217005833428896cea3f46f2f84
+SHA256: 767f4c8cff20b3e9a24678040a482eb3f54f843a2b049a990b4c47be925393a0
 Section: Tweaks
-Description: Unlimited subscription for the Ulysses writing app
+Description: Unlimited subscription for Ulysses
 Author: Paisseon
-Name: Ulysses
+Name: Ulysses Crack
 
