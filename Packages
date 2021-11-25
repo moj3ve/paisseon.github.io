@@ -291,6 +291,25 @@ Icon: https://paisseon.github.io/info/reverie.png
 Name: Reverie
 Sileodepiction: https://paisseon.github.io/info/reverie.json
 
+Package: ai.paisseon.reverie
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 584
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.megadev.sentinel, love.litten.puck
+Filename: debs/ai.paisseon.reverie_2.4_iphoneos-arm.deb
+Size: 53462
+MD5sum: dfdbb73a98e8cd01920e07676689eabb
+SHA1: 22b6bb3a770889b94be7f2131bca7fe30cc30317
+SHA256: c7c57ba7efa491a5136fd0dcf8dcb537006e58d7b2979c5acc768357f8b15c72
+Description: Hibernate when your battery gets low
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/reverie.html
+Icon: https://paisseon.github.io/info/reverie.png
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/info/reverie.json
+
 Package: ai.paisseon.satella
 Version: 2.0
 Architecture: iphoneos-arm
@@ -563,6 +582,24 @@ Depiction: https://sudo9000.github.io/info/debra.html
 Icon: https://sudo9000.github.io/info/debra.png
 Name: Debra
 Sileodepiction: https://sudo9000.github.io/info/debra.json
+
+Package: emt.paisseon.erika
+Version: 0.1-beta
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Installed-Size: 180
+Depends: mobilesubstrate, curl, sed
+Filename: debs/emt.paisseon.erika_0.1-beta_iphoneos-arm.deb
+Size: 9568
+MD5sum: aa71c9d30902490b67eecf4425cae713
+SHA1: 553582f1a0aa55f2e488d794b415328e9e6c5a9b
+SHA256: 4313407d96056f9ea04871ef72787baf1db0cf2e266c87cbe563b7d4fb3646b7
+Description: Download tweaks for free in Sileo
+Author: CyPwn
+Depiction: https://paisseon.github.io/info/erika.html
+Icon: https://paisseon.github.io/info/erika.png
+Name: Erika (Beta)
+Sileodepiction: https://paisseon.github.io/info/erika.json
 
 Package: emt.paisseon.lipfix
 Version: 1.0.1
