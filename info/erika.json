@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Download tweaks for free in Sileo by tapping the bundle ID at the bottom of tweak depictions</li>\n<li>Includes all tweaks with which CyDown functions</li></ul>",
+					"markdown": "<ul>\n<li>Download tweaks for free in Sileo by tapping the bundle ID at the bottom of tweak depictions</li>\n<li>Compatible with all tweaks with which CyDown works</li>\n<li>Also includes a CLI tool, LinkStart \<bundleID\> \<version\>.</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul><li>There is a slight delay for the popup to appear</li>\n<li>Doesn't work with every tweak, nor does it crack any tweak DRM</li>\n<li>I'm working on adding a button for more convenience</li></ul>",
+					"markdown": "<ul><li>Very large tweaks, such as themes, may take several seconds to download</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "0.1"
+					"text": "0.2-beta"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -98,6 +98,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#8600ff",
 			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.2-beta"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Fix crash on some devices</li>\n<li>Significant speed increase</li></ul>",
+					"useRawFormat": true
+				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,

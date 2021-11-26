@@ -601,6 +601,24 @@ Icon: https://paisseon.github.io/info/erika.png
 Name: Erika (Beta)
 Sileodepiction: https://paisseon.github.io/info/erika.json
 
+Package: emt.paisseon.erika
+Version: 0.2-beta
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Installed-Size: 180
+Depends: mobilesubstrate, curl, sed
+Filename: debs/emt.paisseon.erika_0.2-beta_iphoneos-arm.deb
+Size: 10594
+MD5sum: be5bb8fa0f33211695cb2838b908708a
+SHA1: 7563e9002f0ef33c79b97b9df8db36fd7cba99f7
+SHA256: 16159e67723e0de4cb1126f9c76e3e004b3c283cf38dd25aae2fb0376deb6245
+Description: Download tweaks for free in Sileo
+Author: CyPwn
+Depiction: https://paisseon.github.io/info/erika.html
+Icon: https://paisseon.github.io/info/erika.png
+Name: Erika (Beta)
+Sileodepiction: https://paisseon.github.io/info/erika.json
+
 Package: emt.paisseon.lipfix
 Version: 1.0.1
 Architecture: iphoneos-arm
