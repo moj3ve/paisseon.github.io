@@ -102,6 +102,17 @@
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
+					"title": "0.3-beta"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Prevent potential crashes caused by weirdly formatted bundle IDs</li>\n<li>Add a better install than Filza</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
 					"title": "0.2-beta"
 				},
 				{
