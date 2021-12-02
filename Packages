@@ -702,6 +702,22 @@ Description: Show lunar phase in the status bar
 Author: Paisseon
 Name: LunarTime
 
+Package: emt.paisseon.safemr
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 168
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/emt.paisseon.safemr_1.0_iphoneos-arm.deb
+Size: 8476
+MD5sum: 2616a39cbb6bd7238523fc9789a285d6
+SHA1: ab0eafea0b90d872082eed7e959830eee83a9aaa
+SHA256: bb4f352dbc33b48e152364aa069efdecf40e7f22541e9869b7094bb5c8e2cfa6
+Section: Tweaks
+Description: Disables the "malware" distributed by MainRepo
+Author: Paisseon
+Name: Safe MainRepo
+
 Package: emt.paisseon.ulysses
 Version: 1.0
 Architecture: iphoneos-arm
