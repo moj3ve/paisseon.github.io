@@ -75,7 +75,7 @@
 					"views": [
 						{
 							"class": "DepictionTableButtonView",
-							"title": "Partial Source Code",
+							"title": "Source Code",
 							"action": "https://github.com/paisseon/cydownplusplus",
 							"openExternal": false
 						},
@@ -106,7 +106,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Fixes preferences English + version number + adds the ++ in it</li>\n<li>To get 7.1.7 faster, ping @The_SamminAter#2306 on Discord ;)</li></ul>",
+					"markdown": "<ul>\n<li>Fixes preferences English + version number + adds the \"++\" in it</li>\n<li>To get 7.1.7 faster, ping @The_SamminAter#2306 on Discord ;)</li></ul>",
 					"useRawFormat": true
 				},
 				{
