@@ -139,6 +139,25 @@ Icon: https://paisseon.github.io/info/cydown.png
 Name: CyDown++
 Sileodepiction: https://paisseon.github.io/info/cydown.json
 
+Package: ai.paisseon.cydown
+Version: 7.1.6
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown, org.mr.cydown, ru.rj.cydown
+Filename: debs/ai.paisseon.cydown_7.1.6_iphoneos-arm.deb
+Size: 2708820
+MD5sum: 9902bcff19cdc0a3f83a247268df9534
+SHA1: b3fa65eeef6d0b5331b014ed0ede166b6d456757
+SHA256: 4c51166d70922faf7acfd4a042023dd286c45fdae371bd0f1ecacecb4e1f524e
+Section: Tweaks
+Description: Download tweaks for free
+Author: Julioverne & CyPwn
+Depiction: https://paisseon.github.io/info/cydown.html
+Icon: https://paisseon.github.io/info/cydown.png
+Name: CyDown++
+Sileodepiction: https://paisseon.github.io/info/cydown.json
+
 Package: ai.paisseon.darkkeysreborn
 Version: 2.2
 Architecture: iphoneos-arm
@@ -594,6 +613,24 @@ Size: 4242
 MD5sum: 49a0418619f03b6bfafd69f3d92e2a28
 SHA1: 99c04efa260e17c8f90224630cb35576b9ee6696
 SHA256: 74b5acd099e3d019e9cb6f3f7f12ca0c038f3f6ba611454bcb2f0846bc6b2478
+Section: Utilities
+Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal.
+Author: Sudo & Paisseon
+Depiction: https://sudo9000.github.io/info/debra.html
+Icon: https://sudo9000.github.io/info/debra.png
+Name: Debra
+Sileodepiction: https://sudo9000.github.io/info/debra.json
+
+Package: com.sudo.debra
+Version: 1.9
+Architecture: iphoneos-arm
+Maintainer: Sudo <sudo9000@outlook.com>
+Depends: bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1)
+Filename: debs/com.sudo.debra_1.9_iphoneos-arm.deb
+Size: 4298
+MD5sum: 4ba206598e1fa71c573ac76c95565ada
+SHA1: 5555218375ae1c07edbc8dca2bcf6592b3d0f3cf
+SHA256: 2dd439b4ae8aec228645cee393e1feb48ba439dab8b5e95b627ccfb3eab1e58f
 Section: Utilities
 Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal.
 Author: Sudo & Paisseon

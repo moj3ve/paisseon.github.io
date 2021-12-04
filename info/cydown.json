@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Doesn't work with Sileo, Saily, or Icy. This is out of CyDown++'s scope.</li>\n<li>Unsupported URL error is not a bug. Just be patient and try again later or request it on CyPwn's Discord: https://discord.gg/cZ2gBRZvwW.</li></ul>",
+					"markdown": "<ul>\n<li>Doesn't work with Sileo, Saily, or Icy. Use Erika for Sileo (Saily eta son)!</li>\n<li>Unsupported URL error is not a bug. Just be patient and try again later or request it on CyPwn's Discord: https://discord.gg/cZ2gBRZvwW.</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "7.1.5.1"
+					"text": "7.1.6"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -102,7 +102,18 @@
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
-					"title": "7.1.5.1"
+					"title": "7.1.6"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Fixes preferences English + version number + adds the ++ in it</li>\n<li>To get 7.1.7 faster, ping @The_SamminAter#2306 on Discord ;)</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "7.1.4-712"
 				},
 				{
 					"class": "DepictionMarkdownView",
