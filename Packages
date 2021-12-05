@@ -691,6 +691,22 @@ Description: iCleaner Pro for free, nanodesu
 Author: Paisseon
 Name: iCleaner Pro Crack
 
+Package: emt.paisseon.icleaner
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 124
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/emt.paisseon.icleaner_0.0.2_iphoneos-arm.deb
+Size: 17290
+MD5sum: 471dbd936bcebf7a705e1dc134c0fea1
+SHA1: 51fa5dd0cd6998ba697bed0729511997246a7b08
+SHA256: 4e62a465830652b5133b90840074d1cf3c1b882174050a9d26babcbf79ba06e5
+Section: Tweaks
+Description: iCleaner Pro for free, nanodesu
+Author: Paisseon
+Name: iCleaner Pro Crack
+
 Package: emt.paisseon.lipfix
 Version: 1.0.1
 Architecture: iphoneos-arm
