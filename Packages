@@ -675,6 +675,22 @@ Icon: https://paisseon.github.io/info/erika.png
 Name: Erika (Beta)
 Sileodepiction: https://paisseon.github.io/info/erika.json
 
+Package: emt.paisseon.icleaner
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/emt.paisseon.icleaner_0.0.1_iphoneos-arm.deb
+Size: 23838
+MD5sum: a42b57ed18ccefdf8ca03ada4cccf48e
+SHA1: 376c06662c48ed810964ed8a4ecd318531b9f63f
+SHA256: 326e3a441c4ebe49cb3891d7856526c54a97b7049c8de84bb41d47c772755a96
+Section: Tweaks
+Description: iCleaner Pro for free, nanodesu
+Author: Paisseon
+Name: iCleaner Pro Crack
+
 Package: emt.paisseon.lipfix
 Version: 1.0.1
 Architecture: iphoneos-arm
