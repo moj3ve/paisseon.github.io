@@ -360,6 +360,22 @@ Description: Disables the "malware" distributed by MainRepo
 Author: Paisseon
 Name: Safe MainRepo
 
+Package: emt.paisseon.safemr
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 264
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/emt.paisseon.safemr_1.1.1_iphoneos-arm.deb
+Size: 33292
+MD5sum: 0d40de6b8f0fc05f9f68ce27e131b3b0
+SHA1: 9c6f357638cf975f410c6c00d264dea871048177
+SHA256: deaf881fdbc52dfe497b326bfeba87e4673ce8974151e71f39afea97086804f2
+Section: Tweaks
+Description: Disables the "malware" distributed by MainRepo
+Author: Paisseon
+Name: Safe MainRepo
+
 Package: emt.paisseon.ulysses
 Version: 1.0
 Architecture: iphoneos-arm
