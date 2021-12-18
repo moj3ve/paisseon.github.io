@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Download tweaks for free in Sileo by tapping the bundle ID at the bottom of tweak depictions</li>\n<li>Compatible with all tweaks with which CyDown works</li>\n<li>Also includes a CLI tool, LinkStart \<bundleID\> \<version\>.</li></ul>",
+					"markdown": "<ul>\n<li>Download tweaks for free in Sileo</li>\n<li>Compatible with all tweaks with which CyDown works</li></li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "0.2-beta"
+					"text": "0.3-beta"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -102,11 +102,11 @@
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
-					"title": "0.3-beta"
+					"title": "0.3-beta (eta son)"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Prevent potential crashes caused by weirdly formatted bundle IDs</li>\n<li>Add a better install than Filza</li></ul>",
+					"markdown": "<ul>\n<li>Rewrite in Swift + SwiftUI</li>/ul>",
 					"useRawFormat": true
 				},
 				{
