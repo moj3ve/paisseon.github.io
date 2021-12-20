@@ -50,7 +50,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li><b>Sileo</b> scroll to the bottom of the depiction and tap the bundle ID.</li>\n<li><b>Saily</b> tap the \"Buy\" button and Copy Meta, then tap the name of the tweak.</li>\n<li>I recommend using the Copy to Saily/Sileo feature in Filza to handle dependencies.</li></ul>",
+					"markdown": "<ul>\n<li><b>Sileo</b> scroll to the bottom of the depiction and tap the bundle ID.</li>\n<li><b>Saily</b> tap the \"Buy\" button and select Erika from the dropdown menu, then tap the name of the tweak.</li>\n<li>I recommend using the Copy to Saily/Sileo feature in Filza to handle dependencies.</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -70,7 +70,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "0.4b"
+					"text": "1.0"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -109,6 +109,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#8600ff",
 			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Change the Copy Meta label in Saily to Erika for clarity</li>\n<li>Fully open source now!</li></ul>",
+					"useRawFormat": true
+				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,

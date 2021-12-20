@@ -229,6 +229,24 @@ Icon: https://paisseon.github.io/info/satella.png
 Name: Satella
 Sileodepiction: https://paisseon.github.io/info/satella.json
 
+Package: ai.paisseon.satella
+Version: 2.7
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 332
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/ai.paisseon.satella_2.7_iphoneos-arm.deb
+Size: 49238
+MD5sum: 2209423d43827fe8c64396cf7b6137b9
+SHA1: 90becb8184cc413d458a823e489c009bb4a20c95
+SHA256: 60fd798808a6f878ec3be3aae7aa88a9d81406f4ccc52993ad4efb4e505987d0
+Description: IAP cracker for modern devices
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/satella.html
+Icon: https://paisseon.github.io/info/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
 Package: ai.paisseon.seele
 Version: 2.0
 Architecture: iphoneos-arm
