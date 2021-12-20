@@ -333,6 +333,25 @@ Icon: https://paisseon.github.io/info/erika.png
 Name: Erika (Beta)
 Sileodepiction: https://paisseon.github.io/info/erika.json
 
+Package: emt.paisseon.erika
+Version: 0.4b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 160
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/emt.paisseon.erika_0.4b_iphoneos-arm.deb
+Size: 29246
+MD5sum: 9d6d9a97ec08c473509ac6384c4a8f19
+SHA1: 416ca43e4167323d0b00912a7786db3ae4f55020
+SHA256: 077d20bba5bd0c3b708941f577ae8a153c013ea9fb9cdf7d756cb5570c38a7ea
+Section: Tweaks
+Description: CyDown++ for Sileo and Saily
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/erika.html
+Icon: https://paisseon.github.io/info/erika.png
+Name: Erika (Beta)
+Sileodepiction: https://paisseon.github.io/info/erika.json
+
 Package: emt.paisseon.icleaner
 Version: 0.0.2
 Architecture: iphoneos-arm

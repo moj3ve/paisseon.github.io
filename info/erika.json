@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Download tweaks for free in Sileo</li>\n<li>Compatible with all tweaks with which CyDown works</li></li></ul>",
+					"markdown": "<ul>\n<li>Download tweaks for free in Sileo and Saily</li>\n<li>Compatible with all tweaks with which CyDown works</li>\n<li>Will be fully open sourced at version 1.0 (that's either the next one or the one after it, probably)</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -40,6 +40,17 @@
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "<ul><li>Very large tweaks, such as themes, may take several seconds to download</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "How to Use"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li><b>Sileo</b> scroll to the bottom of the depiction and tap the bundle ID.</li>\n<li><b>Saily</b> tap the \"Buy\" button and Copy Meta, then tap the name of the tweak.</li>\n<li>I recommend using the Copy to Saily/Sileo feature in Filza to handle dependencies.</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -59,7 +70,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "0.3-beta"
+					"text": "0.4b"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -102,11 +113,22 @@
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
+					"title": "0.4b"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Add preliminary Saily compatibility</li>\n<li>Add iOS 12 support? Sáng Nguyễn imma need your help here</li>\n<li>Add more informative errors</li>\n<li>If this version doesn't have any major bugs, I'll just upload it as 1.0 + open source it</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
 					"title": "0.3-beta"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Rewrite in Swift + SwiftUI</li>/ul>",
+					"markdown": "<ul>\n<li>Rewrite in Swift + SwiftUI</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -117,7 +139,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Fix crash on some devices</li>\n<li>Significant speed increase</li></ul>",
+					"markdown": "<ul>\n<li>Fix crash that occurred on some devices</li>\n<li>Significant speed increase</li></ul>",
 					"useRawFormat": true
 				},
 				{
