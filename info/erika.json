@@ -50,7 +50,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li><b>Sileo</b> scroll to the bottom of the depiction and tap the bundle ID.</li>\n<li><b>Saily</b> tap the \"Buy\" button and select Erika from the dropdown menu, then tap the name of the tweak.</li>\n<li>I recommend using the Copy to Saily/Sileo feature in Filza to handle dependencies.</li></ul>",
+					"markdown": "<ul>\n<li><b>Sileo</b> scroll to the bottom of the depiction and tap the bundle ID.</li>\n<li><b>Saily</b> tap the \"Buy\" button and select Erika from the dropdown menu, then tap the name of the tweak.</li>\n<li>I recommend using the Copy to Saily/Sileo feature in Filza to handle dependencies automatically.</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -70,7 +70,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "1.0"
+					"text": "0.5b"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -113,11 +113,11 @@
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
-					"title": "1.0"
+					"title": "0.5b"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Change the Copy Meta label in Saily to Erika for clarity</li>\n<li>Fully open source now!</li></ul>",
+					"markdown": "<ul>\n<li>Change the Copy Meta label in Saily to Erika for clarity</li>\n<li>Add error handling for r3</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -128,7 +128,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Add preliminary Saily compatibility</li>\n<li>Add iOS 12 support? Sáng Nguyễn imma need your help here</li>\n<li>Add more informative errors</li>\n<li>If this version doesn't have any major bugs, I'll just upload it as 1.0 + open source it</li></ul>",
+					"markdown": "<ul>\n<li>Add preliminary Saily compatibility</li>\n<li>Add iOS 12 support? Edit: Nvm, SwiftUI doesn't work on iOS 12.</li>\n<li>Add more informative errors</li>\n<li>If this version doesn't have any major bugs, I'll just upload it as 1.0 + open source it</li></ul>",
 					"useRawFormat": true
 				},
 				{

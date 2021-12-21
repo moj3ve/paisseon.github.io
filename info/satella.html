@@ -1,59 +1,71 @@
 <h1 id="satella">Satella</h1>
 <p>I love you. Because you gave me light. Because you took my hand and you taught me about the world outside. Because when I trembled on lonely nights, you never stopped holding my hand. Because when I felt lonely, you kissed me and said that I wasn&#39;t alone. You gave me so many things. That&#39;s why I love you. Because you gave me everything.</p>
+
 <h2 id="features">Features</h2>
-<ul>
-<li>The only open source IAP cracker ever made for iOS</li>
-<li>Compatible with all devices on iOS 13-14</li>
-<li>Fast and lightweight because it only injects into the apps you choose</li>
-<li>Option to fake receipts, which lets you hack more apps</li>
-</ul>
+	<ul>
+		<li>The only open source IAP cracker ever made for iOS</li>
+		<li>Compatible with all devices on iOS 13-14</li>
+		<li>Fast and lightweight because it only injects into the apps you choose</li>
+		<li>Option to fake receipts, which lets you hack more apps</li> 
+	</ul>
+
 <h2 id="known-issues">Known Issues</h2>
-<ul>
-<li>Receipt faker doesn&#39;t work on iOS 14 and I&#39;m not good enough to fix it (yet?)</li>
-<li>Server sided purchases, including all subscriptions, are incompatible with Satella</li>
-</ul>
+	<ul>
+		<li>Receipt faker doesn&#39;t work on iOS 14 and I&#39;m not good enough to fix it (yet?)</li>
+		<li>Server sided purchases, including most subscriptions, are incompatible with Satella</li>
+	</ul>
+
 <h2 id="information">Information</h2>
-<ul>
-<li><strong>Developer</strong> Paisseon</li>
-<li><strong>Current Version</strong> 2.5.1</li>
-<li><strong>Price</strong> Free</li>
-</ul>
+	<ul>
+		<li><strong>Developer</strong> Paisseon</li>
+		<li><strong>Current Version</strong> 2.7.1</li>
+		<li><strong>Price</strong> Free</li>
+	</ul>
+
 <h2 id="changelog">Changelog</h2>
-<h3 id="2-5-1">2.5.1</h3>
-<ul>
-<li>Sandbox the receipt faker to remove unnecessary hooks<h3 id="2-5">2.5</h3>
-</li>
-<li>Fully local receipt faker!</li>
-<li>Fix an issue with preferences<h3 id="2-4">2.4</h3>
-</li>
-<li>Add an &quot;Enable in All Apps&quot; toggle</li>
-<li>Faster receipt faker<h3 id="2-3">2.3</h3>
-</li>
-<li>Slight optimisation<h3 id="2-2">2.2</h3>
-</li>
-<li>Switch from GrimReceiper (by ZonD80) to AnComCatgirls (by me)<h3 id="2-1">2.1</h3>
-</li>
-<li>Tentative iOS 12 support</li>
-<li>Fix a bug causing apps that check transaction_id to crash<h3 id="2-0">2.0</h3>
-</li>
-<li>New preferences</li>
-<li>Complete rewrite of receipt faker</li>
-<li>Fix bug where Satella injects into system and hidden applications<h3 id="1-5">1.5</h3>
-</li>
-<li>Fix bug where unc0ver users can&#39;t rejailbreak with Satella installed (thanks Randy420!)<h3 id="1-4">1.4</h3>
-</li>
-<li>Add blacklist for apps</li>
-<li>Stabilise receipt spoofing<h3 id="1-3">1.3</h3>
-</li>
-<li>Add receipt spoofing</li>
-<li>Merge experimental features into main tweak<h3 id="1-2">1.2</h3>
-</li>
-<li>Add experimental features<h3 id="1-1">1.1</h3>
-</li>
-<li>Add preferences<h3 id="1-0">1.0</h3>
-</li>
-<li>Initial public release</li>
-<li>Add iOS 14 support<h3 id="0-1">0.1</h3>
-</li>
-<li>Initial closed beta</li>
-</ul>
+	<ul>
+  <h3 id="2-7-1">2.7.1</h3>
+  <li>Fixes preferences on arm64e iOS 13</li>
+  <h3 id="2-7">2.7</h3>
+  <li>Fixes a crash that occurs in some apps when transactionIdentifier is nil</li>
+  <h3 id="2-6">2.6</h3>
+  <li>Add crack detection bypass</li>
+  <li>Add custom transaction observer</li>
+  <li>Fix the double purchases bug (thanks to u/oopsuwu for reporting!)</li>
+  <li>Fix bug wherein incompatible apps deny a valid restore when Satella is activated</li><h3 id="2-5-1">2.5.1</h3>
+		<li>Sandbox the receipt faker to remove unnecessary hooks<h3 id="2-5">2.5</h3>
+		</li>
+		<li>Fully local receipt faker!</li>
+		<li>Fix an issue with preferences<h3 id="2-4">2.4</h3>
+		</li>
+		<li>Add an &quot;Enable in All Apps&quot; toggle</li>
+		<li>Faster receipt faker<h3 id="2-3">2.3</h3>
+		</li>
+		<li>Slight optimisation<h3 id="2-2">2.2</h3>
+		</li>
+		<li>Switch from GrimReceiper (by ZonD80) to AnComCatgirls (by me)<h3 id="2-1">2.1</h3>
+		</li>
+		<li>Tentative iOS 12 support</li>
+		<li>Fix a bug causing apps that check transaction_id to crash<h3 id="2-0">2.0</h3>
+		</li>
+		<li>New preferences</li>
+		<li>Complete rewrite of receipt faker</li>
+		<li>Fix bug where Satella injects into system and hidden applications<h3 id="1-5">1.5</h3>
+		</li>
+		<li>Fix bug where unc0ver users can&#39;t rejailbreak with Satella installed (thanks Randy420!)<h3 id="1-4">1.4</h3>
+		</li>
+		<li>Add blacklist for apps</li>
+		<li>Stabilise receipt spoofing<h3 id="1-3">1.3</h3>
+		</li>
+		<li>Add receipt spoofing</li>
+		<li>Merge experimental features into main tweak<h3 id="1-2">1.2</h3>
+		</li>
+		<li>Add experimental features<h3 id="1-1">1.1</h3>
+		</li>
+		<li>Add preferences<h3 id="1-0">1.0</h3>
+		</li>
+		<li>Initial public release</li>
+		<li>Add iOS 14 support<h3 id="0-1">0.1</h3>
+		</li>
+		<li>Initial closed beta</li>
+	</ul>

@@ -247,6 +247,25 @@ Icon: https://paisseon.github.io/info/satella.png
 Name: Satella
 Sileodepiction: https://paisseon.github.io/info/satella.json
 
+Package: ai.paisseon.satella
+Version: 2.7.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 332
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/ai.paisseon.satella_2.7.1_iphoneos-arm.deb
+Size: 48684
+MD5sum: 5c918029231fd1dccb6779c19e9f39e2
+SHA1: e52e21187dd3c1fe716ed517358132c9a7247bf1
+SHA256: 37e98f718ed70db26e220c9a543c3f1924b80d095d434a6bc3eb3484145ce76f
+Section: Tweaks
+Description: IAP cracker for modern devices
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/satella.html
+Icon: https://paisseon.github.io/info/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
 Package: ai.paisseon.seele
 Version: 2.0
 Architecture: iphoneos-arm
@@ -362,6 +381,25 @@ Size: 29246
 MD5sum: 9d6d9a97ec08c473509ac6384c4a8f19
 SHA1: 416ca43e4167323d0b00912a7786db3ae4f55020
 SHA256: 077d20bba5bd0c3b708941f577ae8a153c013ea9fb9cdf7d756cb5570c38a7ea
+Section: Tweaks
+Description: CyDown++ for Sileo and Saily
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/erika.html
+Icon: https://paisseon.github.io/info/erika.png
+Name: Erika (Beta)
+Sileodepiction: https://paisseon.github.io/info/erika.json
+
+Package: emt.paisseon.erika
+Version: 0.5b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/emt.paisseon.erika_0.5b_iphoneos-arm.deb
+Size: 30904
+MD5sum: 56b711496e3dd705396f3bb0d6ee691f
+SHA1: 281acc052d776b05c60a961b545b1347f15b063f
+SHA256: 9d422c65b248ecb85beef57848f73b53cb63d441b0a0a4a6ead4b4e04d9ce5c8
 Section: Tweaks
 Description: CyDown++ for Sileo and Saily
 Author: Paisseon
