@@ -266,6 +266,25 @@ Icon: https://paisseon.github.io/info/satella.png
 Name: Satella
 Sileodepiction: https://paisseon.github.io/info/satella.json
 
+Package: ai.paisseon.satella
+Version: 2.8
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 332
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Replaces: ai.paisseon.satella12
+Filename: debs/ai.paisseon.satella_2.8_iphoneos-arm.deb
+Size: 48426
+MD5sum: 306e4aee8fdb4b4fb512396b5e49f27d
+SHA1: 3477ac43983e307e2fd628fe38eaf8d7bb81b1d1
+SHA256: 72959705653d62aadba2c46fc371268e905a752387e79a5e176c9c65233e49de
+Description: IAP cracker for modern devices
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/satella.html
+Icon: https://paisseon.github.io/info/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
 Package: ai.paisseon.seele
 Version: 2.0
 Architecture: iphoneos-arm
@@ -332,6 +351,22 @@ Depiction: https://sudo9000.github.io/info/debra.html
 Icon: https://sudo9000.github.io/info/debra.png
 Name: Debra
 Sileodepiction: https://sudo9000.github.io/info/debra.json
+
+Package: emt.paisseon.chocola
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 3088
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/emt.paisseon.chocola_1.0_iphoneos-arm.deb
+Size: 2921250
+MD5sum: 81907ad071c12813916b455f1e344bf9
+SHA1: 565432fead091059554bccc70ef8bd6aacb30b38
+SHA256: ccedce6b9f4ca5f5ddc4901931a80ab25af0d22c27ecf21cd86df5a7363ba256
+Section: Tweaks
+Description: Video wallpapers for iOS 13-14
+Author: Paisseon
+Name: Chocola
 
 Package: emt.paisseon.erika
 Version: 0.2-beta
@@ -406,6 +441,25 @@ Author: Paisseon
 Depiction: https://paisseon.github.io/info/erika.html
 Icon: https://paisseon.github.io/info/erika.png
 Name: Erika (Beta)
+Sileodepiction: https://paisseon.github.io/info/erika.json
+
+Package: emt.paisseon.erika
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0)
+Filename: debs/emt.paisseon.erika_1.0_iphoneos-arm.deb
+Size: 30666
+MD5sum: 3e890483e3baa325790c362d173141ec
+SHA1: b7e49c27ab14cc1750169cbdaa4d498eb7fe6947
+SHA256: c67f6189b42bda6164a38fc265f30688be9b1a930645d6d5caf69fc437264411
+Section: Tweaks
+Description: CyDown++ for Sileo and Saily
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/erika.html
+Icon: https://paisseon.github.io/info/erika.png
+Name: Erika
 Sileodepiction: https://paisseon.github.io/info/erika.json
 
 Package: emt.paisseon.icleaner
