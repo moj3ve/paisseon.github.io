@@ -285,6 +285,45 @@ Icon: https://paisseon.github.io/info/satella.png
 Name: Satella
 Sileodepiction: https://paisseon.github.io/info/satella.json
 
+Package: ai.paisseon.satella
+Version: 2.8.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 332
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Replaces: ai.paisseon.satella12
+Filename: debs/ai.paisseon.satella_2.8.1_iphoneos-arm.deb
+Size: 47820
+MD5sum: 7a14953846ee22df4d41193a61c14ad0
+SHA1: f2fa51cb5c3b5e6b55a1be430ebf7ffe2c0ce5f7
+SHA256: e3c4bba19a785a56ba3497579351645d73ad3544f8ae7b661d6d9a2fd8eced9c
+Section: Tweaks
+Description: IAP cracker for modern devices
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/satella.html
+Icon: https://paisseon.github.io/info/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
+Package: ai.paisseon.satella12
+Version: 2.8
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 100
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: ai.paisseon.satella
+Filename: debs/ai.paisseon.satella12_2.8_iphoneos-arm.deb
+Size: 29310
+MD5sum: e223aecb6581a2bb9ce7d674843caf93
+SHA1: 798ed18329bedde4703adbf445a64edf7d40b838
+SHA256: 05bccef69201d924707cd9a43a9167e8490aed6fc75495f73262f8970a9344f8
+Description: Satella with iOS 12 compatible preferences?
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/satella.html
+Icon: https://paisseon.github.io/info/satella.png
+Name: Satella (Legacy)
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
 Package: ai.paisseon.seele
 Version: 2.0
 Architecture: iphoneos-arm
