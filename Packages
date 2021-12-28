@@ -67,6 +67,22 @@ Author: Paisseon
 Icon: https://paisseon.github.io/info/dodontsuggest.png
 Name: Dodon't Suggest My Music
 
+Package: ai.paisseon.dodontsuggest
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 404
+Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/ai.paisseon.dodontsuggest_1.5_iphoneos-arm.deb
+Size: 42940
+MD5sum: 2fcb1f47f59c00bcea7fa70cffc5ce4e
+SHA1: 55bca8d4c5cf906d20a2818c80aea335643019ff
+SHA256: ac654c342d476b310c011f567d6addf7e0695400e59329511293e1ea24ec87bc
+Description: Customisation for the Dodo tweak
+Author: Paisseon
+Icon: https://paisseon.github.io/info/dodontsuggest.png
+Name: Dodon't Suggest My Music
+
 Package: ai.paisseon.peepreborn
 Version: 1.0
 Architecture: iphoneos-arm
