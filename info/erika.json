@@ -113,6 +113,17 @@
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
+					"title": "1.1"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Removed force unwraps for more stability (thanks to Lakr Aream!)</li>\n<li>Slight change to the UI</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
 					"title": "1.0"
 				},
 				{
