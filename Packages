@@ -83,6 +83,22 @@ Author: Paisseon
 Icon: https://paisseon.github.io/info/dodontsuggest.png
 Name: Dodon't Suggest My Music
 
+Package: ai.paisseon.dodontsuggest
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 404
+Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/ai.paisseon.dodontsuggest_1.6_iphoneos-arm.deb
+Size: 42788
+MD5sum: bfd060c0148c14c25a2fa639ca8788b2
+SHA1: 0fbb92da4dd0bf66821cc49cde422cbdb587f9d7
+SHA256: f4f55ef539c0492418a39664526c3e2b2fe2fad6126a254451b128a81e59c2ca
+Description: Customisation for the Dodo tweak
+Author: Paisseon
+Icon: https://paisseon.github.io/info/dodontsuggest.png
+Name: Dodon't Suggest My Music
+
 Package: ai.paisseon.peepreborn
 Version: 1.0
 Architecture: iphoneos-arm
@@ -583,6 +599,23 @@ Section: Tweaks
 Description: Lunar phase in your status bar
 Author: Paisseon
 Name: LunarTime
+
+Package: emt.paisseon.paibloxx
+Version: 0.1b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 4
+Depends: firmware (>= 12.0), com.pheux.fixrandomresprings
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: debs/emt.paisseon.paibloxx_0.1b_iphoneos-arm.deb
+Size: 1672
+MD5sum: 0e2609cb1641f9323efb7ad200e7b3fc
+SHA1: e032561d3f15d99772a636640c19f2d7e3905f2b
+SHA256: ea8fc33e26806e876601dfc14746e63414fc9efd82c1cef76ac04c32d66ef4da
+Section: Tweaks
+Description: Systemwide adblocker for iOS. If it doesn't work, use 'sudo cfnReload' in Terminal or toggle on and off the Flight Mode.
+Author: Paisseon
+Name: PaiBloxx
 
 Package: emt.paisseon.safemr
 Version: 1.1
