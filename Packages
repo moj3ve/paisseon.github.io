@@ -99,6 +99,22 @@ Author: Paisseon
 Icon: https://paisseon.github.io/info/dodontsuggest.png
 Name: Dodon't Suggest My Music
 
+Package: ai.paisseon.dodontsuggest
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 404
+Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/ai.paisseon.dodontsuggest_1.7_iphoneos-arm.deb
+Size: 42132
+MD5sum: 8dd175277b63f00d637841f174e5bf1b
+SHA1: 8cd595225df054cb92d799b20dac906f1eea8606
+SHA256: dded9f6d95f866033739be1888f7b1b9ebc8ce7fb954d35534c82781397e1987
+Description: Change the colour of the clock in Dodo. The name refers to a previous feature which has since been fixed in Dodo. Props to Ginsu for doing so!
+Author: Paisseon
+Icon: https://paisseon.github.io/info/dodontsuggest.png
+Name: Dodon't Suggest My Music
+
 Package: ai.paisseon.peepreborn
 Version: 1.0
 Architecture: iphoneos-arm
