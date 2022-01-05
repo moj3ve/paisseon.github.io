@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Download tweaks for free in Sileo and Saily</li>\n<li>Compatible with all tweaks with which CyDown works</li>\n<li>Will be fully open sourced at version 1.0 (that's either the next one or the one after it, probably)</li></ul>",
+					"markdown": "<ul>\n<li>Download tweaks for free in Sileo and Saily</li>\n<li>Compatible with all tweaks with which CyDown works</li></ul>",
 					"useRawFormat": true
 				},
 				{
