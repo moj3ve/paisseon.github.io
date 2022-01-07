@@ -50,7 +50,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li><b>Sileo</b> scroll to the bottom of the depiction and tap the bundle ID.</li>\n<li><b>Saily</b> tap the \"Buy\" button and select Erika from the dropdown menu, then tap the name of the tweak.</li>\n<li>I recommend using the Copy to Saily/Sileo feature in Filza to handle dependencies automatically.</li></ul>",
+					"markdown": "<ul>\n<li>In <b>Sileo</b>, tap the tweak's icon at the top of the depiction page.</li>\n<li>In <b>Saily</b>, tap the \"Buy\" button and select Erika from the dropdown menu, then tap the name of the tweak.</li>\n<li>I recommend using the Copy to Saily/Sileo feature in Filza to handle dependencies automatically.</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -109,6 +109,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#8600ff",
 			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.2"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Change Sileo activation to be tapping on the tweak icon, not the bundle ID. This prevents the need to scroll to the bottom on every tweak</li></ul>",
+					"useRawFormat": true
+				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
