@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul><li>Very large tweaks, such as themes, may take several seconds to download</li></ul>",
+					"markdown": "<ul>\n<li>Very large tweaks, such as themes, may take several seconds to download</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -109,6 +109,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#8600ff",
 			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.2.1"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Fix Erika button displaying Copy Meta in Saily</li>\n<li>Fix Sileo adding gesture recognisers outside of the depiction</li>\n<li>Fix Sileo crashing when it could not load references to tweak information</li>\n<li>Re-add gesture recognisers to bundle ID in Sileo</li></ul>",
+					"useRawFormat": true
+				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
