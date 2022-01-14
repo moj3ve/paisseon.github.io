@@ -726,6 +726,23 @@ Description: Systemwide adblocker for iOS. If it doesn't work, use 'sudo cfnRelo
 Author: Paisseon
 Name: PaiBloxx
 
+Package: emt.paisseon.paibloxx
+Version: 0.3b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 172
+Depends: firmware (>= 13.0), com.pheux.fixrandomresprings
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: debs/emt.paisseon.paibloxx_0.3b_iphoneos-arm.deb
+Size: 6708
+MD5sum: d6664c2247b203ceb196bfd43ed79d2b
+SHA1: 2c0625b2edbc39e37de0e20cbb84bd8cdf117855
+SHA256: ee886c2ab9a84d79618a2dadf794b9f605d96ab8241474f3e4f9583807b8e878
+Section: Tweaks
+Description: Auto-updating systemwide ad blocker for iOS-- a fork of MyBloxx designed for safety and simplicity. To configure the tweak, use in Terminal: `sudo cfnReload <arg0>` with argument -e to enable, -d to disable, -m to use MyBloxx's PAC, or -p to use PaiBloxx's PAC. If changes don't seem to apply, either userspace reboot or ldrestart.
+Author: Paisseon
+Name: PaiBloxx
+
 Package: emt.paisseon.safemr
 Version: 1.1
 Architecture: iphoneos-arm
