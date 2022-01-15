@@ -743,6 +743,24 @@ Description: Auto-updating systemwide ad blocker for iOS-- a fork of MyBloxx des
 Author: Paisseon
 Name: PaiBloxx
 
+Package: emt.paisseon.paibloxx
+Version: 0.4b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 172
+Depends: firmware (>= 13.0), com.pheux.fixrandomresprings
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: debs/emt.paisseon.paibloxx_0.4b_iphoneos-arm.deb
+Size: 6568
+MD5sum: a3c13d5d9e086bc3a53658c946d1459a
+SHA1: 1bc80d3cabd05d851ff78e35ff8eb53d732c9e7d
+SHA256: 738a0cbccbd4915028dd5e30cae3cc1ebbccaf973e3bfaf76b01c26fa2953495
+Section: Tweaks
+Description: Auto-updating systemwide ad blocker for iOS
+Author: Paisseon
+Name: PaiBloxx
+Sileodepiction: https://paisseon.github.io/info/paibloxx.json
+
 Package: emt.paisseon.safemr
 Version: 1.1
 Architecture: iphoneos-arm
