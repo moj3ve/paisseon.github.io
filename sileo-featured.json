@@ -4,27 +4,27 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://i.imgur.com/HHOvZoD.png",
+        "url": "https://paisseon.github.io/info/satella.png",
         "title": "Satella",
         "package": "ai.paisseon.satella",
         "hideShadow": false
     },
+	{
+		"url": "https://paisseon.github.io/info/erika.png",
+		"title": "Erika",
+		"package": "emt.paisseon.erika",
+		"hideShadow": false
+	},
     {
-        "url": "https://i.imgur.com/5Bmm40D.png",
+        "url": "https://paisseon.github.io/info/vivy.png",
         "title": "Vivy",
         "package": "ai.paisseon.vivy",
         "hideShadow": false
     },
     {
-        "url": "https://i.imgur.com/oF8M1mG.png",
+        "url": "https://paisseon.github.io/info/reverie.png",
         "title": "Reverie",
         "package": "ai.paisseon.reverie",
-        "hideShadow": false
-    },
-    {
-        "url": "https://i.imgur.com/tlMa7ge.png",
-        "title": "Dark Keys Reborn",
-        "package": "ai.paisseon.darkkeysreborn",
         "hideShadow": false
     }
   ]
