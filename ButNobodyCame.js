@@ -31,7 +31,7 @@ const doNotAgain = 'No...?*Hmm...*This feeling you have.*This is what I spoke of
 const backAgain = 'Interesting.*You want to go back.*You want to go back to the world you destroyed.*It was you who pushed everything to its edge.*It was you who led the world to its destruction.*But you cannot accept it.*You think you are above consequences.*...*You still have something I want.*$Give it to me.*And I will bring this world back.#'
 
 // sell soul
-const sellSoul = '^Then it is agreed. You will give me your SOUL.*...Then it is done.@~'
+const sellSoul = '^Then it is agreed.*You will give me your SOUL.*...Then it is done.@~'
 
 // no, don't
 const dontSellSoul = 'Then stay here for all eternity.~'
@@ -102,11 +102,11 @@ function charaText() {
 				break
 			case '$':
 				truechara.src = 'images/charasoulless.webp'
-				charaText()
+				setTimeout(charaText, 1)
 				break
 			case '^':
 				truechara.src = 'images/truechara.webp'
-				charaText()
+				setTimeout(charaText, 1)
 				break
 			case '@':
 				cydia.style = ''
