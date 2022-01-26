@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>The official Swift successor to Satella</li>\n<li>Compatible with iOS 12.2-14.8.1 and all 64-bit iDevices</li>\n<li>Fast and lightweight</li>\n<li>Receipt generator and custom observer to increase success rate</li>\n<li>Choose which apps to inject Satella into</li></ul>",
+					"markdown": "<ul>\n<li>The official Swift successor to Satella</li>\n<li>Compatible with iOS 12.2-14.8.1 and all 64-bit iDevices</li>\n<li>Fast and lightweight</li>\n<li>Receipt generator and custom observer to increase success rate</li>\n<li>Choose which apps to inject Satella into</li>\n<li>Purchases have persistence and can even be restored on a non-jailbroken device</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Receipt generation fails on iOS 14 most of the time— my iPad 6 works but iPhone XS doesn't. If you can hack Temple Run with Satella 2 on iOS 14, let me know your device please!</li>\n<li>Server sided purchases, including most subscriptions, are incompatible with Satella 2.</li></ul>",
+					"markdown": "<ul>\n<li>Whether receipt generation and restores work seems to be completely random so good luck lol</li>\n<li>Server sided purchases, including most subscriptions, are incompatible with Satella 2.</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "0.2b"
+					"text": "0.3b"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -102,11 +102,22 @@
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
+					"title": "0.3b"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Support for restoring legitimate purchases</li>\n<li>Minor code improvements</li>\n<li>Prevent SatellaObserver and Preferences from initialising in non-user apps</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
 					"title": "0.2b"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Reduced tweak size by ~20kb</li></ul>",
+					"markdown": "<ul>\n<li>Reduced tweak size by ~30%</li>\n<li>Added a prettier icon to the preference header</li></ul>",
 					"useRawFormat": true
 				},
 				{

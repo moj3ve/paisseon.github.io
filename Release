@@ -5,14 +5,14 @@ Version: 1.0
 Codename: EMT
 Architectures: iphoneos-arm
 Components: main
-Description: Open source tweaks for 13-14 devices
+Description: Who even reads repo descriptions?
 MD5Sum:
- 14a59c568a912343486fe37dd0a277f1 29832 Packages
- 7a13b6b8705092b3c078424bd1554754 6831 Packages.bz2
- 6d75c4c18f2772a7eae4716e2cb04d8f 7282 Packages.gz
- 6b9ca006c201639c39a24cbd283a31a2 6559 Packages.zst
+ 5d819c5f02abb32f984cb9e9673f59b0 30527 Packages
+ dc5b3eb23d0df6d63f9a230a774ec7ed 6933 Packages.bz2
+ 6ea77acff1173796164b71fc1d0914b7 7390 Packages.gz
+ c70018a1c04e594315b8570a89268dec 6645 Packages.zst
 SHA256:
- 3caf33fbc787f10557be4d2949aa2d72bbe7b66df73487638eb2e2e90dadc313 29832 Packages
- 2b52195d4fcb780bf7f5e1d7a2d654fd79227366f7539e0c07a5e5714e8510dc 6831 Packages.bz2
- 977f01996d7b9f26cbc9e30800c4122bbaf5f28fd8a4e6d5e62735d797b968a2 7282 Packages.gz
- 0b962dc410353ca1084f5327b55dbf14631c985c8065a78899ffec4ec035f34b 6559 Packages.zst
+ 8bce5c8daf6bd49085a9e69186151a6ffdfda6a88e06894b2efa87050bc38bb9 30527 Packages
+ ae57b5ccb3cd5e58080c950999b0ffb9736af6ebde09e1c77e7fb2fafae7ce83 6933 Packages.bz2
+ c03b398045637a5aafc5b1a126746265e9571ecc60a7fb6b05ea9626ee5ff866 7390 Packages.gz
+ 4ba3ca7fc4650466796a636e3185b40115bc9dc72da642f6c27a90593394d6f8 6645 Packages.zst
