@@ -39,8 +39,11 @@ const dontSellSoul = 'Then stay here for all eternity.~'
 // returning after selling soul
 const backAgainSellSoul = 'Greetings.*I am Chara.*"Chara."*The demon that comes when you call my name.*It doesn\'t matter when.*It doesn\'t matter where.*Time after time, I will apear.*And with your help, we will eradicate the enemy and become strong.*HP. ATK. DEF. GOLD. EXP. LV.*Every time a number increases, that feeling...*That\'s me.*"Chara."*...But you and I are not the same, are we?*This SOUL resonates with a strange feeling.*There is a reason you continue to recreate this world.*There is a reason you continue to destroy it.*You. You are wracked with a perverted sentimentality.*Hmm...*I cannot understand these feelings any more.*Despite this. I feel obligated to suggest.*Should you choose to create this world once more.*Another path would be better suited.*Now, partner.$ Let us send this world back into the abyss.@~'
 
-// returning without selling soul or refusing to sell soul
-const indecisive = 'Your indecisive nature is foreign to me.*Do you really think coming back here repeatedly will change anything?~'
+// the ninth time user visits
+const nineTimes = '...*Hmm...*You have returned.*Truth be told, this is not so surprising.*I do not understand your motives.*But I fully understand the desire for more.*That desire is who I am.*...*Regardless.*I am not here to satisfy your every whim.*Let\'s get back to business.@~'
+
+// the one-hundredth time the user visits
+const cheaterLol = 'Don\'t you have anything better to do?'
 
 // get the state of persistence
 function persistGet() {
@@ -90,39 +93,42 @@ function charaText() {
 	if (i < line.length) {
 		switch (line.charAt(i)) {
 			case '*':
+				// clear text and pause
 				setTimeout("dialogue.innerHTML='';charaText();", 1750)
 				break
 			case '&':
+				// show erase and do not buttons
 				eraseButton.style = ''
 				doNotButton.style = ''
 				break
 			case '#':
+				// show yes and no buttons
 				yesButton.style = ''
 				noButton.style = ''
 				break
 			case '$':
+				// show wide-eyed chara
 				truechara.src = 'images/charasoulless.webp'
 				setTimeout(charaText, 1)
 				break
 			case '^':
+				// show normal chara
 				truechara.src = 'images/truechara.webp'
 				setTimeout(charaText, 1)
 				break
 			case '@':
-				cydia.style = ''
-				installer.style = ''
-				saily.style = ''
-				sileo.style = ''
-				zebra.style = ''
+				// show repo buttons
 				repoDiv.style = ''
 			case '~':
 				// do nothing— the purpose of ~ is to keep text on screen indefinitely
 				break
 			case ' ':
+				// go faster on spaces
 				dialogue.innerHTML += line.charAt(i)
 				setTimeout(charaText, 50)
 				break
 			default:
+				// print one letter to screen
 				dialogue.innerHTML += line.charAt(i)
 				setTimeout(charaText, 175)
 				break
@@ -238,7 +244,19 @@ switch (p[0]) {
 		charaText()
 		break
 	case 2:
-		line = backAgain
+		if (p[1] || p[2]) {
+			line = backAgain
+		} else {
+			line = firstTime
+		}
+		charaText()
+		break
+	case 9:
+		line = nineTimes
+		charaText()
+		break
+	case 100:
+		line = cheaterLol
 		charaText()
 		break
 	default:
@@ -247,7 +265,7 @@ switch (p[0]) {
 		} else if (p[4]) {
 			line = dontSellSoul
 		} else {
-			line = indecisive
+			line = backAgain
 		}
 		charaText()
 		break

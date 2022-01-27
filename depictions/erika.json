@@ -1,0 +1,236 @@
+{
+	"minVersion": "0.1",
+	"class": "DepictionTabView",
+	"tintColor": "#660066",
+	"headerImage": "https://paisseon.github.io/info/LiaDive.png",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"class": "DepictionStackView",
+			"tintColor": "#660066",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "Description"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Do what you want cause a pirate is free, you are a pirate~",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "Features"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Download tweaks for free in Sileo and Saily</li>\n<li>Compatible with all tweaks with which CyDown works</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "Known Issues"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Very large tweaks, such as themes, may take several seconds to download</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "How to Use"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>In <b>Sileo</b>, tap the tweak's icon at the top of the depiction page.</li>\n<li>In <b>Saily</b>, tap the \"Buy\" button and select Erika from the dropdown menu, then tap the name of the tweak.</li>\n<li>I recommend using the Copy to Saily/Sileo feature in Filza to handle dependencies automatically.</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "Information"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Developer",
+					"text": "CyPwn"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Version",
+					"text": "1.4"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Price",
+					"text": "Free"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 16
+				},
+				{
+					"class": "DepictionStackView",
+					"views": [
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Source Code",
+							"action": "https://github.com/Paisseon/Erika",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "CyPwn's Discord",
+							"action": "https://discord.com/invite/cZ2gBRZvwW",
+							"openExternal": false
+						}
+					]
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 16
+				}
+			]
+		},
+		{
+			"tabname": "Changelog",
+			"class": "DepictionStackView",
+			"tintColor": "#660066",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.4"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Check for the Erika folder before downloading</li>\n<li>Fixed weird corners in UI</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.3"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Only open Filza if the download has completed</li>\n<li>Minor code improvements</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.2.1"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Fix Erika button displaying Copy Meta in Saily</li>\n<li>Fix Sileo adding gesture recognisers outside of the depiction</li>\n<li>Fix Sileo crashing when it could not load references to tweak information</li>\n<li>Re-add gesture recognisers to bundle ID in Sileo</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.2"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Change Sileo activation to be tapping on the tweak icon, not the bundle ID. This prevents the need to scroll to the bottom on every tweak</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.1"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Removed force unwraps for more stability (thanks to Lakr Aream!)</li>\n<li>Slight change to the UI</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Literally 0.5b renamed, but it's open sourced</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.5b"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Change the Copy Meta label in Saily to Erika for clarity</li>\n<li>Add error handling for r3</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.4b"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Add preliminary Saily compatibility</li>\n<li>Add iOS 12 support? Edit: Nvm, SwiftUI doesn't work on iOS 12.</li>\n<li>Add more informative errors</li>\n<li>If this version doesn't have any major bugs, I'll just upload it as 1.0 + open source it</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.3-beta"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Rewrite in Swift + SwiftUI</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.2-beta"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Fix crash that occurred on some devices</li>\n<li>Significant speed increase</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.1-beta"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Initial testing release</li></ul>",
+					"useRawFormat": true
+				}
+			]
+		}
+	]
+}

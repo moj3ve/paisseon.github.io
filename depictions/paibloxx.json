@@ -1,13 +1,13 @@
 {
 	"minVersion": "0.1",
 	"class": "DepictionTabView",
-	"tintColor": "#660066",
-	"headerImage": "https://paisseon.github.io/images/LiaDive.png",
+	"tintColor": "#8600ff",
+	"headerImage": "https://paisseon.github.io/info/LiaDive.png",
 	"tabs": [
 		{
 			"tabname": "Details",
 			"class": "DepictionStackView",
-			"tintColor": "#660066",
+			"tintColor": "#8600ff",
 			"views": [
 				{
 					"class": "DepictionSubheaderView",
@@ -17,7 +17,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "I love you. Because you gave me light. Because you took my hand and you taught me about the world outside. Because when I trembled on lonely nights, you never stopped holding my hand. Because when I felt lonely, you kissed me and said that I wasn't alone. You gave me so many things. That's why I love you. Because you gave me everything.",
+					"markdown": "Auto-updating systemwide ad blocker for iOS",
 					"useRawFormat": true
 				},
 				{
@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>The official Swift successor to Satella</li>\n<li>Compatible with iOS 12.2-14.8.1 and all 64-bit iDevices</li>\n<li>Fast and lightweight</li>\n<li>Receipt generator and custom observer to increase success rate</li>\n<li>Choose which apps to inject Satella into</li>\n<li>Purchases have persistence and can even be restored on a non-jailbroken device</li></ul>",
+					"markdown": "<ul>\n<li>A much safer and simplified MyBloxx fork</li>\n<li>Configure using `sudo cfnReload <arg0>`: Arguments include -e(nable), -d(isable), -m(ybloxx pac), -p(aibloxx pac), -s(tatus), and -x(perimental pac).</li>\n<li>Includes a CC module</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Whether receipt generation and restores work seems to be completely random so good luck lol</li>\n<li>Server sided purchases, including most subscriptions, are incompatible with Satella 2.</li></ul>",
+					"markdown": "<ul>\n<li>You have to ldrestart manually after making any changes or it won't work. Idk how to fix that 🤷‍♀️</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -53,7 +53,7 @@
 				},
 				{
 					"class": "DepictionTableTextView",
-					"title": "Developer",
+					"title": "Developers",
 					"text": "Paisseon"
 				},
 				{
@@ -76,7 +76,7 @@
 						{
 							"class": "DepictionTableButtonView",
 							"title": "Source Code",
-							"action": "https://github.com/Paisseon/Satella2",
+							"action": "https://github.com/Paisseon/PaiBloxx",
 							"openExternal": false
 						},
 						{
@@ -96,17 +96,17 @@
 		{
 			"tabname": "Changelog",
 			"class": "DepictionStackView",
-			"tintColor": "#660066",
+			"tintColor": "#8600ff",
 			"views": [
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
-					"title": "0.3.1b"
+					"title": "0.4b"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Fixed a bug causing global injection to fail</li></ul>",
+					"markdown": "<ul>\n<li>Added a status checker to cfnReload</li>\n<li>Added an experimental PAC. The experimental PAC is meant for my own testing so it may break at any time. Please don't use it.</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -117,7 +117,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Support for restoring legitimate purchases</li>\n<li>Minor code improvements</li>\n<li>Prevent SatellaObserver and Preferences from initialising in non-user apps</li></ul>",
+					"markdown": "<ul>\n<li>Merged an ever-growing number of scripts into cfnReload</li>\n<li>Added a CC toggle!</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -128,7 +128,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Reduced tweak size by ~30%</li>\n<li>Added a prettier icon to the preference header</li></ul>",
+					"markdown": "<ul>\n<li>Allow using MyBloxx PAC file</li></ul>",
 					"useRawFormat": true
 				},
 				{
