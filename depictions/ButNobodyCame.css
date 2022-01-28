@@ -9,25 +9,10 @@
 
 body {
 	background-color: black;
-	display: grid;
-	  grid-template-columns: 1fr;
-	  grid-template-rows: 100vh;
-	  align-items: center;
-	  justify-items: center;
+	text-align: center;
 }
 
 p {
 	color: white;
 	font-family: Determination;
-}
-
-div {
-	text-align: center;
-}
-
-.udtButton {
-	color: white;
-	font-family: Determination;
-	display: inline-block;
-	padding-inline: 20px
 }
