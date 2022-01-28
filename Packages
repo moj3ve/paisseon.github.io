@@ -746,6 +746,23 @@ Author: Paisseon
 Name: PaiBloxx
 Sileodepiction: https://paisseon.github.io/info/paibloxx.json
 
+Package: emt.paisseon.respringunlock
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Filename: debs/emt.paisseon.respringunlock_0.1_iphoneos-arm.deb
+Size: 11046
+MD5sum: 37e7371ac3f9f853729199a2e28fec03
+SHA1: c2e00eb0896d8ea1d56db09e9bbe3aba9f0f29d8
+SHA256: 07d27a174ac17117c2bdef750ae89e33caca55704eb2adbd36a63e5f5d905e3e
+Section: Tweaks
+Description: Auto-unlock after respring
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Name: RespringUnlock
+
 Package: emt.paisseon.safemr
 Version: 1.1
 Architecture: iphoneos-arm
