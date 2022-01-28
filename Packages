@@ -617,17 +617,17 @@ Maintainer: Paisseon
 Installed-Size: 176
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0)
 Filename: debs/emt.paisseon.erika_1.4_iphoneos-arm.deb
-Size: 33442
-MD5sum: dc7ea9484bbfb48b28f0a0b80c8ea511
-SHA1: 843aeb8991de3837dcb35fcdadf7ba804a1f7cbd
-SHA256: 57261b3291ac03104cde48ec7c18fb81d52cf595901e95ea39409c5ed58e554c
+Size: 33412
+MD5sum: a0a4d37480d2c01cc240a0bb6c670319
+SHA1: 49f8c84f8c04e0464978b3994df0eea41d530b65
+SHA256: 31abc86e97ec71f072f22d0459d9167255bd4fa01f819307abbcb99054fcecc6
 Section: Tweaks
-Description: CyDown++ for Sileo and Saily
+Description: Paid tweaks for free on Saily + Sileo
 Author: Paisseon
-Depiction: https://paisseon.github.io/info/erika.html
-Icon: https://paisseon.github.io/info/erika.png
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Icon: https://paisseon.github.io/icons/erika.png
 Name: Erika
-Sileodepiction: https://paisseon.github.io/info/erika.json
+Sileodepiction: https://paisseon.github.io/depictions/erika.json
 
 Package: emt.paisseon.icleaner
 Version: 0.0.2
