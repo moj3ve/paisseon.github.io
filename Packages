@@ -824,14 +824,14 @@ Installed-Size: 468
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
 Conflicts: ai.paisseon.satella
 Filename: debs/emt.paisseon.satella_0.3.1b_iphoneos-arm.deb
-Size: 58110
-MD5sum: a5b336a5008279446480a5e1d8dc5db2
-SHA1: 8552b9e0c03f5e0fc1a068e5195aed1d3ad5ba58
-SHA256: 5e79a1db9882b83f49ef43d61ce2cca3c3692609a777a5e65292938f98c344d1
+Size: 58180
+MD5sum: 3bfc61d32c5a3080c028a406e20162ae
+SHA1: cb038f65b77ebf263e61ef7f5f6caa33dcf17151
+SHA256: 8840d5aa151d35e342e4b20c9ee3470ada8dbebea141c88a497be07269ad915e
 Section: Tweaks
 Description: Modern in-app purchase cracker
 Author: Paisseon
-Depiction: https://paisseon.github.io/depictions/satella2.html
+Depiction: https://paisseon.github.io/depictions/index.html
 Icon: https://paisseon.github.io/icons/satella2.png
 Name: Satella 2
 Sileodepiction: https://paisseon.github.io/depictions/satella2.json
