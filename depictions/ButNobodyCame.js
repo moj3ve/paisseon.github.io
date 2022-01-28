@@ -26,12 +26,12 @@ function charaText() {
 				break
 			case '$':
 				// show wide-eyed chara
-				truechara.src = 'images/charasoulless.webp'
+				truechara.src = '../images/charasoulless.webp'
 				setTimeout(charaText, 1)
 				break
 			case '^':
 				// show normal chara
-				truechara.src = 'images/truechara.webp'
+				truechara.src = '../images/truechara.webp'
 				setTimeout(charaText, 1)
 				break
 			case '~':
