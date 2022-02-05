@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Whether receipt generation and restores work seems to be completely random so good luck lol</li>\n<li>Server sided purchases, including most subscriptions, are incompatible with Satella 2.</li></ul>",
+					"markdown": "<ul>\n<li>Whether receipt generation and restores work on iOS 14 seems to be completely random so good luck lol</li>\n<li>Server sided purchases, including most subscriptions, are incompatible with Satella 2.</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "0.3b"
+					"text": "0.4b"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -98,6 +98,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#660066",
 			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.4b"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul><li>Fix incorrect data type conversion in receipt generation</li>\n<li>Improvements to receipt generation</li></ul>",
+					"useRawFormat": true
+				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
