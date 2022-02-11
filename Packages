@@ -765,6 +765,25 @@ Author: Paisseon
 Name: PaiBloxx
 Sileodepiction: https://paisseon.github.io/info/paibloxx.json
 
+Package: emt.paisseon.paibloxx
+Version: 0.5.1b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 172
+Depends: firmware (>= 13.0), plutil
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: debs/emt.paisseon.paibloxx_0.5.1b_iphoneos-arm.deb
+Size: 7260
+MD5sum: 817a3e57514a0a66105d1c26c1f59b0e
+SHA1: 693698e3d69e43be52e8a18c105737ee0ccbe09b
+SHA256: 99df0d01992f19f320fd23375b9b8946a0135bd5f3d66119210e8996e44f8e26
+Section: Tweaks
+Description: A safe ad-blocker for iOS
+Author: Paisseon
+Depiction: https://www.reddit.com/r/jailbreak/comments/smf3xv/free_release_shutupcr4shed_silence_cr4shed_jetsam/hw0ts19/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3
+Name: PaiBloxx
+Sileodepiction: https://paisseon.github.io/depictions/paibloxx.json
+
 Package: emt.paisseon.respringunlock
 Version: 0.1
 Architecture: iphoneos-arm
