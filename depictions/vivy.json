@@ -2,7 +2,7 @@
 	"minVersion": "0.1",
 	"class": "DepictionTabView",
 	"tintColor": "#8600ff",
-	"headerImage": "https://paisseon.github.io/info/LiaDive.png",
+	"headerImage": "https://paisseon.github.io/images/LiaDive.png",
 	"tabs": [
 		{
 			"tabname": "Details",

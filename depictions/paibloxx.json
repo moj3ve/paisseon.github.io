@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>A much safer and simplified MyBloxx fork</li>\n<li>Configure using `sudo cfnReload <arg0>`: Arguments include -e(nable), -d(isable), -m(ybloxx pac), -p(aibloxx pac), -s(tatus), and -x(perimental pac).</li>\n<li>Includes a CC module</li></ul>",
+					"markdown": "<ul>\n<li>A MyBloxx fork that won't bootloop you or permanently kill your internet, unlike the original 🙃</li>\n<li>Configure using `sudo cfnReload <arg0>`: Arguments include -e(nable), -d(isable), -m(ybloxx pac), -p(aibloxx pac), -s(tatus), and -x(perimental pac).</li>\n<li>Includes a CC module to quickly enable or disable</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>You have to ldrestart manually after making any changes or it won't work. Idk how to fix that 🤷‍♀️</li></ul>",
+					"markdown": "<ul>\n<li>Changes made using the cfnReload command must be applied by toggling on and off Airplane Mode</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "0.3b"
+					"text": "0.5.1b"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -98,6 +98,28 @@
 			"class": "DepictionStackView",
 			"tintColor": "#8600ff",
 			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.5.1b"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Remove FixRandomResprings from the dependencies</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.5b"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Automatically apply changes when using the CC toggle</li></ul>",
+					"useRawFormat": true
+				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,

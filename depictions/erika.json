@@ -2,7 +2,7 @@
 	"minVersion": "0.1",
 	"class": "DepictionTabView",
 	"tintColor": "#660066",
-	"headerImage": "https://paisseon.github.io/info/LiaDive.png",
+	"headerImage": "https://paisseon.github.io/images/LiaDive.png",
 	"tabs": [
 		{
 			"tabname": "Details",
@@ -70,7 +70,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "1.5"
+					"text": "1.6"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -109,6 +109,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#660066",
 			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.6"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Reliability improvements in Sileo</li>\n<li>Fix Sileo 2.3 compatibility</li>\n<li>Better code organisation</li></ul>",
+					"useRawFormat": true
+				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
