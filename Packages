@@ -430,13 +430,12 @@ Version: 1.4-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
 Filename: debs/anondev.LocalIAPStore_1.4-1_iphoneos-arm.deb
-Size: 71170
-MD5sum: adce93b64675706f4a4c4b5204a1e8fe
-SHA1: c9bb6d2749f5d065e9c29a2a39cf233a3a1465d2
-SHA256: 97d20ebc8f9d96da6f4749499be4664d7ab946d469439b7ab04af1e167afaca2
+Size: 42184
+MD5sum: 505f97c4024a0178a71159b5462862e7
+SHA1: 4e761cb8e44f00f1e1882b4f0d0b4352b1d3804d
+SHA256: 1643ea3ebd0ad6b9738f4fb42932f1c1339de32b8b173f214f9d27db9d8f220f
 Section: Tweaks
-Priority: optional
-Description: Pwns In-app purchases on iOS 5.1.1 - 7.1 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
+Description: Pwns In-app purchases on iOS 5.1.1 - 14.8.1
 Author: anondev
 Name: LocalIAPStore
 
@@ -796,6 +795,25 @@ Size: 7260
 MD5sum: 817a3e57514a0a66105d1c26c1f59b0e
 SHA1: 693698e3d69e43be52e8a18c105737ee0ccbe09b
 SHA256: 99df0d01992f19f320fd23375b9b8946a0135bd5f3d66119210e8996e44f8e26
+Section: Tweaks
+Description: A safe ad-blocker for iOS
+Author: Paisseon
+Depiction: https://www.reddit.com/r/jailbreak/comments/smf3xv/free_release_shutupcr4shed_silence_cr4shed_jetsam/hw0ts19/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3
+Name: PaiBloxx
+Sileodepiction: https://paisseon.github.io/depictions/paibloxx.json
+
+Package: emt.paisseon.paibloxx
+Version: 0.5.2b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 172
+Depends: firmware (>= 13.0), com.bingner.plutil|plutil
+Conflicts: net.myxxdev.mybloxx10, net.myxxdev.mybloxx11, net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14, com.myxxdev.shutupcr4shed
+Filename: debs/emt.paisseon.paibloxx_0.5.2b_iphoneos-arm.deb
+Size: 7290
+MD5sum: ca5181178132ff16efef591fc5a8f064
+SHA1: 32dcb4c55613d8b3429e99de7b168a3e9fcf5ff3
+SHA256: e4119a81bb0abacf3243d7ecee82b66e8efd9c1f89d0316ad0f16c0f797d8e37
 Section: Tweaks
 Description: A safe ad-blocker for iOS
 Author: Paisseon
