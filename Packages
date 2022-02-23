@@ -439,6 +439,24 @@ Description: Pwns In-app purchases on iOS 5.1.1 - 14.8.1
 Author: anondev
 Name: LocalIAPStore
 
+Package: emt.paisseon.chocola
+Version: 0.1b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 412
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.mrgcgamer.libgcuniversal
+Filename: debs/emt.paisseon.chocola_0.1b_iphoneos-arm.deb
+Size: 42970
+MD5sum: 1cafdee9716332e347d7d7efe97dd2e4
+SHA1: f174ce66e8df8c330c164178d48efc065a52c5f6
+SHA256: dbed8dbf52355691f5c8520f02d5efc7e9a13b9150eb51a1fa5caeab96f239ed
+Section: Tweaks
+Description: Lightweight video wallpapers
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Name: Chocola
+Sileodepiction: https://paisseon.github.io/depictions/chocola.json
+
 Package: emt.paisseon.erika
 Version: 0.2-beta
 Architecture: iphoneos-arm

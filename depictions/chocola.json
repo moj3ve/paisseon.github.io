@@ -1,0 +1,115 @@
+{
+	"minVersion": "0.1",
+	"class": "DepictionTabView",
+	"tintColor": "#660066",
+	"headerImage": "https://paisseon.github.io/images/LiaDive.png",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"class": "DepictionStackView",
+			"tintColor": "#660066",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"title": "Description"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "(E)nekopara!",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "Features"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Home screen and lock screen sync up perfectly</li>\n<li>About as battery-efficient as such things go, I suppose</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "Known Issues"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Icons flash when viewing notification centre from the home screen</li>\n<li>Slight delay on resuming video play</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "Information"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Developer",
+					"text": "Paisseon"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Version",
+					"text": "0.1b"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Price",
+					"text": "Free"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 16
+				},
+				{
+					"class": "DepictionStackView",
+					"views": [
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Source Code",
+							"action": "https://github.com/Paisseon/Chocola",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "CyPwn's Discord",
+							"action": "https://discord.com/invite/cZ2gBRZvwW",
+							"openExternal": false
+						}
+					]
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 16
+				}
+			]
+		},
+		{
+			"tabname": "Changelog",
+			"class": "DepictionStackView",
+			"tintColor": "#660066",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.1b"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Initial beta release</li></ul>",
+					"useRawFormat": true
+				}
+			]
+		}
+	]
+}
