@@ -458,6 +458,25 @@ Icon: https://paisseon.github.io/icons/chocola.png
 Name: Chocola
 Sileodepiction: https://paisseon.github.io/depictions/chocola.json
 
+Package: emt.paisseon.chocola
+Version: 0.2b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 452
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.mrgcgamer.libgcuniversal
+Filename: debs/emt.paisseon.chocola_0.2b_iphoneos-arm.deb
+Size: 71694
+MD5sum: 5f3fa0d94af1fdec6b0e27a1a5eda5e1
+SHA1: 8f7910e225b840ea138430e58ef29fac085447f4
+SHA256: cef29db80785bc8d9725813140692645760ca3d4cbe4ff64b8fc9478960b817e
+Section: Tweaks
+Description: Lightweight video wallpapers
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Icon: https://paisseon.github.io/icons/chocola.png
+Name: Chocola
+Sileodepiction: https://paisseon.github.io/depictions/chocola.json
+
 Package: emt.paisseon.erika
 Version: 0.2-beta
 Architecture: iphoneos-arm
