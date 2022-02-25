@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "0.4b"
+					"text": "0.5b"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -98,6 +98,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#660066",
 			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.5b"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul><li>Add piracy detection bypass for Apollo</li>\n<li>Improvements to receipt generation</li></ul>",
+					"useRawFormat": true
+				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,

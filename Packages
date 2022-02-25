@@ -1005,6 +1005,26 @@ Icon: https://paisseon.github.io/icons/satella2.png
 Name: Satella 2
 Sileodepiction: https://paisseon.github.io/depictions/satella2.json
 
+Package: emt.paisseon.satella
+Version: 0.5b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_0.5b_iphoneos-arm.deb
+Size: 61170
+MD5sum: 056ac66c81b87e4f25b42a1b199a42b1
+SHA1: 12e5ea961db26c29e997fb968e9010faa0965043
+SHA256: 8f88aeaa50fe0c146dc5603f5d9da575d4213a8b3fd1effa66dea94fe59b49e9
+Section: Tweaks
+Description: Modern in-app purchase cracker
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Icon: https://paisseon.github.io/icons/satella2.png
+Name: Satella 2
+Sileodepiction: https://paisseon.github.io/depictions/satella2.json
+
 Package: emt.paisseon.ulysses
 Version: 1.0
 Architecture: iphoneos-arm
