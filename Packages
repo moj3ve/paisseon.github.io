@@ -439,6 +439,22 @@ Description: Pwns In-app purchases on iOS 5.1.1 - 14.8.1
 Author: anondev
 Name: LocalIAPStore
 
+Package: emt.paisseon.apollocrack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 104
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), emt.paisseon.satella (>= 0.5b)
+Filename: debs/emt.paisseon.apollocrack_1.0_iphoneos-arm.deb
+Size: 17650
+MD5sum: 8e95a3c0c31d6e351353844a1545c456
+SHA1: 0db1346e761234d8fc916232623cbb2a4c62c65d
+SHA256: 7a935ccef276d01c71668cedce2e3290fb594185601adfd26b22fe15e32ac2c5
+Section: Tweaks
+Description: Apollo Ultra for free. Please purchase Pro in a Crane container to support the developer!!
+Author: Paisseon
+Name: Apollo Crack
+
 Package: emt.paisseon.chocola
 Version: 0.1b
 Architecture: iphoneos-arm
