@@ -720,6 +720,25 @@ Icon: https://paisseon.github.io/icons/erika.png
 Name: Erika
 Sileodepiction: https://paisseon.github.io/depictions/erika.json
 
+Package: emt.paisseon.erika
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 580
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0), ws.hbang.common (>= 1.17)
+Filename: debs/emt.paisseon.erika_1.7_iphoneos-arm.deb
+Size: 108878
+MD5sum: 94ecb71f8698bb2bfbb92de1ffdb04d8
+SHA1: 5d7e5f4b6b17640c76396fa7089cb3922118d0b6
+SHA256: 884dfb9af246821ee031625e90dcc1b61df760920121190bba03f6147402f1da
+Section: Tweaks
+Description: Paid tweaks for free on Saily + Sileo
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Icon: https://paisseon.github.io/icons/erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/erika.json
+
 Package: emt.paisseon.icleaner
 Version: 0.0.2
 Architecture: iphoneos-arm
