@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>The official Swift successor to Satella</li>\n<li>Compatible with iOS 12.2-14.8.1 and all 64-bit iDevices</li>\n<li>Fast and lightweight</li>\n<li>Receipt generator and custom observer to increase success rate</li>\n<li>Choose which apps to inject Satella into</li>\n<li>Purchases have persistence and can even be restored on a non-jailbroken device using app data backups in iMazing, 3uTools, or i4Tools</li></ul>",
+					"markdown": "<ul>\n<li>The official Swift successor to Satella</li>\n<li>Compatible with iOS 12.2 - 14.8.1 and all 64-bit iDevices</li>\n<li>Fast and lightweight</li>\n<li>Receipt generator and custom observer to increase success rate</li>\n<li>Choose which apps to inject Satella into</li>\n<li>Purchases have persistence and can even be restored on a non-jailbroken device using app data backups in iMazing, 3uTools, or i4Tools</li>\n<li>Experimental support for in-app purchases in sideloaded apps</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Whether receipt generation works on iOS 14 seems to be completely random so good luck lol</li>\n<li>Server sided purchases, including most subscriptions, are incompatible with Satella 2.</li></ul>",
+					"markdown": "<ul>\n<li>Whether receipt generation works on iOS 14 seems to be completely random so good luck 🤷‍♀️</li>\n<li><b>Not every app is compatible.</b> If both Satella 2 and LocalIAPStore fail, assume the app is server-sided</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "0.5b"
+					"text": "1.0"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -98,6 +98,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#660066",
 			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul><li>Add option to hack in-app purchases on sideloaded apps</li>\n<li>We're out of beta, we're releasing on time 🎵</li></ul>",
+					"useRawFormat": true
+				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
